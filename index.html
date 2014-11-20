@@ -1,0 +1,148 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <title>Snippet Detector by MaryGeorgiou</title>
+
+    <link rel="stylesheet" href="stylesheets/styles.css">
+    <link rel="stylesheet" href="stylesheets/pygment_trac.css">
+    <script src="javascripts/scale.fix.js"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <h1 class="header">Snippet Detector</h1>
+        <p class="header"> origin https://github.com/MaryGeorgiou/SnippetDetector.git git push -u origin masteBased on a specific biomedical question and given the relevant documents to it, this system will attempt to detect the relevant snippets to the question in each of these documents.</p>
+
+        <ul>
+          <li class="download"><a class="buttons" href="https://github.com/MaryGeorgiou/SnippetDetector/zipball/master">Download ZIP</a></li>
+          <li class="download"><a class="buttons" href="https://github.com/MaryGeorgiou/SnippetDetector/tarball/master">Download TAR</a></li>
+          <li><a class="buttons github" href="https://github.com/MaryGeorgiou/SnippetDetector">View On GitHub</a></li>
+        </ul>
+
+        <p class="header">This project is maintained by <a class="header name" href="https://github.com/MaryGeorgiou">MaryGeorgiou</a></p>
+
+
+      </header>
+      <section>
+        <h1>
+<a id="project-duration-30-weeks" class="anchor" href="#project-duration-30-weeks" aria-hidden="true"><span class="octicon octicon-link"></span></a>Project Duration: 30 weeks</h1>
+
+<h3>
+<a id="1" class="anchor" href="#1" aria-hidden="true"><span class="octicon octicon-link"></span></a>1</h3>
+
+<ul>
+<li><a href="https://www.dropbox.com/s/bbtx7h7sz6x12cc/georgiou_msc_thesis_proposal.pdf">Project Proposal Report</a></li>
+<li><a href="https://www.dropbox.com/sh/i1i5euc9rzotgjf/AABAiROZybpMEwGeay3ieaZka%22%3ERelevant%20Work%20Study%3C/a%3E%3C/li">Relevant Work Study</a></li>
+</ul>
+
+<hr>
+
+<hr>
+
+<h3>
+<a id="2---studying-and-organizing-the-data" class="anchor" href="#2---studying-and-organizing-the-data" aria-hidden="true"><span class="octicon octicon-link"></span></a>2 - Studying and organizing the data</h3>
+
+<p>For the purposes of this thesis the benchmark datasets released by <a href="http://www.bioasq.org/">BioASQ </a> during the challenges of 2013 and 2014 will be used. These datasets contain 782 questions along with their relevant documents and snippets. The questions are distinguished in four categories:</p>
+
+<ul>
+<li>Yes/no Questions: The "exact" answer of such a question is either "yes" or "no". For instance,
+"Are there any DNMT3 proteins present in plants?" is a yes/no question.</li>
+<li>Factoid Questions: The "exact" answer of such a question is a named entity (e.g., a protein).
+For instance, "What is the methyl donor of DNA (cytosine-5)-methyltransferases?" is a
+factoid question.</li>
+<li>List Questions: The "exact" answer of such a question is a list of named entities (e.g., a
+list of named entities). For instance, "Which species may be used for the biotechnological
+production of itaconic acid?" is a list question</li>
+<li>Summary Questions: Such a question can be answered only with an "ideal" answer (i.e., they
+do not have an "exact" answer'). For instance, \How do histone methyltransferasescause
+histone modication?" is a summary question.</li>
+</ul>
+
+<p>In order to organize the data I decided to create the following java collection:
+<code>Map&lt;String, Map&lt;List&lt;String&gt;, SnippetInstance&gt;&gt; data</code>
+Where <code>SnippetInstance</code> is an Object which represents a set of snippets in a specific document, concerning a specific question. It contains:</p>
+
+<ul>
+<li>The Question body as a String</li>
+<li>The Question Id to which the snippets are relevant</li>
+<li>The Document Id to which the snippets belongs</li>
+<li>The Text of the above document (Collection)</li>
+</ul>
+
+<p>A snippet as marked by the experts have the following forms:</p>
+
+<ul>
+<li>It may be a whole sentence, starting with an uppercase character and ending with period (or questionmark e.t.c.).</li>
+<li>A part of a sentence</li>
+<li>A bunch of sentences where the first and the last is possible not to be complete.</li>
+</ul>
+
+<p>In order to be easier to process the above data the snippets were rounded into sentences according to the following process:</p>
+
+<ul>
+<li>Each snippet, as marked by the experts, was split into sentences with the Stanford sentence splitter.</li>
+<li>For each of the sentences (or sentence pieces) of the first step, the corresponding text sentence was found (the one that contained all the characters of that spesfic piece) and it was set as the "new snippet".</li>
+</ul>
+
+<p>For example:
+<strong>Snippet:</strong> on the next-generation sequencing instrument , at least 350 patients and relatives per run can be simultaneously analyzed in a fast , inexpensive manner.
+<strong>Sentence:</strong> By pooling patient genomic DNA before polymerase chain reaction enrichment , indexing samples with bar code tags , and re-sequencing on the next-generation sequencing instrument , at least 350 patients and relatives per run can be simultaneously analyzed in a fast , inexpensive manner .</p>
+
+<p>So the snippet is "rounded" to the sentence above and is used in this form.
+<strong>Training Data:</strong>
+Questions 280,
+Documents 3373,
+Sentences 34831,
+Snippets 4652,</p>
+
+<p><strong>Development Data:</strong>
+Questions 281,
+Documents 3540,
+Sentences 40586,
+Snippets 4000,</p>
+
+<p><strong>Test Data:</strong>
+Questions 480,
+Documents 6090,
+Sentences 65568,
+Snippets 7976,</p>
+
+<hr>
+
+<hr>
+
+<h3>
+<a id="3--decreasing-negative-instances" class="anchor" href="#3--decreasing-negative-instances" aria-hidden="true"><span class="octicon octicon-link"></span></a>3- Decreasing negative instances</h3>
+
+<p>One problem of the given data is the huge amount of negative instances (sentences that are not snippets).
+In order to decrease them I subtracted the sentences that have no common words with the query (without taking notice of the stopwords). The result is that for every document at least 10 negative sentences were deleted and very few snippets were lost.</p>
+
+<h3>
+<a id="4--baseline-implementation" class="anchor" href="#4--baseline-implementation" aria-hidden="true"><span class="octicon octicon-link"></span></a>4- Baseline Implementation</h3>
+
+<p>The idea is to compute the tf*idf score for every distinct lemma in the documents and then compute the cosine similarity between every question and document sentence. Afterward the goal is to find the score threshold that has the best results in recognizing the correct snippets. 
+<img src="http://i.imgur.com/ma036DH.png" alt="Cosine Similarity in Training Set"></p>
+
+<p>With the new Idf scores:
+<img src="http://i.imgur.com/ab1Pb2g.png" alt="Cosine Similarity in Training Set">
+<img src="http://i.imgur.com/h491OJV.png" alt="Cosine Similarity in Training Set"></p>
+
+<h3>
+<a id="5--features" class="anchor" href="#5--features" aria-hidden="true"><span class="octicon octicon-link"></span></a>5- Features</h3>
+
+<p>n</p>
+      </section>
+      <footer>
+        <p><small>Hosted on <a href="http://pages.github.com">GitHub Pages</a> using the Dinky theme</small></p>
+      </footer>
+    </div>
+    <!--[if !IE]><script>fixScale(document);</script><![endif]-->
+		
+  </body>
+</html>
