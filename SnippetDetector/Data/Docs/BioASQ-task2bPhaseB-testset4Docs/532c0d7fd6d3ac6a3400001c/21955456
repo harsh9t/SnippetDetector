@@ -1,0 +1,11 @@
+<title>
+Three-dimensional quantitative structure-activity relationship analyses of substrates of the human proton-coupled amino acid transporter 1 (hPAT1).
+</title>
+
+<text>
+
+<abstract>
+The proton-coupled amino acid transporter hPAT1 has recently gained much interest due to its ability to transport small drugs thereby allowing their oral administration. A three-dimensional quantitative structure-activity relationship (3D QSAR) study has been performed on its natural and synthetic substrates employing comparative molecular similarity indices analysis (CoMSIA) to investigate the structural requirements for substrates and to derive a predictive model that may be used for the design of new prodrugs. The cross-validated CoMSIA models have been derived from a training set of 40 compounds and the predictive ability of the resulting models has been evaluated against a test set of 10 compounds. Despite the relatively narrow range of binding affinities (K(i) values) reliable statistical models with good predictive power have been obtained. The best CoMSIA model in terms of a proper balance of all statistical terms and the overall contribution of individual properties has been obtained by considering steric, hydrophobic, hydrogen bond donor and acceptor descriptors (q(cv)(2)=0.683, r(2)=0.958 and r(PRED)(2)=0.666). The 3D QSAR model provides insight in the interactions between substrates and hPAT1 on the molecular level and allows the prediction of affinity constants of new compounds. A pharmacophore model has been generated from the training set by means of the MOE (molecular operating environment) program. This model has been used as a query for virtual screening to retrieve potential new substrates from the small-molecule, 'lead-like' databases of MOE. The affinities of the compounds were predicted and 11 compounds were identified as possible high-affinity substrates. Two selected compounds strongly inhibited the hPAT mediated l-[(3)H]proline uptake into Caco-2 cells constitutively expressing the transport protein.
+</abstract>
+
+</text>

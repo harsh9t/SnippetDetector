@@ -1,0 +1,594 @@
+<title>
+Serotonergic modulation of glutamate neurotransmission as a strategy for treating depression and cognitive dysfunction.
+</title>
+
+<text>
+
+<abstract>
+Monoamine-based treatments for depression have evolved greatly over the past several years, but shortcomings such as suboptimal efficacy, treatment lag, and residual cognitive dysfunction are still significant. Preclinical and clinical studies using compounds directly targeting glutamatergic neurotransmission present new opportunities for antidepressant treatment, with ketamine having a surprisingly rapid and sustained antidepressant effect that is presumably mediated through glutamate-dependent mechanisms. While direct modulation of glutamate transmission for antidepressant and cognition-enhancing actions may be hampered by nonspecific effects, indirect modulation through the serotonin (5-HT) system may be a viable alternative approach. Based on localization and function, 5-HT can modulate glutamate neurotransmission at least through the 5-HT1A, 5-HT1B, 5-HT3, and 5-HT7 receptors, which presents a rational pharmacological opportunity for modulating glutamatergic transmission without the direct use of glutamatergic compounds. Combining one or more of these glutamate-modulating 5-HT targets with 5-HT transporter inhibition may offer new therapeutic opportunities. The multimodal compounds vortioxetine and vilazodone are examples of this approach with diverse mechanisms, and their different clinical effects will provide valuable insights into serotonergic modulation of glutamate transmission for the potential treatment of depression and associated cognitive dysfunction.
+</abstract>
+
+<sections.0>
+Clinical mplications
+
+β€ignificant unmet needs exist in the treatment of major depressive disorder, such as suboptimal efficacy and residual cognitive dysfunction.β€ paradigm shift from the traditional monoamine therapeutics to approaches integrating glutamatergic function has occurred recently in antidepressant research, and has been especially fueled by the surprising rapid and sustained antidepressant effect of ketamine.β€e review the evidence that glutamate neurotransmission can be modulated indirectly by the 5- system through the 5-1, 5-1, 5-3, and 5-7 receptors, and discuss the therapeutic potential of a multimodal approach, combining one or more 5- receptor mechanisms with 5- reuptake inhibition.β€e review the available information for the two multimodal compounds vortioxetine and vilazodone, which are examples of this approach.Clinical Implications
+
+β€ΆSignificant unmet needs exist in the treatment of major depressive disorder, such as suboptimal efficacy and residual cognitive dysfunction.β€ΆA paradigm shift from the traditional monoamine therapeutics to approaches integrating glutamatergic function has occurred recently in antidepressant research, and has been especially fueled by the surprising rapid and sustained antidepressant effect of ketamine.β€ΆWe review the evidence that glutamate neurotransmission can be modulated indirectly by the 5-HT system through the 5-HT1A, 5-HT1B, 5-HT3, and 5-HT7 receptors, and discuss the therapeutic potential of a multimodal approach, combining one or more 5-HT receptor mechanisms with 5-HT reuptake inhibition.β€ΆWe review the available information for the two multimodal compounds vortioxetine and vilazodone, which are examples of this approach.
+</sections.0>
+
+<sections.1>
+Introduction
+ver the past 50 years, pharmacological treatments for major depressive disorder () have evolved from the older tricyclic antidepressants and monoamine oxidase inhibitors, to selective serotonin (5-) reuptake inhibitors () and serotonin and norepinephrine () reuptake inhibitors (s). n recent years, antidepressant combination therapies with multifunctional pharmacologic mechanisms have been used to enhance therapeutic outcomes.
+1
+ ome combinations include an  plus the 5-1 receptor and ² adrenergic receptor antagonist pindolol,
+2
+ or s augmented with atypical antipsychotics.
+3
+ espite these therapeutic evolutions, significant unmet needs still exist in treating depression, including improving suboptimal treatment response and remission rates, and cognitive impairments in domains such as memory, attention, executive function, and speed of processing.
+4
+
+,
+
+5
+ oreover, some cognitive disturbances may predict the development of mood disorders,
+6
+ and furthermore may persist beyond remission.
+7
+ ince cognitive dysfunction in depression contributes significantly to disability in some patients,
+8
+ its alleviation is an important goal.
+he glutamate system is the major excitatory neurotransmitter system in the brain and is essential for cognitive processing. n depressed patients, neurochemical assessments have found increased basal glutamate levels in serum or plasma,
+9
+
+β€“
+
+11
+ though changes in its levels in cerebrospinal fluid
+12
+
+,
+
+13
+ and brain tissue
+14
+
+,
+
+15
+ are somewhat inconsistent. ecent studies using magnetic resonance spectroscopy () in depressed patients have generally found reductions in , a combined measure of glutamate and glutamine, possibly suggesting that the total glutamatergic pool available for synaptic and metabolic activities is reduced in depression.
+16
+ owever, studies that have directly measured glutamate using  have also found inconsistent results, with some groups finding increases, decreases, or no change in glutamate concentrations.
+16
+ here is also evidence from studies of post-mortem brain tissue in depressed patients or suicide victims for altered expression of -methyl--aspartate () and ±-amino-3-hydroxy-5-methyl-4-isoxazole propionic acid () receptors.
+17
+
+β€“
+
+20
+ iven the complexity of glutamatergic neurotransmission and the diversity of these results, it is difficult to come to a definitive conclusion on the role of glutamate in the etiology of major depression at this time. n the future, information on functional single nucleotide polymorphisms related to the glutamate system may provide another valuable method of examining glutamate's role in this disease.
+onetheless, interest in the role of glutamate in depression is quickly accreting, primarily due to the observation that the noncompetitive  receptor antagonist ketamine engenders a fast and relatively long-lasting antidepressant effect.
+21
+ his observation has prompted a new focus in antidepressant development toward integrating glutamatergic function,
+22
+ leading to the suggestion of a wide range of glutamate targets for the treatment of depression.
+23
+
+,
+
+24
+
+
+5- neurotransmission is regulated both by the serotonin transporter (),
+25
+ which has been a target of antidepressants for the past 30 years, and by modulation via 5- receptor subtypes,
+26
+ some of which (such as the 5-1 receptor) may be independent therapeutic targets for the treatment of depression.
+27
+  substantial body of data shows that, in addition to modulating 5- neurotransmission, multiple 5- receptor subtypes can also modulate glutamate neurotransmission. his may be reflected in results from a recent preclinical study, which found that ketamine's fast antidepressant activity was abolished by 5- depletion,
+28
+ suggesting that these effects may be serotonin-dependent. hus, there may be an opportunity to integrate monoamine and glutamate strategies for treating depression.  new class of multimodal antidepressants has emerged, which, in addition to inhibiting the , also modulate 5- receptors,
+29
+
+,
+
+30
+ and may represent an example of this integrative strategy.
+n this review, we summarize the current knowledge of putative glutamatergic antidepressants, 5- receptor-mediated glutamate modulation, and current evidence that multimodal serotonergic antidepressants with indirectly modulating roles on glutamate transmission are active in treating lowered mood and impaired cognition.Introduction
+Over the past 50 years, pharmacological treatments for major depressive disorder (MDD) have evolved from the older tricyclic antidepressants and monoamine oxidase inhibitors, to selective serotonin (5-HT) reuptake inhibitors (SSRI) and serotonin and norepinephrine (NE) reuptake inhibitors (SNRIs). In recent years, antidepressant combination therapies with multifunctional pharmacologic mechanisms have been used to enhance therapeutic outcomes.
+1
+ Some combinations include an SSRI plus the 5-HT1A receptor and Ξ² adrenergic receptor antagonist pindolol,
+2
+ or SSRIs augmented with atypical antipsychotics.
+3
+ Despite these therapeutic evolutions, significant unmet needs still exist in treating depression, including improving suboptimal treatment response and remission rates, and cognitive impairments in domains such as memory, attention, executive function, and speed of processing.
+4
+
+,
+
+5
+ Moreover, some cognitive disturbances may predict the development of mood disorders,
+6
+ and furthermore may persist beyond remission.
+7
+ Since cognitive dysfunction in depression contributes significantly to disability in some patients,
+8
+ its alleviation is an important goal.
+The glutamate system is the major excitatory neurotransmitter system in the brain and is essential for cognitive processing. In depressed patients, neurochemical assessments have found increased basal glutamate levels in serum or plasma,
+9
+
+β€“
+
+11
+ though changes in its levels in cerebrospinal fluid
+12
+
+,
+
+13
+ and brain tissue
+14
+
+,
+
+15
+ are somewhat inconsistent. Recent studies using magnetic resonance spectroscopy (MRS) in depressed patients have generally found reductions in GLX, a combined measure of glutamate and glutamine, possibly suggesting that the total glutamatergic pool available for synaptic and metabolic activities is reduced in depression.
+16
+ However, studies that have directly measured glutamate using MRS have also found inconsistent results, with some groups finding increases, decreases, or no change in glutamate concentrations.
+16
+ There is also evidence from studies of post-mortem brain tissue in depressed patients or suicide victims for altered expression of N-methyl-D-aspartate (NMDA) and Ξ±-amino-3-hydroxy-5-methyl-4-isoxazole propionic acid (AMPA) receptors.
+17
+
+β€“
+
+20
+ Given the complexity of glutamatergic neurotransmission and the diversity of these results, it is difficult to come to a definitive conclusion on the role of glutamate in the etiology of major depression at this time. In the future, information on functional single nucleotide polymorphisms related to the glutamate system may provide another valuable method of examining glutamate's role in this disease.
+Nonetheless, interest in the role of glutamate in depression is quickly accreting, primarily due to the observation that the noncompetitive NMDA receptor antagonist ketamine engenders a fast and relatively long-lasting antidepressant effect.
+21
+ This observation has prompted a new focus in antidepressant development toward integrating glutamatergic function,
+22
+ leading to the suggestion of a wide range of glutamate targets for the treatment of depression.
+23
+
+,
+
+24
+
+
+5-HT neurotransmission is regulated both by the serotonin transporter (SERT),
+25
+ which has been a target of antidepressants for the past 30 years, and by modulation via 5-HT receptor subtypes,
+26
+ some of which (such as the 5-HT1A receptor) may be independent therapeutic targets for the treatment of depression.
+27
+ A substantial body of data shows that, in addition to modulating 5-HT neurotransmission, multiple 5-HT receptor subtypes can also modulate glutamate neurotransmission. This may be reflected in results from a recent preclinical study, which found that ketamine's fast antidepressant activity was abolished by 5-HT depletion,
+28
+ suggesting that these effects may be serotonin-dependent. Thus, there may be an opportunity to integrate monoamine and glutamate strategies for treating depression. A new class of multimodal antidepressants has emerged, which, in addition to inhibiting the SERT, also modulate 5-HT receptors,
+29
+
+,
+
+30
+ and may represent an example of this integrative strategy.
+In this review, we summarize the current knowledge of putative glutamatergic antidepressants, 5-HT receptor-mediated glutamate modulation, and current evidence that multimodal serotonergic antidepressants with indirectly modulating roles on glutamate transmission are active in treating lowered mood and impaired cognition.
+</sections.1>
+
+<sections.2>
+Antidepressant ffects by odulation of lutamate ransmission
+he glutamate receptors are divided into two major families: ionotropic and metabotropic glutamate receptors (m. GluRs). The ionotropic family includes NMDA, AMPA, and kainate receptors. The metabotropic family consists of Group I receptors (mGluR1 and mGluR5), which potentiate both presynaptic glutamate release and postsynaptic NMDA currents, and group II (mGluR2 and mGluR3) and Group III receptors (mGluR4, mGluR6, mGluR7, and mGluR8), which in general suppress glutamate function.
+31
+
+,
+
+32
+ Glutamate receptors are widely expressed in the brain, and some of them have been implicated in the treatment of depression.
+33
+ Preclinical and clinical compounds acting via these targets and showing potential antidepressant activity are listed in Table 1.Table 1Examples of glutamatergic compounds with antidepressant or antidepressant-like propertiesCompound examplesMechanism of actionDevelopment stageEffectsReferencesKetamineNMDA antagonistClinical useRapid (β�Ό4 h) antidepressant effect; sustained for up to 1 week
+35,149
+MemantineNMDA antagonistClinical useNo effect
+37
+LamotrigineInhibition of glutamate releaseClinical useAntidepressant properties in unipolar patients
+46,47
+RiluzoleIncrease in glutamate uptakeClinical useAntidepressant efficacy in treatment-resistant and bipolar depression
+48,49
+TraxoprodilNR2B antagonistClinical developmentAntidepressant effect in treatment-resistant depression after a single infusion, sustained up to 1 week
+36
+AniracetamAMPA potentiatorClinical developmentMemory-enhancing effects, antidepressant-like behavioral effects
+43,44,150
+LY392098AMPA potentiatorPreclinicalAntidepressant-like effects in the tail suspension and forced-swim tests
+151
+MPEPmGluR5 antagonistPreclinicalAntidepressant-like effects in the mouse tail-suspension and rat forced swim tests
+50
+LY341495mGluR2/3 antagonistPreclinicalAntidepressant-like effects; enhanced spatial memory
+52,152
+MGS0039mGluR2/3 antagonistPreclinicalAntidepressant-like effects
+51
+GlyX13NMDA receptor glycine site partial agonistPreclinicalAntidepressant-like effects
+153
+
+
+Over-activation of extrasynaptic NMDA receptors is one of several hypothesized glutamate-related pathophysiologies for depression.
+34
+ In support of this idea, the noncompetitive NMDA receptor antagonist ketamine at a single i.v. dosing shows rapid (β�Ό4 h) antidepressant effect that is sustained for up to 7 days in therapy-resistant depressed patients.
+35
+ This rate of onset is extremely fast compared to the 2-3 weeks that approved antidepressants require. A single infusion of a subtype selective NMDA NR2B antagonist traxoprodil has shown a robust separation from placebo in treatment-resistant depression (60% vs 20% response) with sustained effects up to 1 week.
+36
+ However memantine, a use-dependent NMDA receptor antagonist, has not demonstrated the same efficacy as ketamine, though it was not tested in the same paradigm as ketamine.
+37
+ Part of the mechanism for the antidepressant effect of ketamine may involve disinhibition of pyramidal cell firing as a result of the antagonism of NMDA receptors located on interneurons.
+38
+ However, it remains to be seen whether the NMDA receptor blockade alone mediates this fast antidepressant activity.
+In support of a role for AMPA receptors in treating depression, preclinical studies suggest that ketamine exerts its antidepressant-like effect through AMPA receptors,
+39
+ and that fast action is accompanied by rapid neuronal and synaptic adaptation.
+32
+
+,
+
+40
+ It is widely believed that neuroadaptive changes represent a key event during antidepressant treatment, and may play a role in the delayed onset of efficacy in traditional antidepressants.
+41
+
+,
+
+42
+ Thus, ketamine's rapid effects on neuroadaptation may be a key mechanism in its antidepressant effects, and may converge with the general actions of antidepressant treatments suggested in the past decades. Furthermore, the AMPA receptor potentiator aniracetam has shown an antidepressant-like profile.
+43
+
+,
+
+44
+ However, the clinical benefit of AMPA receptor potentiation in depression remains unsubstantiated.
+Lamotrigine, a modulator of glutamate release via its action on sodium and calcium channels, is approved for relapse prevention in bipolar disorder in the United States, and may have antidepressant properties in unipolar patients.
+45
+ Additionally, it may accelerate the rate of onset in combination with traditional antidepressants.
+46
+
+,
+
+47
+ Riluzole, which acts to rebalance glutamate levels by enhancing glutamate transport in astrocytes, has shown efficacy in treatment-resistant and bipolar depression.
+48
+
+,
+
+49
+ Further examples of targets in the glutamate system with antidepressant-like implications include mGluR2/3 and mGluR5 antagonists or negative allosteric modulators.
+50
+
+β€“
+
+52
+
+
+Thus, although there is evidence that drugs that negatively modulate some aspects of glutamate neurotransmission have antidepressant-like effects,
+50
+
+β€“
+
+52
+ there is also evidence that increasing other aspects of glutamate signaling can have antidepressant-like effects.
+43
+
+,
+
+44
+ It remains to be seen which variables are the true mediators of these effects. In comparison, the prominent role of glutamatergic neurotransmission in cognitive function is better understood. Antagonism of NMDA receptors
+53
+ as well as other experimental manipulations that reduce aspects of glutamatergic neurotransmission, such as antagonism at AMPA
+54
+ or mGlu5 receptors,
+55
+ are known to consistently impair function across a range of cognitive domains. Accordingly, the glutamatergic neurotransmitter system has become a common target in developing cognition-enhancing drugs,
+56
+ with the broad theme that increasing synaptic glutamate neurotransmission, for example using positive allosteric modulators at AMPA (AMPAkines
+57
+), mGluR5 (CDPPB
+58
+), or NMDA receptors (D-cycloserine
+59
+), improves cognitive function in rodent models. However, improving mood and cognition by directly modulating glutamatergic neurotransmission may be difficult, as excessive glutamatergic activation can lead to excitotoxic effects
+60
+ and cognitive impairment.
+61
+ Furthermore, the near-ubiquitous expression of glutamatergic receptors in the brain may hamper the specificity of drug development.
+Thus, a strategy to indirectly modulate glutamatergic neurotransmission in selected brain regions may be more advantageous. A recent preclinical report demonstrated that 5-HT depletion abolished ketamine's antidepressant-like activity, suggesting that 5-HT plays an important role in its action.
+28
+ Furthermore, multiple 5-HT receptors modulate glutamate neurotransmission. Taken together, these data make it reasonable to explore a strategy in which 5-HT receptor modulation can be used to alter glutamate neurotransmission in a manner that may improve both mood and cognitive function.
+</sections.2>
+
+<sections.3>
+Modulation of lutamate ransmission by 5- eceptors
+ere we discuss four 5- receptors known to be involved in the action of multimodal antidepressants that have been approved or are in the approval process, and which have the potential to modulate the glutamate system based on their localization and function.
+5-1 receptors. The 5-HT1A receptor is an inhibitory autoreceptor or heteroceptor located on serotonergic and other neurons, whose activation typically results in suppression of neuronal activity. The main function of presynaptic autoreceptors localized in the midbrain raphe nuclei is to self-regulate the function of the serotonergic system.
+62
+ Desensitization of these autoreceptors is believed to play an important role in the onset of action of SERT inhibitors.
+63
+
+,
+
+64
+ The antidepressant potential of 5-HT1A receptor agonism or partial agonism has been studied in both preclinical and clinical settings.
+65
+
+,
+
+66
+
+As postsynaptic heteroreceptors, 5-HT1A is localized in the hippocampus, septum, amygdala, and corticolimbic areas.
+67
+
+,
+
+68
+ Based on immunocytochemical studies, the 5-HT1A receptor is expressed in both pyramidal cells and GABAergic interneurons in the cortex and hippocampus.
+69
+ Unlike presynaptic 5-HT1A receptors, which mainly act through inhibition of adenylate cyclase, postsynaptic 5-HT1A receptors exert their inhibitory action through G protein-coupled inwardly rectifying K+ channels.
+70
+ Due to the inhibitory nature of GABAergic interneurons, stimulation of 5-HT1A receptors located on interneurons can paradoxically increase cortical pyramidal cell firing, although higher doses can suppress it, probably due to the action of 5-HT1A receptors on the pyramidal cells.
+71
+
+β€“
+
+73
+ Similarly, 5-HT1A receptor stimulation resulted in inhibition of GABAergic interneurons in the hippocampus.
+74
+ Thus, based on the localization of 5-HT1A receptors on both GABA and glutamate neurons (Figure 1), their activation may lead to either an increase or a decrease in glutamate neurotransmission depending on which subpopulations of 5-HT1A receptors are activated.Figure 1A schematic diagram of the hypothesized modulatory role of 5-HT receptors on glutamatergic neurotransmission. A glutamatergic pyramidal neuron and several GABA interneurons expressing the 5-HT3, 5-HT1A, 5-HT7, and 5-HT1B receptors on either dendrites or axon terminals are shown. The multimodal compounds vortioxetine and vilazodone and their possible sites of action are also shown. Note that 5-HT1A, 5-HT1B, and 5-HT7 receptors may be localized on different neuronal populations. Symbols used: VLA, vilazodone; VOR, vortioxetine.
+Based on the above interaction between effects mediated through the 5-HT1A receptor and glutamatergic neurons, agonists of the 5-HT1A receptor are predicted to have a memory-modulating role, and this has been demonstrated in various preclinical studies.
+75
+
+β€“
+
+77
+ The 5-HT1A receptor full agonist flesinoxan impairs working memory in a delayed conditional discrimination task in normal rats.
+78
+ Mixed results have been shown in a passive avoidance test in mice, in which pretreatment with flesinoxan either decreased or increased memory function, depending on when it was administered.
+79
+ In contrast, a memory-enhancing profile was consistently observed with 5-HT1A agonism in animals with learning and memory deficits. For example, the 5-HT1A receptor agonist 8-OH-DPAT reversed learning deficits induced by scopolamine and MK-801 in an autoshaping learning task.
+77
+ Interestingly, a postsynaptic-selective 5-HT1A receptor agonist F15599 was reported to improve working and reference memory in rats with phencyclidine-induced memory deficits.
+76
+
+,
+
+80
+ This seems consistent with the glutamatergic modulatory role of postsynaptic 5-HT1A heteroreceptors. Last, 5-HT1A receptor agonists, such as tandospirone, seem also to be able to alleviate the memory deficits induced by subchronic phencyclidine treatment.
+80
+
+Thus, based on the localization and function of 5-HT1A heteroreceptors, 5-HT1A receptor stimulation has the potential to enhance or suppress glutamatergic neurotransmission, and thus may also have biphasic effects on mood or cognitive function.5-HT1B receptorsLike the 5-HT1A receptors, 5-HT1B receptors are distributed as autoreceptors or heteroreceptors throughout the brain, in areas such as the ventral pallidum, globus pallidus, substantia nigra, dorsal subiculum cerebral cortex, and the hippocampus.
+81
+ Unlike the 5-HT1A autoreceptors, which are localized in somatodendritic regions of 5-HT neurons, 5-HT1B receptors are localized either presynaptically at nerve terminals or postsynaptically on dendrites.
+81
+
+β€“
+
+83
+ Postsynaptic 5-HT1B receptors are co-localized with NMDA or AMPA receptors on dentrites, and are thus well-positioned to modulate glutamate transmission.
+82
+
+,
+
+83
+ Recently, Cai etal
+84
+ demonstrated that 5-HT1B receptor agonism increases hippocampal excitatory field potentials through a CaM kinase-dependent pathway. In the dorsal subiculum, however, 5-HT1B receptors are localized on CA1 pyramidal axon terminals as inhibitory heteroceptors,
+85
+ and activation of these receptors attenuates glutamate transmission in the hippocampus due to its negative coupling to adenylate cyclase.
+86
+
+β€“
+
+88
+
+The 5-HT1B receptor has been implicated in the pathophysiology and treatment of depression.
+89
+
+,
+
+90
+ It has been shown that the 5-HT1B receptor agonist CP-94253 can modulate 5-HT synthesis in the Flinders Sensitive Line rat, an animal model of depression.
+91
+ In intracerebral microdialysis studies, stimulation of 5-HT1B receptors by RU 24969 potentiated the antidepressant-like effects of SSRIs and imipramine.
+92
+ Additionally, 5-HT1B receptor stimulation with the selective agonist CP-94253 in mice displayed an antidepressant-like profile in the forced swim test.
+90
+
+The 5-HT1B receptor may modulate learning and memory through a glutamatergic mechanism. Intrahippocampal microinjection of the 5-HT1B receptor agonist CP-93129 impairs spatial learning performance in the radial maze task.
+93
+ On the other hand, the 5-HT1B receptor antagonist SB-224289 enhanced memory consolidation during learning in an associative autoshaping learning task, and reversed the cognitive deficits induced by either the cholinergic inhibitor scopolamine or the NMDA receptor antagonist MK-801.
+94
+ In an aversive contextual learning task in mice, the 5-HT1B receptor antagonist NAS-181 dose-dependently improved passive avoidance retention.
+95
+
+Thus, 5-HT1B receptors may be able to positively or negatively modulate glutamate transmission and may be linked to the pathophysiology of depression. Due to the somewhat contrasting antidepressant-like properties of 5-HT1B receptor agonism and memory deficit-reducing effect of 5-HT1B receptor antagonism, a balance of stimulation versus blockade of this receptor may be needed. Based on this idea, a partial agonist for the 5-HT1B receptor may be a reasonable approach, although at the time of writing, the authors are not aware of any empirical investigations of the effects of 5-HT1B partial agonism on mood and cognitive function.5-HT3 receptorsAmong 5-HT receptors, the 5-HT3 receptor is the only known excitatory ion channel, and is expressed throughout the brain, including the following regions: (1) hippocampus; (2) amygdala; and (3) entorhinal, frontal, and cingulate cortices.
+96
+ Immunohistochemical studies show that 5-HT3 receptors are localized in postsynaptic dendrites, especially of GABAergic interneurons in cortical and hippocampal regions.
+97
+
+,
+
+98
+ These receptors function as a mechanism of 5-HT-mediated excitation of GABA neurons.
+97
+ In freely moving rats, the 5-HT3 receptor antagonist ondansetron significantly suppressed the firing rate of CA1 hippocampal GABAergic interneurons and concomitantly increased the firing rate of glutamatergic pyramidal cells by disinhibition.
+99
+ Consistent with the above, activation of 5-HT3 receptors can suppress both the spontaneous firing and NMDA-evoked responses of the pyramidal neurons in the rat medial prefrontal cortex.
+100
+
+,
+
+101
+ Thus, 5-HT3 receptor antagonism enhances glutamate transmission by reducing GABA-mediated inhibition, as illustrated in Figure 1.This mechanism may explain previous reports that 5-HT3 receptor antagonism by ondansetron enhances long-term potentiation (LTP) and hippocampal and cortical theta rhythms.
+102
+
+,
+
+103
+ Likewise, 5-HT3 receptor antagonists also improve memory
+102
+
+,
+
+104
+
+β€“
+
+107
+ in preclinical studies. For example, the 5-HT3 receptor antagonist itasetron showed memory-enhancing effects in a multiple-choice avoidance behavioral task,
+104
+ and ondansetron blocks scopolamine-induced deficits in learning.
+108
+ In addition to the previously mentioned effects on cognition, 5-HT3 receptor antagonists have antidepressant-like effects. The antagonists such as zacopride and ondansetron reversed helpless behavior in rats.
+109
+ Newer antagonists also show antidepressant-like activities in the forced swim test and in olfactory bulbectomized rats.
+110
+ 5-HT3 receptor antagonists also augment the effects of SSRIs.
+111
+
+,
+
+112
+
+In conclusion, 5-HT3 receptor antagonism shows antidepressant-like activity and increased cognitive function in preclinical studies, possibly through facilitation of glutamate neurotransmission by reducing the activity of inhibitory GABA neurons.5-HT7 receptorsThe 5-HT7 receptor is a G-protein-coupled receptor (GPCR) with positive coupling to adenylate cyclase, and is highly expressed in the brain, including the thalamus, hypothalamus, hippocampus, and cortex.
+113
+ In midbrain slices of rat brain containing the dorsal and median raphe nuclei, the mixed 5-HT receptor agonist 5-carboxamido-tryptamine inhibited glutamate release, and this was reversed by the 5-HT7 receptor antagonist SB-258719.
+114
+ Thus, 5-HT7 receptors in the axon terminals of the glutamatergic cortico-raphe neurons may serve as heteroreceptors that inhibit glutamate release.
+114
+
+,
+
+115
+ The 5-HT7 receptor is also expressed on the cell bodies of pyramidal neurons.
+116
+ In normal animals, activation of the 5-HT7 receptor leads to increased firing of glutamatergic neurons in the cortex
+117
+ and hippocampus.
+118
+ However, these effects on glutamatergic neurotransmission may be accompanied by increased inhibitory GABAergic transmission, likely due to expression in both pyramidal neurons and GABAergic interneurons. These concomitant effects were demonstrated in the hippocampus with an increase in the frequencies of both spontaneous inhibitory postsynaptic currents recorded in pyramidal neurons and spontaneous excitatory postsynaptic currents recorded in interneurons.
+119
+ Based on these data, 5-HT7 receptor activation has mixed effects on glutamatergic neurotransmission, but the overall effect in normal rodents appears to be excitatory.
+117
+ Importantly, this relationship may be altered in disease states, as 5-HT7 receptor activation in 6-hydroxydopamine-lesioned animals led to a net inhibition, rather than excitation, of pyramidal cell firing in the same study.
+117
+ Based on these results, 5-HT7 receptor antagonism may result in either increases or decreases in glutamatergic neurotransmission within the context of depression.Although the effects of 5-HT7 receptor modulation on glutamatergic neurotransmission are currently somewhat unclear, clear antidepressant-like activities of 5-HT7 antagonism have been reported in a number of preclinical studies. Treatment with the 5-HT7 receptor antagonist SB-269970 reduced immobility in the forced swim and tail suspension tests, and there was a further synergistic effect on extracellular 5-HT release in the frontal cortex when SB-269970 was combined with the SSRI citalopram.
+120
+ Therefore, the results from preclinical studies suggest that 5-HT7 receptor antagonism might be a novel strategy for treating depression.
+121
+
+,
+
+122
+
+Additionally, memory-enhancing effects of 5-HT7 antagonists have been shown in preclinical models
+123
+
+β€“
+
+126
+ and have been reviewed elsewhere.
+122
+ In cases where learning or memory was disrupted by NMDA antagonists such as phencyclidine or MK-801, 5-HT7 receptor antagonism consistently improved performance.
+123
+
+β€“
+
+125
+
+,
+
+127
+ Interestingly, combined 5-HT7 receptor antagonism and SERT inhibition produced a synergistic effect in a preclinical test of executive function.
+128
+
+These data support a modulatory role of 5-HT7 receptors on glutamate transmission as mentioned above. 5-HT7 receptor antagonism might be beneficial to cognitive function and antidepressant activity.
+</sections.3>
+
+<sections.4>
+Multimodal ntidepressants
+here are currently two multimodal compounds with clinically documented antidepressant activity: vilazodone, which is approved for clinical use in the .., and vortioxetine, which is undergoing regulatory review. iven the complexity of the serotonergic modulation of glutamate, it is not possible to predict the net effect that multimodal serotonergic compounds will have on glutamate neurotransmission. hus, the need for empirical data on the effects of these compounds on glutamate neurotransmission is paramount.
+ilazodone is a recently approved antidepressant with high affinities for the  (50 0.5 n. M) and 5-HT1A receptor (EC50 0.2 nM)
+129
+
+,
+
+130
+ (Table 2). Vilazodone is a partial agonist at the 5-HT1A receptor, but with a relatively high intrinsic activityβ€”69% of the magnitude of the full 5-HT1A receptor agonist 8-OH-DPAT.
+130
+ In preclinical studies, vilazodone seems to outperform the SSRIs paroxetine and fluoxetine, as measured by 5-HT release and ultrasonic vocalization. However, the fact that antidepressant-like effects are observed at moderate but not higher doses in the rat and mouse forced swim test may suggest that its 5-HT1A receptor partial agonism may inhibit the expression of rodent antidepressant-like behaviors.
+130
+
+,
+
+131
+ Vilazodone's potential to interact with glutamate neurotransmission is illustrated in Figure 1. The antidepressant efficacy of vilazodone was seen only in some of the clinical trials, partly due to the need to balance the higher dose (40 mg) needed versus the high rate of gastrointestinal side effect, and thus its efficacy and safety profiles in comparison to current antidepressants require further clinical evaluation.
+132
+
+,
+
+133
+
+Table 2Clinical compounds with serotonin (5-HT) transporter (SERT) inhibition plus activity at one or more 5-HT receptors linked to glutamatergic modulationVilazodoneVortioxetineTargetType of activityHuman IC50 (nM)Human Ki (nM)Rat Ki (nM)5-HT3
+Antagonist3.71.15-HT7
+Antagonist192005-HT1B
+Partial agonist33165-HT1A
+Agonist0.2 (69%)15 (full)230SERTInhibitor0.51.68.6References129112, 134, 135The in vitro pharmacological activities were from either binding or functional measurements. Numbers in parentheses denote agonist efficacy.
+
+Vortioxetine is an investigational multimodal antidepressant that acts as a 5-HT3, 5-HT7, and 5-HT1D receptor antagonist; 5-HT1B receptor partial agonist; 5-HT1A receptor agonist; and SERT inhibitor in vitro
+112
+
+,
+
+134
+
+,
+
+135
+ (Table 2). Its pharmacological profile indicates that vortioxetine has the potential to modulate glutamate transmission through all of the four 5-HT receptor pathways discussed above (Figure 1). Multiple reports of preclinical studies have shown the antidepressant-like activities of vortioxetine.
+112
+
+,
+
+134
+
+β€“
+
+138
+ Further, in clinical studies, its efficacy as an antidepressant has been demonstrated in several studies to date,
+139
+
+β€“
+
+145
+ although statistically significant separation from placebo has not been observed in every clinical trial.
+146
+
+,
+
+147
+ Recently, it was reported that vortioxetine enhanced time-dependent contextual fear memory and object recognition memory in rats.
+148
+ Additionally, 5-HT depletion-induced memory deficits were dose-dependently reversed by vortioxetine treatment,
+106
+ while escitalopram and duloxetine were inactive. These data strongly suggest that the receptor activities of vortioxetine contribute to its cognition-improving properties in rats.
+106
+ In further support of the relevance of the receptor mechanism, this study reported improved memory performance in rats by a selective 5-HT1A receptor agonist and a 5-HT3 receptor antagonist.
+106
+ Furthermore, a recent clinical study in elderly depressed patients showed a beneficial effect of vortioxetine compared to placebo in cognitive tests of processing speed, verbal learning, and memory.
+140
+ It should be noted that vortioxetine has a 10-fold lower in vitro affinity for rat 5-HT7 (Ki = 200 nM) compared with human 5-HT7 receptors (Ki = 19 nM), and a β�Ό15-fold lower affinity at rat 5-HT1A (Ki = 230 nM) compared with human 5-HT1A receptors (Ki = 15 nM)
+112
+ (Table 2). Thus, the contribution of the 5-HT7 and 5-HT1A receptors in the clinic may be underestimated by evaluation of preclinical models. Based on the current preclinical understanding of the mechanisms and the preclinical and clinical results, we hypothesize that vortioxetine's multimodal profile including 5-HT3 and 5-HT7 antagonism, 5-HT1B partial agonism, and 5-HT1A agonism could result in enhanced glutamate transmission and contribute to its antidepressant and cognitive enhancing properties (Figure 1). However, the way in which vortioxetine modulates glutamate transmission remains to be empirically determined.
+</sections.4>
+
+<sections.5>
+Conclusions
+harmacological treatments for major depressive disorder have evolved from monoamine-based therapies to integration of glutamatergic mechanisms. ata from current clinical and preclinical compounds targeting , , and m. GluR receptors and glutamate transport present new opportunities for the treatment of depression. The serotonergic system can modulate glutamate transmission through 5-HT3, 5-HT1A, 5-HT7, and 5-HT1B receptors. These 5-HT receptor targets present opportunities for integrating glutamatergic modulation into monoamine-based therapies, without the direct use of glutamatergic compounds. The multimodal compounds vilazodone and vortioxetine are examples of this approach with diverse mechanisms, to indirectly modulate glutamate transmission by respectively targeting the 5-HT1A receptor, or 5-HT3, 5-HT1A, 5-HT7, and 5-HT1B receptors along with the SERT. Clinical results with these multimodal compounds will provide valuable insights into whether exploiting serotonergic modulation of glutamate transmission is an effective strategy in treating depression.
+</sections.5>
+
+<sections.6>
+Disclosures
+he work by both authors was performed as full-time employees of undbeck at the time of the study. ortioxetine is currently under development by . undbeck / and the akeda harmaceutical ompany, td.Disclosures
+The work by both authors was performed as full-time employees of Lundbeck at the time of the study. Vortioxetine is currently under development by H. Lundbeck A/S and the Takeda Pharmaceutical Company, Ltd.
+</sections.6>
+
+</text>

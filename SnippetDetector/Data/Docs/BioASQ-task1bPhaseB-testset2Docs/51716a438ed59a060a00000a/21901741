@@ -1,0 +1,11 @@
+<title>
+Gene identification in prokaryotic genomes, phages, metagenomes, and EST sequences with GeneMarkS suite.
+</title>
+
+<text>
+
+<abstract>
+This unit describes how to use several gene-finding programs from the GeneMark line developed for finding protein-coding ORFs in genomic DNA of prokaryotic species, in genomic DNA of eukaryotic species with intronless genes, in genomes of viruses and phages, and in prokaryotic metagenomic sequences, as well as in EST sequences with spliced-out introns. These bioinformatics tools were demonstrated to have state-of-the-art accuracy and have been frequently used for gene annotation in novel nucleotide sequences. An additional advantage of these sequence-analysis tools is that the problem of algorithm parameterization is solved automatically, with parameters estimated by iterative self-training (unsupervised training).
+</abstract>
+
+</text>

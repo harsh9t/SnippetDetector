@@ -1,0 +1,11 @@
+<title>
+Predicting functional linkages from gene fusions with confidence.
+</title>
+
+<text>
+
+<abstract>
+Pairs of genes that function together in a pathway or cellular system can sometimes be found fused together in another organism as a Rosetta Stone protein--a fusion protein whose separate domains are homologous to the two functionally-related proteins. The finding of such a Rosetta Stone protein allows the prediction of a functional linkage between the component proteins. The significance of these deduced functional linkages, however, varies depending on the prevalence of each of the two domains. Here, we develop a statistical measure for the significance of predicted functional linkages, and test this measure for proteins of E. coli on a functional benchmark based on the KEGG database. By applying this statistical measure, proteins can be linked with over 70% accuracy. Using the Rosetta Stone method and this scoring scheme, we find all significant functional linkages for proteins of E. coli, P. horikshii and S. cerevisiae, and measure the extent of the resulting protein networks.
+</abstract>
+
+</text>

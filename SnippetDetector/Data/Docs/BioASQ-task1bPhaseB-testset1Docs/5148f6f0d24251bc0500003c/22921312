@@ -1,0 +1,11 @@
+<title>
+Development of a next-generation sequencing method for BRCA mutation screening: a comparison between a high-throughput and a benchtop platform.
+</title>
+
+<text>
+
+<abstract>
+In a clinical setting, next-generation sequencing (NGS) approaches for the enrichment and resequencing of DNA targets may have limitations in throughput, cost, or accuracy. We evaluated an NGS workflow for targeted DNA sequencing for mutation detection. Targeted sequence data of the BRCA1 and BRCA2 genes, generated using a PCR-based, multiplexed NGS approach using the SOLiD 4 (n = 24) and Ion Torrent PGM (n = 20) next-generation sequencers, were evaluated against sequence data obtained by Sanger sequencing. The overall sensitivity for SOLiD and PGM were 97.8% (95% CI = 94.7 to 100.0) and 98.9% (95% CI = 96.8 to 100.0) respectively. The specificity for the SOLiD platform was high, at 100.0% (95% CI = 99.3 to 100.0). PGM correctly identified all 3 indels, but 68 false-positive indels were also called. Equimolar normalization of amplicons was not necessary for successful NGS. Both platforms are highly amenable to scale-up, potentially reducing the reagent cost for BRCA testing to <US$200. Only 325 ng of DNA per patient is required, with similar coverage and accuracy obtained using DNA derived from peripheral blood or buccal wash samples. The strategy described is accurate and easy to incorporate into conventional workflow, and shows potential for mutation screening of clinically important gene targets in genetic disorders.
+</abstract>
+
+</text>

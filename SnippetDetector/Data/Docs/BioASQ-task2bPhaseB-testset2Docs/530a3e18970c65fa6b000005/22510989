@@ -1,0 +1,11 @@
+<title>
+The design of long-term effective uranium bioremediation strategy using a community metabolic model.
+</title>
+
+<text>
+
+<abstract>
+Acetate amendment at uranium contaminated sites in Rifle, CO. leads to an initial bloom of Geobacter accompanied by the removal of U(VI) from the groundwater, followed by an increase of sulfate-reducing bacteria (SRBs) which are poor reducers of U(VI). One of the challenges associated with bioremediation is the decay in Geobacter abundance, which has been attributed to the depletion of bio-accessible Fe(III), motivating the investigation of simultaneous amendments of acetate and Fe(III) as an alternative bioremediation strategy. In order to understand the community metabolism of Geobacter and SRBs during artificial substrate amendment, we have created a genome-scale dynamic community model of Geobacter and SRBs using the previously described Dynamic Multi-species Metabolic Modeling framework. Optimization techniques are used to determine the optimal acetate and Fe(III) addition profile. Field-scale simulation of acetate addition accurately predicted the in situ data. The simulations suggest that batch amendment of Fe(III) along with continuous acetate addition is insufficient to promote long-term bioremediation, while continuous amendment of Fe(III) along with continuous acetate addition is sufficient to promote long-term bioremediation. By computationally minimizing the acetate and Fe(III) addition rates as well as the difference between the predicted and target uranium concentration, we showed that it is possible to maintain the uranium concentration below the environmental safety standard while minimizing the cost of chemical additions. These simulations show that simultaneous addition of acetate and Fe(III) has the potential to be an effective uranium bioremediation strategy. They also show that computational modeling of microbial community is an important tool to design effective strategies for practical applications in environmental biotechnology.
+</abstract>
+
+</text>

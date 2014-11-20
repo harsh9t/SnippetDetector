@@ -1,0 +1,11 @@
+<title>
+A random forest classifier for lymph diseases.
+</title>
+
+<text>
+
+<abstract>
+Machine learning-based classification techniques provide support for the decision-making process in many areas of health care, including diagnosis, prognosis, screening, etc. Feature selection (FS) is expected to improve classification performance, particularly in situations characterized by the high data dimensionality problem caused by relatively few training examples compared to a large number of measured features. In this paper, a random forest classifier (RFC) approach is proposed to diagnose lymph diseases. Focusing on feature selection, the first stage of the proposed system aims at constructing diverse feature selection algorithms such as genetic algorithm (GA), Principal Component Analysis (PCA), Relief-F, Fisher, Sequential Forward Floating Search (SFFS) and the Sequential Backward Floating Search (SBFS) for reducing the dimension of lymph diseases dataset. Switching from feature selection to model construction, in the second stage, the obtained feature subsets are fed into the RFC for efficient classification. It was observed that GA-RFC achieved the highest classification accuracy of 92.2%. The dimension of input feature space is reduced from eighteen to six features by using GA.
+</abstract>
+
+</text>

@@ -1,0 +1,11 @@
+<title>
+A Web-based vital sign telemonitor and recorder for telemedicine applications.
+</title>
+
+<text>
+
+<abstract>
+We describe a vital sign telemonitor (VST) that acquires, records, displays, and provides readings such as: electrocardiograms (ECGs), temperature (T), and oxygen saturation (SaO2) over the Internet to any site. The design of this system consisted of three parts: sensors, analog signal processing circuits, and a user-friendly graphical user interface (GUI). The first part involved selection of appropriate sensors. For ECG, disposable Ag/AgCl electrodes; for temperature, LM35 precision temperature sensor; and for SaO2 the Nonin Oximetry Development Kit equipped with a finger clip were selected. The second part consisted of processing the analog signals obtained from these sensors. This was achieved by implementing suitable amplifiers and filters for the vital signs. The final part focused on development of a GUI to display the vital signs in the LabVIEW environment. From these measurements, important values such as heart rate (HR), beat-to-beat (RR) intervals, SaO2 percentages, and T in both degrees Celsius and Fahrenheit were calculated The GUI could be accessed through the Internet in a Web-page facilitating the possibility of real-time patient telemonitoring. The final system was completed and tested on volunteers with satisfactory results.
+</abstract>
+
+</text>

@@ -1,0 +1,11 @@
+<title>
+Integrating titania enrichment, iTRAQ labeling, and Orbitrap CID-HCD for global identification and quantitative analysis of phosphopeptides.
+</title>
+
+<text>
+
+<abstract>
+Recent advances in MS instrumentation and progresses in phosphopeptide enrichment, in conjunction with more powerful data analysis tools, have facilitated unbiased characterization of thousands of site-specific phosphorylation events. Combined with stable isotope labeling by amino acids in cell culture metabolic labeling, these techniques have made it possible to quantitatively evaluate phosphorylation changes in various physiological states in stable cell lines. However, quantitative phosphoproteomics in primary cells and tissues remains a major technical challenge due to the lack of adequate techniques for accurate quantification. Here, we describe an integrated strategy allowing for large scale quantitative profiling of phosphopeptides in complex biological mixtures. In this technique, the mixture of proteolytic peptides was subjected to phosphopeptide enrichment using a titania affinity column, and the purified phosphopeptides were subsequently labeled with iTRAQ reagents. After further fractionation by strong-cation exchange, the peptides were analyzed by LC-MS/MS on an Orbitrap mass spectrometer, which collects CID and high-energy collisional dissociation (HCD) spectra sequentially for peptide identification and quantitation. We demonstrate that direct phosphopeptide enrichment of protein digests by titania affinity chromatography substantially improves the efficiency and reproducibility of phosphopeptide proteomic analysis and is compatible with downstream iTRAQ labeling. Conditions were optimized for HCD normalized collision energy to balance the overall peptide identification and quantitation using the relative abundances of iTRAQ reporter ions. Using this approach, we were able to identify 3557 distinct phosphopeptides from HeLa cell lysates, of which 2709 were also quantified from HCD scans.
+</abstract>
+
+</text>

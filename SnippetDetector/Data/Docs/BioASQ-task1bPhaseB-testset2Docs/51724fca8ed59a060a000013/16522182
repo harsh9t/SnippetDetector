@@ -1,0 +1,11 @@
+<title>
+A novel Markov pairwise protein sequence alignment method for sequence comparison.
+</title>
+
+<text>
+
+<abstract>
+The Smith-Waterman (SW) algorithm is a typical technique for local sequence alignment in computational biology. However, the SW algorithm does not consider the local behaviours of the amino acids, which may result in loss of some useful information. Inspired by the success of Markov Edit Distance (MED) method, this paper therefore proposes a novel Markov pairwise protein sequence alignment (MPPSA) method that takes the local context dependencies into consideration. The numerical results have shown its superiority to the SW for pairwise protein sequence comparison.
+</abstract>
+
+</text>

@@ -1,0 +1,11 @@
+<title>
+TMBHMM: a frequency profile based HMM for predicting the topology of transmembrane beta barrel proteins and the exposure status of transmembrane residues.
+</title>
+
+<text>
+
+<abstract>
+Transmembrane beta barrel (TMB) proteins are found in the outer membranes of bacteria, mitochondria and chloroplasts. TMBs are involved in a variety of functions such as mediating flux of metabolites and active transport of siderophores, enzymes and structural proteins, and in the translocation across or insertion into membranes. We present here TMBHMM, a computational method based on a hidden Markov model for predicting the structural topology of putative TMBs from sequence. In addition to predicting transmembrane strands, TMBHMM also predicts the exposure status (i.e., exposed to the membrane or hidden in the protein structure) of the residues in the transmembrane region, which is a novel feature of the TMBHMM method. Furthermore, TMBHMM can also predict the membrane residues that are not part of beta barrel forming strands. The training of the TMBHMM was performed on a non-redundant data set of 19 TMBs. The self-consistency test yielded Q(2) accuracy of 0.87, Q(3) accuracy of 0.83, Matthews correlation coefficient of 0.74 and SOV for beta strand of 0.95. In this self-consistency test the method predicted 83% of transmembrane residues with correct exposure status. On an unseen, non-redundant test data set of 10 proteins, the 2-state and 3-state TMBHMM prediction accuracies are around 73% and 72%, respectively, and are comparable to other methods from the literature. The TMBHMM web server takes an amino acid sequence or a multiple sequence alignment as an input and predicts the exposure status and the structural topology as output. The TMBHMM web server is available under the tmbhmm tab at: http://service.bioinformatik.uni-saarland.de/tmx-site/.
+</abstract>
+
+</text>

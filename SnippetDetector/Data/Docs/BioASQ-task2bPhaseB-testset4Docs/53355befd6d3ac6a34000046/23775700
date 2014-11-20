@@ -1,0 +1,11 @@
+<title>
+DockTrina: docking triangular protein trimers.
+</title>
+
+<text>
+
+<abstract>
+In spite of the abundance of oligomeric proteins within a cell, the structural characterization of protein-protein interactions is still a challenging task. In particular, many of these interactions involve heteromeric complexes, which are relatively difficult to determine experimentally. Hence there is growing interest in using computational techniques to model such complexes. However, assembling large heteromeric complexes computationally is a highly combinatorial problem. Nonetheless the problem can be simplified greatly by considering interactions between protein trimers. After dimers and monomers, triangular trimers (i.e. trimers with pair-wise contacts between all three pairs of proteins) are the most frequently observed quaternary structural motifs according to the three-dimensional (3D) complex database. This article presents DockTrina, a novel protein docking method for modeling the 3D structures of nonsymmetrical triangular trimers. The method takes as input pair-wise contact predictions from a rigid body docking program. It then scans and scores all possible combinations of pairs of monomers using a very fast root mean square deviation test. Finally, it ranks the predictions using a scoring function which combines triples of pair-wise contact terms and a geometric clash penalty term. The overall approach takes less than 2 min per complex on a modern desktop computer. The method is tested and validated using a benchmark set of 220 bound and seven unbound protein trimer structures. DockTrina will be made available at http://nano-d.inrialpes.fr/software/docktrina.
+</abstract>
+
+</text>

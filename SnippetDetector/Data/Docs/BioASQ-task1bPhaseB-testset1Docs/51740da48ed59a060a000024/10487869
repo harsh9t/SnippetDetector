@@ -1,0 +1,11 @@
+<title>
+GeneBuilder: interactive in silico prediction of gene structure.
+</title>
+
+<text>
+
+<abstract>
+MOTIVATION: Prediction of gene structure in newly sequenced DNA becomes very important in large genome sequencing projects. This problem is complicated due to the exon-intron structure of eukaryotic genes and because gene expression is regulated by many different short nucleotide domains. In order to be able to analyse the full gene structure in different organisms, it is necessary to combine information about potential functional signals (promoter region, splice sites, start and stop codons, 3' untranslated region) together with the statistical properties of coding sequences (coding potential), information about homologous proteins, ESTs and repeated elements. RESULTS: We have developed the GeneBuilder system which is based on prediction of functional signals and coding regions by different approaches in combination with similarity searches in proteins and EST databases. The potential gene structure models are obtained by using a dynamic programming method. The program permits the use of several parameters for gene structure prediction and refinement. During gene model construction, selecting different exon homology levels with a protein sequence selected from a list of homologous proteins can improve the accuracy of the gene structure prediction. In the case of low homology, GeneBuilder is still able to predict the gene structure. The GeneBuilder system has been tested by using the standard set (Burset and Guigo, Genomics, 34, 353-367, 1996) and the performances are: 0.89 sensitivity and 0.91 specificity at the nucleotide level. The total correlation coefficient is 0.88. AVAILABILITY: The GeneBuilder system is implemented as a part of the WebGene a the URL: http://www.itba.mi. cnr.it/webgene and TRADAT (TRAncription Database and Analysis Tools) launcher URL: http://www.itba.mi.cnr.it/tradat.
+</abstract>
+
+</text>

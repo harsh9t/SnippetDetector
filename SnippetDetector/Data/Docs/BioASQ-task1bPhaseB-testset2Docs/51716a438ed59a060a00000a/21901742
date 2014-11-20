@@ -1,0 +1,11 @@
+<title>
+Eukaryotic gene prediction using GeneMark.hmm-E and GeneMark-ES.
+</title>
+
+<text>
+
+<abstract>
+This unit describes how to use the gene-finding programs GeneMark.hmm-E and GeneMark-ES for finding protein-coding genes in the genomic DNA of eukaryotic organisms. These bioinformatics tools have been demonstrated to have state-of-the-art accuracy for many fungal, plant, and animal genomes, and have frequently been used for gene annotation in novel genomic sequences. An additional advantage of GeneMark-ES is that the problem of algorithm parameterization is solved automatically, with parameters estimated by iterative self-training (unsupervised training).
+</abstract>
+
+</text>

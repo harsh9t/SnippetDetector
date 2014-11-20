@@ -1,0 +1,11 @@
+<title>
+Genome-scale comparative analysis of gene fusions, gene fissions, and the fungal tree of life.
+</title>
+
+<text>
+
+<abstract>
+During the course of evolution genes undergo both fusion and fission by which ORFs are joined or separated. These processes can amend gene function and represent an important factor in the evolution of protein interaction networks. Gene fusions have been suggested to be useful characters for identifying evolutionary relationships because they constitute synapomorphies or cladistic characters. To investigate the fidelity of gene-fusion characters, we developed an approach for identifying differentially distributed gene fusions among whole-genome datasets: fdfBLAST. Applying this tool to the Fungi, we identified 63 gene fusions present in two or more genomes. Using a combination of phylogenetic and comparative genomic analyses, we then investigated the evolution of these genes across 115 fungal genomes, testing each gene fusion for evidence of homoplasy, including gene fission, convergence, and horizontal gene transfer. These analyses demonstrated 110 gene-fission events. We then identified a minimum of three mechanisms that drive gene fission: separation, degeneration, and duplication. These data suggest that gene fission plays an important and hitherto underestimated role in gene evolution. Gene fusions therefore are highly labile characters, and their use for polarizing evolutionary relationships, without reference to gene and species phylogenies, is limited. Accounting for these considerable sources of homoplasy, we identified fusion characters that provide support for multiple nodes in the phylogeny of the Fungi, including relationships within the deeply derived flagellum-forming fungi (i.e., the chytrids).
+</abstract>
+
+</text>

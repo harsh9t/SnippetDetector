@@ -1,0 +1,11 @@
+<title>
+Struct2net: integrating structure into protein-protein interaction prediction.
+</title>
+
+<text>
+
+<abstract>
+UNLABELLED: This paper presents a framework for predicting protein-protein interactions (PPI) that integrates structure-based information with other functional annotations, e.g. GO, co-expression and co-localization, etc., Given two protein sequences, the structure-based interaction prediction technique threads these two sequences to all the protein complexes in the PDB and then chooses the best potential match. Based on this match, structural information is incorporated into logistic regression to evaluate the probability of these two proteins interacting. This paper also describes a random forest classifier which can effectively combine the structure-based prediction results and other functional annotations together to predict protein interactions. Experimental results indicate that the predictive power of the structure-based method is better than many other information sources. Also, combining the structure-based method with other information sources allows us to achieve a better performance than when structure information is not used. We also tested our method on a set of approximately 1000 yeast genes and, interestingly, the predicted interaction network is a scale-free network. Our method predicted some potential interactions involving yeast homologs of human disease-related proteins. SUPPLEMENTARY INFORMATION: http://theory.csail.mit.edu/struct2net
+</abstract>
+
+</text>

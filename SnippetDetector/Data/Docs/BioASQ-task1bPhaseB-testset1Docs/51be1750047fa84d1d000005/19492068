@@ -1,0 +1,11 @@
+<title>
+Mercury BLASTP: Accelerating Protein Sequence Alignment.
+</title>
+
+<text>
+
+<abstract>
+Large-scale protein sequence comparison is an important but compute-intensive task in molecular biology. BLASTP is the most popular tool for comparative analysis of protein sequences. In recent years, an exponential increase in the size of protein sequence databases has required either exponentially more running time or a cluster of machines to keep pace. To address this problem, we have designed and built a high-performance FPGA-accelerated version of BLASTP, Mercury BLASTP. In this paper, we describe the architecture of the portions of the application that are accelerated in the FPGA, and we also describe the integration of these FPGA-accelerated portions with the existing BLASTP software. We have implemented Mercury BLASTP on a commodity workstation with two Xilinx Virtex-II 6000 FPGAs. We show that the new design runs 11-15 times faster than software BLASTP on a modern CPU while delivering close to 99% identical results.
+</abstract>
+
+</text>

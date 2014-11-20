@@ -1,0 +1,11 @@
+<title>
+Evaluating template-based and template-free protein-protein complex structure prediction.
+</title>
+
+<text>
+
+<abstract>
+We compared the performance of template-free (docking) and template-based methods for the prediction of protein-protein complex structures. We found similar performance for a template-based method based on threading (COTH) and another template-based method based on structural alignment (PRISM). The template-based methods showed similar performance to a docking method (ZDOCK) when the latter was allowed one prediction for each complex, but when the same number of predictions was allowed for each method, the docking approach outperformed template-based approaches. We identified strengths and weaknesses in each method. Template-based approaches were better able to handle complexes that involved conformational changes upon binding. Furthermore, the threading-based and docking methods were better than the structural-alignment-based method for enzyme-inhibitor complex prediction. Finally, we show that the near-native (correct) predictions were generally not shared by the various approaches, suggesting that integrating their results could be the superior strategy.
+</abstract>
+
+</text>

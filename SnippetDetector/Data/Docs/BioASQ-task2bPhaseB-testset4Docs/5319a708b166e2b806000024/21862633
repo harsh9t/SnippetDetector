@@ -1,0 +1,11 @@
+<title>
+Estrogen-dependent gene transcription in human breast cancer cells relies upon proteasome-dependent monoubiquitination of histone H2B.
+</title>
+
+<text>
+
+<abstract>
+The estrogen receptor-α (ERα) determines the phenotype of breast cancers where it serves as a positive prognostic indicator. ERα is a well-established target for breast cancer therapy, but strategies to target its function remain of interest to address therapeutic resistance and further improve treatment. Recent findings indicate that proteasome inhibition can regulate estrogen-induced transcription, but how ERα function might be regulated was uncertain. In this study, we investigated the transcriptome-wide effects of the proteasome inhibitor bortezomib on estrogen-regulated transcription in MCF7 human breast cancer cells and showed that bortezomib caused a specific global decrease in estrogen-induced gene expression. This effect was specific because gene expression induced by the glucocorticoid receptor was unaffected by bortezomib. Surprisingly, we observed no changes in ERα recruitment or assembly of its transcriptional activation complex on ERα target genes. Instead, we found that proteasome inhibition caused a global decrease in histone H2B monoubiquitination (H2Bub1), leading to transcriptional elongation defects on estrogen target genes and to decreased chromatin dynamics overall. In confirming the functional significance of this link, we showed that RNA interference-mediated knockdown of the H2B ubiquitin ligase RNF40 decreased ERα-induced gene transcription. Surprisingly, RNF40 knockdown also supported estrogen-independent cell proliferation and activation of cell survival signaling pathways. Most importantly, we found that H2Bub1 levels decrease during tumor progression. H2Bub1 was abundant in normal mammary epithelium and benign breast tumors but absent in most malignant and metastatic breast cancers. Taken together, our findings show how ERα activity is blunted by bortezomib treatment as a result of reducing the downstream ubiquitin-dependent function of H2Bub1. In supporting a tumor suppressor role for H2Bub1 in breast cancer, our findings offer a rational basis to pursue H2Bub1-based therapies for future management of breast cancer.
+</abstract>
+
+</text>

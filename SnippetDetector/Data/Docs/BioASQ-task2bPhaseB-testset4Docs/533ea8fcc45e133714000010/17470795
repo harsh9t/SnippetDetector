@@ -1,0 +1,11 @@
+<title>
+A highly efficient form of the selenocysteine insertion sequence element in protozoan parasites and its use in mammalian cells.
+</title>
+
+<text>
+
+<abstract>
+Selenoproteins are an elite group of proteins containing a rare amino acid, selenocysteine (Sec), encoded by the codon, UGA. In eukaryotes, incorporation of Sec requires a Sec insertion sequence (SECIS) element, a stem-loop structure located in the 3'-untranslated regions of selenoprotein mRNAs. Here we report identification of a noncanonical form of SECIS element in Toxoplasma gondii and Neospora canine, single-celled apicomplexan parasites of humans and domestic animals. This SECIS has a GGGA sequence in the SBP2-binding site in place of AUGA previously considered invariant. Using a combination of computational and molecular techniques, we show that Toxoplasma and Neospora possess both canonical and noncanonical SECIS elements. The GGGA-type SECIS element supported Sec insertion in mammalian HEK 293 and NIH 3T3 cells and did so more efficiently than the natural mammalian SECIS elements tested. In addition, mammalian type I and type II SECIS elements mutated into the GGGA forms were functional but manifested decreased Sec insertion efficiency. We carried out computational searches for both AUGA and GGGA forms of SECIS elements in Toxoplasma and detected five selenoprotein genes, including one coding for a previously undescribed selenoprotein, designated SelQ, and two containing the GGGA form of the SECIS element. In contrast, the GGGA-type SECIS elements were not detected in mammals and nematodes. As a practical outcome of the study, we developed pSelExpress1, a vector for convenient expression of selenoproteins in mammalian cells. It contains an SBP2 gene and the most efficient tested SECIS element: an AUGA mutant of the GGGA-type Toxoplasma SelT structure.
+</abstract>
+
+</text>

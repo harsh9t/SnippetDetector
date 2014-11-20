@@ -1,0 +1,11 @@
+<title>
+Phat--a gene finding program for Plasmodium falciparum.
+</title>
+
+<text>
+
+<abstract>
+We describe and assess the performance of the gene finding program pretty handy annotation tool (Phat) on sequence from the malaria parasite Plasmodium falciparum. Phat is based on a generalized hidden Markov model (GHMM) similar to the models used in GENSCAN, Genie and HMMgene. In a test set of 44 confirmed gene structures Phat achieves nucleotide-level sensitivity and specificity of greater than 95%, performing as well as the other P. falciparum gene finding programs Hexamer and GlimmerM. Phat is particularly useful for P. falciparum and other eukaryotes for which there are few gene finding programs available as it is distributed with code for retraining it on new organisms. Moreover, the full source code is freely available under the GNU General Public License, allowing for users to further develop and customize it.
+</abstract>
+
+</text>

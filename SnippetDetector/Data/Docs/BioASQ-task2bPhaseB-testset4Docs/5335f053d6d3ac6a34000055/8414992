@@ -1,0 +1,11 @@
+<title>
+rseB, a chromosomal locus that affects the stability of a temperature-specific surface protein mRNA in Tetrahymena thermophila.
+</title>
+
+<text>
+
+<abstract>
+In Tetrahymena thermophila, the expression of a temperature-specific surface protein known as SerH3 is primarily controlled by a temperature-dependent change in the stability of the mRNA that encodes this protein. At 30 degrees C the SerH3 mRNA displays a half-life of 60 minutes while at 40 degrees C the half-life decreases to only 3 minutes. We used a Tetrahymena mutant cell line (rseB) defective in expression of SerH3 at 30 degrees C to explore the mechanisms involved in temperature-dependent mRNA stability. The results of in vitro nuclear run-off assays and Northern and slot blot analysis of cytoplasmic and nuclear RNAs show that the rseB locus encodes a temperature-sensitive product that has no effect on SerH3 gene transcription or the steady-state levels of SerH3 nuclear RNA. However, the product of this locus does have a dramatic effect on cytoplasmic levels of the SerH3 mRNA at 30 degrees C, indicating that SerH3 gene expression is affected post-transcriptionally within the cytoplasm. To explore the possibility that the rseB locus controls SerH3 mRNA stability we developed an in vitro mRNA decay assay. This assay successfully duplicates the differential decay of the SerH3 mRNA observed in wild-type cells grown at different temperatures. The apparent half-life of the SerH3 mRNA in cytoplasmic extracts derived from cells grown at 30 degrees C is approximately 45 minutes while in cytoplasmic extracts derived from cells grown at 40 degrees C it is only 6 minutes. When similar experiments are performed using extracts prepared from the Tetrahymena rseB cell line, we find that the SerH3 mRNA is only stable in extract prepared from cells grown under conditions in which the mRNA accumulates to detectable levels in the cytoplasm. These results indicate that the product of the rseB locus is a trans-acting cytoplasmic factor that exerts its effect on SerH3 gene expression by regulating SerH3 mRNA stability.
+</abstract>
+
+</text>

@@ -1,0 +1,11 @@
+<title>
+VinaMPI: facilitating multiple receptor high-throughput virtual docking on high-performance computers.
+</title>
+
+<text>
+
+<abstract>
+The program VinaMPI has been developed to enable massively large virtual drug screens on leadership-class computing resources, using a large number of cores to decrease the time-to-completion of the screen. VinaMPI is a massively parallel Message Passing Interface (MPI) program based on the multithreaded virtual docking program AutodockVina, and is used to distribute tasks while multithreading is used to speed-up individual docking tasks. VinaMPI uses a distribution scheme in which tasks are evenly distributed to the workers based on the complexity of each task, as defined by the number of rotatable bonds in each chemical compound investigated. VinaMPI efficiently handles multiple proteins in a ligand screen, allowing for high-throughput inverse docking that presents new opportunities for improving the efficiency of the drug discovery pipeline. VinaMPI successfully ran on 84,672 cores with a continual decrease in job completion time with increasing core count. The ratio of the number of tasks in a screening to the number of workers should be at least around 100 in order to have a good load balance and an optimal job completion time. The code is freely available and downloadable. Instructions for downloading and using the code are provided in the Supporting Information.
+</abstract>
+
+</text>

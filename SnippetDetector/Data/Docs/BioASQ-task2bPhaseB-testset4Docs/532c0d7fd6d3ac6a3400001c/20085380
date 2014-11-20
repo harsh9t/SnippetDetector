@@ -1,0 +1,11 @@
+<title>
+Virtual screening and drug design for PDE-5 receptor from traditional Chinese medicine database.
+</title>
+
+<text>
+
+<abstract>
+Erectile dysfunction (ED) is a sexual disorder mainly caused by decrease in cellular concentration of cyclic guanosine monophosphate (cGMP), which is degraded by phosphodiesterase type-5 (PDE-5). As a potent therapeutic target, inhibitors such as Viagra , Cialis, and Levitra have already been developed to target PDE-5 for treating ED; traditional Chinese medicine, Epimedium sagittatum, also has shown prominent results as well. To developed new PDE-5 inhibitors, we performed a virtual screening of traditional Chinese medicine (TCM) database and docking analyses to identify candidates. Known PDE-5 inhibitors were used to construct a three dimensional quantitative structure-activity relationship (3D QSAR) model by HypoGen program. From docking analyses, isochlorogenic acid b was identified as the most potential inhibitory compound. De novo evolution designed 47 derivatives. Of the 47 derivatives, seven were able to map into the pharmacophore model, and these seven compounds were suggested to be the most promising leads for inhibiting PDE-5. An analysis of the hydrogen bond interactions formed between the docked ligands and PDE-5 identified ASN662, SER663 and GLN817 as the most frequently interacting residues. A total of eight novel leading compounds were identified to have favorable interaction with PDE-5. These compounds all had hydrogen bond interactions with three key residues that could be further investigated for understanding of PDE-5 and ligands interaction.
+</abstract>
+
+</text>

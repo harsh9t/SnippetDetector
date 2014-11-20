@@ -1,0 +1,11 @@
+<title>
+Pharmacophores incorporating numerous excluded volumes defined by X-ray crystallographic structure in three-dimensional database searching: application to the thyroid hormone receptor.
+</title>
+
+<text>
+
+<abstract>
+In the present study we investigate whether augmentation of pharmacophores with excluded (ligand-inaccessible) volumes can condense the lengthy unspecific hit lists often obtained in 3D-database searching. Our pharmacophores contained hydrophobic features defined by the hormone, hydrogen bond donor and acceptor features of the liganded rat THR-alpha X-ray structure, and excluded volumes located at the positions and scaled according to the sizes of atoms delineating the binding cavity. We now show, for the first time, that it is perfectly feasible with the Catalyst software to search, in 1-2 h, medium-sized databases such as Maybridge (with 5 x 10(5) compounds registered as multiple conformers) with pharmacophores containing numerous (approximately 10(2)) excluded volumes. The excluded volumes did not slow the search significantly; for pharmacophores containing more features they also reduced the size of the hit list the most. For example, with a 7-feature pharmacophore, the Maybridge hit list shrank from 4 to 1. The single remaining compound was subsequently shown to bind to THR-alpha with an IC50 of 69 microM. Thus, we conclude that structure-based pharmacophores augmented with numerous excluded volumes can effectively prune and focus hit lists. The performance of multiple excluded volume-supplemented structure-based pharmacophores in 3D-database mining as implemented with the Catalyst software compares very favorably with other published procedures, with respect to speed, specificity, and ease of use.
+</abstract>
+
+</text>

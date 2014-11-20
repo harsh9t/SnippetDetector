@@ -1,0 +1,11 @@
+<title>
+Artificial duplicate reads in sequencing data of 454 Genome Sequencer FLX System.
+</title>
+
+<text>
+
+<abstract>
+The 454 Genome Sequencer (GS) FLX System is one of the next-generation sequencing systems featured by long reads, high accuracy, and ultra-high throughput. Based on the mechanism of emulsion PCR, a unique DNA template would only generate a unique sequence read after being amplified and sequenced on GS FLX. However, biased amplification of DNA templates might occur in the process of emulsion PCR, which results in production of artificial duplicate reads. Under the condition that each DNA template is unique to another, 3.49%-18.14% of total reads in GS FLX-sequencing data were found to be artificial duplicate reads. These duplicate reads may lead to misunderstanding of sequencing data and special attention should be paid to the potential biases they introduced to the data.
+</abstract>
+
+</text>

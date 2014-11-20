@@ -1,0 +1,11 @@
+<title>
+Prediction of functional impairment and remission in rheumatoid arthritis patients by biochemical variables and genetic polymorphisms.
+</title>
+
+<text>
+
+<abstract>
+OBJECTIVE: To develop a model to predict RA outcome based on biochemical variables and single nucleotide polymorphisms (SNPs). METHODS: We collected baseline data from RA patients. SNP genotyping was performed using an oligonucleotide microarray. Remission and severe disability were investigated as outcomes of the study. Logistic regression models and receiver operating characteristic (ROC) curves were used to determine sensitivity (S), specificity (Sp) and likelihood ratio (LR). RESULTS: Six hundred and thirty-two patients (375 in the study and 257 in the validation) were included. Twenty-two out of 152, and 19 out of 208 patients had an HAQ > 2. The model obtained to predict disability included levels of the anti-cyclic citrullinated peptide (anti-CCP) antibodies, ESR and SNP rs2070874 in the IL-4 gene. Homozygous and heterozygous carriers of the IL-4 33T allele had a decreased risk of severe disability. The discriminative power had an area under the curve (AUC) of 0.792 (95% CI 0.694, 0.889), with S 41%, Sp 95% and LR +7.6. Twenty-one out of 268 and 17 out of 211 patients were in remission in the study and validation cohorts, respectively. The model included absence of anti-CCP antibodies and the SNP rs2476601 on the PTPN22 gene. Homozygous and heterozygous carriers of the PTPN22 1858T allele had a decreased probability of remission. The discriminative power had an AUC of 0.842 (95% CI 0.756, 0.928), with S 76%, Sp 86% and LR + 5.4. Predictive ability was confirmed on the validation cohort. CONCLUSIONS: We have developed two models based on laboratory variables that are associated with relevant outcomes for RA patients at disease onset.
+</abstract>
+
+</text>

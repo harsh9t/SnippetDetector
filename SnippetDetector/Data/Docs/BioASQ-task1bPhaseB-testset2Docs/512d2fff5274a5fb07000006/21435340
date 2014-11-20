@@ -1,0 +1,11 @@
+<title>
+Identification of cis regulatory features in the embryonic zebrafish genome through large-scale profiling of H3K4me1 and H3K4me3 binding sites.
+</title>
+
+<text>
+
+<abstract>
+An organism's genome sequence serves as a blueprint for the proteins and regulatory RNAs essential for cellular function. The genome also harbors cis-acting non-coding sequences that control gene expression and are essential to coordinate regulatory programs during embryonic development. However, the genome sequence is largely identical between cell types within a multi-cellular organism indicating that factors such as DNA accessibility and chromatin structure play a crucial role in governing cell-specific gene expression. Recent studies have identified particular chromatin modifications that define functionally distinct cis regulatory elements. Among these are forms of histone 3 that are mono- or tri-methylated at lysine 4 (H3K4me1 or H3K4me3, respectively), which bind preferentially to promoter and enhancer elements in the mammalian genome. In this work, we investigated whether these modified histones could similarly identify cis regulatory elements within the zebrafish genome. By applying chromatin immunoprecipitation followed by deep sequencing, we find that H3K4me1 and H3K4me3 are enriched at transcriptional start sites in the genome of the developing zebrafish embryo and that this association correlates with gene expression. We further find that these modifications associate with distal non-coding conserved elements, including known active enhancers. Finally, we demonstrate that it is possible to utilize H3K4me1 and H3K4me3 binding profiles in combination with available expression data to computationally identify relevant cis regulatory sequences flanking syn-expressed genes in the developing embryo. Taken together, our results indicate that H3K4me1 and H3K4me3 generally mark cis regulatory elements within the zebrafish genome and indicate that further characterization of the zebrafish using this approach will prove valuable in defining transcriptional networks in this model system.
+</abstract>
+
+</text>

@@ -1,0 +1,11 @@
+<title>
+Predicting transmembrane beta-barrels in proteomes.
+</title>
+
+<text>
+
+<abstract>
+Very few methods address the problem of predicting beta-barrel membrane proteins directly from sequence. One reason is that only very few high-resolution structures for transmembrane beta-barrel (TMB) proteins have been determined thus far. Here we introduced the design, statistics and results of a novel profile-based hidden Markov model for the prediction and discrimination of TMBs. The method carefully attempts to avoid over-fitting the sparse experimental data. While our model training and scoring procedures were very similar to a recently published work, the architecture and structure-based labelling were significantly different. In particular, we introduced a new definition of beta- hairpin motifs, explicit state modelling of transmembrane strands, and a log-odds whole-protein discrimination score. The resulting method reached an overall four-state (up-, down-strand, periplasmic-, outer-loop) accuracy as high as 86%. Furthermore, accurately discriminated TMB from non-TMB proteins (45% coverage at 100% accuracy). This high precision enabled the application to 72 entirely sequenced Gram-negative bacteria. We found over 164 previously uncharacterized TMB proteins at high confidence. Database searches did not implicate any of these proteins with membranes. We challenge that the vast majority of our 164 predictions will eventually be verified experimentally. All proteome predictions and the PROFtmb prediction method are available at http://www.rostlab.org/ services/PROFtmb/.
+</abstract>
+
+</text>

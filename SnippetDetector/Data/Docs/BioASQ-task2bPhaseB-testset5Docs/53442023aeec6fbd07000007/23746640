@@ -1,0 +1,11 @@
+<title>
+Aurora B defines its own chromosomal targeting by opposing the recruitment of the phosphatase scaffold Repo-Man.
+</title>
+
+<text>
+
+<abstract>
+Aurora B is the catalytic subunit of the chromosomal passenger complex (CPC), which coordinates mitotic processes through phosphorylation of key regulatory proteins. In prometaphase, the CPC is enriched at the centromeres to regulate the spindle checkpoint and kinetochore-microtubule interactions. Centromeric CPC binds to histone H3 that is phosphorylated at T3 (H3T3ph) by Aurora B-stimulated Haspin. PP1/Repo-Man acts antagonistically to Haspin and dephosphorylates H3T3ph at the chromosome arms but is somehow prevented from causing a net dephosphorylation of centromeric H3T3ph during prometaphase. Here, we show that Aurora B phosphorylates Repo-Man at S893, preventing its recruitment by histones. We also identify PP2A as a mitotic interactor of Repo-Man that dephosphorylates S893 and thereby promotes the targeting of Repo-Man to chromosomes and the dephosphorylation of H3T3ph by PP1. Thus, Repo-Man-associated PP1 and PP2A collaborate to oppose the chromosomal targeting of Aurora B. We propose that the reciprocal feedback regulation of Haspin and Repo-Man by Aurora B generates a robust bistable response that culminates in the centromeric targeting of the CPC during prometaphase.
+</abstract>
+
+</text>

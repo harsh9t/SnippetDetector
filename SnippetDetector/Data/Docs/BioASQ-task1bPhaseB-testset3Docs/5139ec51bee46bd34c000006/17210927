@@ -1,0 +1,11 @@
+<title>
+Predicting tissue-specific enhancers in the human genome.
+</title>
+
+<text>
+
+<abstract>
+Determining how transcriptional regulatory signals are encoded in vertebrate genomes is essential for understanding the origins of multicellular complexity; yet the genetic code of vertebrate gene regulation remains poorly understood. In an attempt to elucidate this code, we synergistically combined genome-wide gene-expression profiling, vertebrate genome comparisons, and transcription factor binding-site analysis to define sequence signatures characteristic of candidate tissue-specific enhancers in the human genome. We applied this strategy to microarray-based gene expression profiles from 79 human tissues and identified 7187 candidate enhancers that defined their flanking gene expression, the majority of which were located outside of known promoters. We cross-validated this method for its ability to de novo predict tissue-specific gene expression and confirmed its reliability in 57 of the 79 available human tissues, with an average precision in enhancer recognition ranging from 32% to 63% and a sensitivity of 47%. We used the sequence signatures identified by this approach to successfully assign tissue-specific predictions to approximately 328,000 human-mouse conserved noncoding elements in the human genome. By overlapping these genome-wide predictions with a data set of enhancers validated in vivo, in transgenic mice, we were able to confirm our results with a 28% sensitivity and 50% precision. These results indicate the power of combining complementary genomic data sets as an initial computational foray into a global view of tissue-specific gene regulation in vertebrates.
+</abstract>
+
+</text>

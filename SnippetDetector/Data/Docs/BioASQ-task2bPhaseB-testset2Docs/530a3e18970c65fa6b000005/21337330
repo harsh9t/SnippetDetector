@@ -1,0 +1,11 @@
+<title>
+Model-based analysis of the role of biological, hydrological and geochemical factors affecting uranium bioremediation.
+</title>
+
+<text>
+
+<abstract>
+Uranium contamination is a serious concern at several sites motivating the development of novel treatment strategies such as the Geobacter-mediated reductive immobilization of uranium. However, this bioremediation strategy has not yet been optimized for the sustained uranium removal. While several reactive-transport models have been developed to represent Geobacter-mediated bioremediation of uranium, these models often lack the detailed quantitative description of the microbial process (e.g., biomass build-up in both groundwater and sediments, electron transport system, etc.) and the interaction between biogeochemical and hydrological process. In this study, a novel multi-scale model was developed by integrating our recent model on electron capacitance of Geobacter (Zhao et al., 2010) with a comprehensive simulator of coupled fluid flow, hydrologic transport, heat transfer, and biogeochemical reactions. This mechanistic reactive-transport model accurately reproduces the experimental data for the bioremediation of uranium with acetate amendment. We subsequently performed global sensitivity analysis with the reactive-transport model in order to identify the main sources of prediction uncertainty caused by synergistic effects of biological, geochemical, and hydrological processes. The proposed approach successfully captured significant contributing factors across time and space, thereby improving the structure and parameterization of the comprehensive reactive-transport model. The global sensitivity analysis also provides a potentially useful tool to evaluate uranium bioremediation strategy. The simulations suggest that under difficult environments (e.g., highly contaminated with U(VI) at a high migration rate of solutes), the efficiency of uranium removal can be improved by adding Geobacter species to the contaminated site (bioaugmentation) in conjunction with the addition of electron donor (biostimulation). The simulations also highlight the interactive effect of initial cell concentration and flow rate on U(VI) reduction.
+</abstract>
+
+</text>

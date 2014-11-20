@@ -1,0 +1,11 @@
+<title>
+ClusPro: a fully automated algorithm for protein-protein docking.
+</title>
+
+<text>
+
+<abstract>
+ClusPro (http://nrc.bu.edu/cluster) represents the first fully automated, web-based program for the computational docking of protein structures. Users may upload the coordinate files of two protein structures through ClusPro's web interface, or enter the PDB codes of the respective structures, which ClusPro will then download from the PDB server (http://www.rcsb.org/pdb/). The docking algorithms evaluate billions of putative complexes, retaining a preset number with favorable surface complementarities. A filtering method is then applied to this set of structures, selecting those with good electrostatic and desolvation free energies for further clustering. The program output is a short list of putative complexes ranked according to their clustering properties, which is automatically sent back to the user via email.
+</abstract>
+
+</text>

@@ -1,0 +1,11 @@
+<title>
+Identification and classification of small RNAs in transcriptome sequence data.
+</title>
+
+<text>
+
+<abstract>
+Current methods for high throughput sequencing (HTS) for the first time offer the opportunity to investigate the entire transcriptome in an essentially unbiased way. In many species, small non-coding RNAs with specific secondary structures constitute a significant part of the transcriptome. Some of these RNA classes, in particular microRNAs and snoRNAs, undergo maturation processes that lead to the production of shorter RNAs. After mapping the sequences to the reference genome specific patterns of short reads can be observed. These read patterns seem to reflect the processing and thus are specific for the RNA transcripts of which they are derived from. We explore here the potential of short read sequence data in the classification and identification of non-coding RNAs.
+</abstract>
+
+</text>

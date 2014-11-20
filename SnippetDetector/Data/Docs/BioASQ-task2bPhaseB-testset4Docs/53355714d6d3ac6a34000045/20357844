@@ -1,0 +1,11 @@
+<title>
+Acceleration of spiking neural network based pattern recognition on NVIDIA graphics processors.
+</title>
+
+<text>
+
+<abstract>
+There is currently a strong push in the research community to develop biological scale implementations of neuron based vision models. Systems at this scale are computationally demanding and generally utilize more accurate neuron models, such as the Izhikevich and the Hodgkin-Huxley models, in favor of the more popular integrate and fire model. We examine the feasibility of using graphics processing units (GPUs) to accelerate a spiking neural network based character recognition network to enable such large scale systems. Two versions of the network utilizing the Izhikevich and Hodgkin-Huxley models are implemented. Three NVIDIA general-purpose (GP) GPU platforms are examined, including the GeForce 9800 GX2, the Tesla C1060, and the Tesla S1070. Our results show that the GPGPUs can provide significant speedup over conventional processors. In particular, the fastest GPGPU utilized, the Tesla S1070, provided a speedup of 5.6 and 84.4 over highly optimized implementations on the fastest central processing unit (CPU) tested, a quadcore 2.67 GHz Xeon processor, for the Izhikevich and the Hodgkin-Huxley models, respectively. The CPU implementation utilized all four cores and the vector data parallelism offered by the processor. The results indicate that GPUs are well suited for this application domain.
+</abstract>
+
+</text>

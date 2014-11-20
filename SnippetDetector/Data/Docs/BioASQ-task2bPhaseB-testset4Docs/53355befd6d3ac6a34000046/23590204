@@ -1,0 +1,11 @@
+<title>
+Use of experimental design to optimize docking performance: the case of LiGenDock, the docking module of LiGen, a new de novo design program.
+</title>
+
+<text>
+
+<abstract>
+On route toward a novel de novo design program, called LiGen, we developed a docking program, LiGenDock, based on pharmacophore models of binding sites, including a non-enumerative docking algorithm. In this paper, we present the functionalities of LiGenDock and its accompanying module LiGenPocket, aimed at the binding site analysis and structure-based pharmacophore definition. We also report the optimization procedure we have carried out to improve the cognate docking and virtual screening performance of LiGenDock. In particular, we applied the design of experiments (DoE) methodology to screen the set of user-adjustable parameters to identify those having the largest influence on the accuracy of the results (which ensure the best performance in pose prediction and in virtual screening approaches) and then to choose their optimal values. The results are also compared with those obtained by two popular docking programs, namely, Glide and AutoDock for pose prediction, and Glide and DOCK6 for Virtual Screening.
+</abstract>
+
+</text>

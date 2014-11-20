@@ -1,0 +1,11 @@
+<title>
+Evaluation of gene-finding algorithms by a content-balancing accuracy index.
+</title>
+
+<text>
+
+<abstract>
+A content-balancing accuracy index, called q(9), to evaluate gene-finding algorithms has been proposed. Here the concept of content-balancing means that the evaluation by this index is independent of the coding and non-coding composition of the sequence being evaluated. Since the coding and non-coding compositions are severely unbalanced in eukaryotic genomes, the performance of gene-finding algorithms is either over- or under-evaluated by the widely used accuracy indices, e.g., the correlation coefficient, due to the lack of content-balancing ability. Using the new accuracy index q(9), seven gene-finding algorithms, FGENES; Gene-Mark.hmm; Genie; Genescan; HMMgene; Morgan and MZEF, were compared and evaluated. It is shown that Genescan is still the best one, but with q(9)= 89%, averaged over the prediction for 195 sequences. In addition to the content-balancing ability, q(9) has the merit of having definition in all possible cases. It is also shown that the traditional specificity s(p) carries important information on the performance of the algorithm being evaluated. The set of sensitivity s(n), specificity s(p) and the accuracy q(9) constitutes a complete kit to evaluate gene-finding algorithms at nucleotide level. In addition, a graphic method to compare and evaluate gene-finding algorithms has been proposed, too. Its major advantage is that the overall performance of algorithms can be grasped quickly in a perceivable form. Additionally, the new accuracy index q(9) may be applied to evaluate the performance of weather forecast, clinical diagnosis, psychological examination and protein secondary structure prediction etc.
+</abstract>
+
+</text>

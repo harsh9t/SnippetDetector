@@ -1,0 +1,11 @@
+<title>
+Identification of human gene structure using linear discriminant functions and dynamic programming.
+</title>
+
+<text>
+
+<abstract>
+Development of advanced technique to identify gene structure is one of the main challenges of the Human Genome Project. Discriminant analysis was applied to the construction of recognition functions for various components of gene structure. Linear discriminant functions for splice sites, 5'-coding, internal exon, and 3'-coding region recognition have been developed. A gene structure prediction system FGENE has been developed based on the exon recognition functions. We compute a graph of mutual compatibility of different exons and present a gene structure models as paths of this directed acyclic graph. For an optimal model selection we apply a variant of dynamic programming algorithm to search for the path in the graph with the maximal value of the corresponding discriminant functions. Prediction by FGENE for 185 complete human gene sequences has 81% exact exon recognition accuracy and 91% accuracy at the level of individual exon nucleotides with the correlation coefficient (C) equals 0.90. Testing FGENE on 35 genes not used in the development of discriminant functions shows 71% accuracy of exact exon prediction and 89% at the nucleotide level (C = 0.86). FGENE compares very favorably with the other programs currently used to predict protein-coding regions. Analysis of uncharacterized human sequences based on our methods for splice site (HSPL, RNASPL), internal exons (HEXON), all type of exons (FEXH) and human (FGENEH) and bacterial (CDSB) gene structure prediction and recognition of human and bacterial sequences (HBR) (to test a library for E. coli contamination) is available through the University of Houston, Weizmann Institute of Science network server and a WWW page of the Human Genome Center at Baylor College of Medicine.
+</abstract>
+
+</text>

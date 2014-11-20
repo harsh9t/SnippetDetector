@@ -1,0 +1,11 @@
+<title>
+Gene recognition by combination of several gene-finding programs.
+</title>
+
+<text>
+
+<abstract>
+MOTIVATION: A number of programs have been developed to predict the eukaryotic gene structures in DNA sequences. However, gene finding is still a challenging problem. RESULTS: We have explored the effectiveness when the results of several gene-finding programs were re-analyzed and combined. We studied several methods with four programs (FEXH, GeneParser3, GEN-SCAN and GRAIL2). By HIGHEST-policy combination method or BOUNDARY method, approximate correlation (AC) improved by 3-5% in comparison with the best single gene-finding program. From another viewpoint, OR-based combination of the four programs is the most reliable to know whether a candidate exon overlaps with the real exon or not, although it is less sensitive than GENSCAN for exon-intron boundaries. Our methods can easily be extended to combine other programs. AVAILABILITY: We have developed a server program (Shirokane System) and a client program (GeneScope) to use the methods. GeneScope is available through a WWW site (http://gf.genome.ad.jp/). CONTACT: (katsu,takagi)@ims.u-tokyo.ac.jp
+</abstract>
+
+</text>

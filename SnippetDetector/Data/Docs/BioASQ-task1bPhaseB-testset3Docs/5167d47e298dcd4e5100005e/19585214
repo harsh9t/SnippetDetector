@@ -1,0 +1,11 @@
+<title>
+Algorithm for in vitro diagnostic multivariate index assay.
+</title>
+
+<text>
+
+<abstract>
+Recently emerging diagnostic tools such as MammaPrint and oncotype-DX are beginning to have impact on clinical practice of breast cancer. They are based on gene expression profiling, i.e., gene expression analysis of a large number of genes. Their unique characteristic is the use of a score calculated from expression values of a number of genes, for which the Food and Drug Administration (FDA) created a new diagnostic category entitled "in vitro diagnostic multivariate index assay (IVDMIA)." In contrast to conventional biomarkers, IVDMIA requires an algorithm to calculate the diagnostic score. The linear classifier is the preferred algorithm. When the number of diagnostic genes is n, each tumor is represented by a point in an n-dimensional space made from gene expression values. Diagnostic algorithms (linear classifier) make an (n-1)-dimensional plane in the n-dimensional space to separate two patient groups. Calculation of the diagnostic score is achieved by dimension reduction. Currently, IVDMIA is restricted to gene expression profiling, and will also be applied to malignancies other than breast cancer.
+</abstract>
+
+</text>

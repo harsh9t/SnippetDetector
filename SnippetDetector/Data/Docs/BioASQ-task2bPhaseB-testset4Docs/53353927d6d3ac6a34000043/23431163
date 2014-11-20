@@ -1,0 +1,11 @@
+<title>
+Modeling shows that the NS5A inhibitor daclatasvir has two modes of action and yields a shorter estimate of the hepatitis C virus half-life.
+</title>
+
+<text>
+
+<abstract>
+The nonstructural 5A (NS5A) protein is a target for drug development against hepatitis C virus (HCV). Interestingly, the NS5A inhibitor daclatasvir (BMS-790052) caused a decrease in serum HCV RNA levels by about two orders of magnitude within 6 h of administration. However, NS5A has no known enzymatic functions, making it difficult to understand daclatasvir's mode of action (MOA) and to estimate its antiviral effectiveness. Modeling viral kinetics during therapy has provided important insights into the MOA and effectiveness of a variety of anti-HCV agents. Here, we show that understanding the effects of daclatasvir in vivo requires a multiscale model that incorporates drug effects on the HCV intracellular lifecycle, and we validated this approach with in vitro HCV infection experiments. The model predicts that daclatasvir efficiently blocks two distinct stages of the viral lifecycle, namely viral RNA synthesis and virion assembly/secretion with mean effectiveness of 99% and 99.8%, respectively, and yields a more precise estimate of the serum HCV half-life, 45 min, i.e., around four times shorter than previous estimates. Intracellular HCV RNA in HCV-infected cells treated with daclatasvir and the HCV polymerase inhibitor NM107 showed a similar pattern of decline. However, daclatasvir treatment led to an immediate and rapid decline of extracellular HCV titers compared to a delayed (6-9 h) and slower decline with NM107, confirming an effect of daclatasvir on both viral replication and assembly/secretion. The multiscale modeling approach, validated with in vitro kinetic experiments, brings a unique conceptual framework for understanding the mechanism of action of a variety of agents in development for the treatment of HCV.
+</abstract>
+
+</text>

@@ -1,0 +1,11 @@
+<title>
+Application of the docking program SOL for CSAR benchmark.
+</title>
+
+<text>
+
+<abstract>
+This paper is devoted to results obtained by the docking program SOL and the post-processing program DISCORE at the CSAR benchmark. SOL and DISCORE programs are described. SOL is the original docking program developed on the basis of the genetic algorithm, MMFF94 force field, rigid protein, precalculated energy grid including desolvation in the frame of simplified GB model, vdW, and electrostatic interactions and taking into account the ligand internal strain energy. An important SOL feature is the single- or multi-processor performance for up to hundreds of CPUs. DISCORE improves the binding energy scoring by the local energy optimization of the ligand docked pose and a simple linear regression on the base of available experimental data. The docking program SOL has demonstrated a good ability for correct ligand positioning in the active sites of the tested proteins in most cases of CSAR exercises. SOL and DISCORE have not demonstrated very exciting results on the protein-ligand binding free energy estimation. Nevertheless, for some target proteins, SOL and DISCORE were among the first in prediction of inhibition activity. Ways to improve SOL and DISCORE are discussed.
+</abstract>
+
+</text>

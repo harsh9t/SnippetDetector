@@ -1,0 +1,11 @@
+<title>
+Adiabatic/nonadiabatic state-to-state reactive scattering dynamics implemented on graphics processing units.
+</title>
+
+<text>
+
+<abstract>
+An efficient graphics processing units (GPUs) version of time-dependent wavepacket code is developed for the atom-diatom state-to-state reactive scattering processes. The propagation of the wavepacket is entirely calculated on GPUs employing the split-operator method after preparation of the initial wavepacket on the central processing unit (CPU). An additional split-operator method is introduced in the rotational part of the Hamiltonian to decrease communication of GPUs without losing accuracy of state-to-state information. The code is tested to calculate the differential cross sections of H + H2 reaction and state-resolved reaction probabilities of nonadiabatic triplet-singlet transitions of O((3)P,(1)D) + H2 for the total angular momentum J = 0. The global speedups of 22.11, 38.80, and 44.80 are found comparing the parallel computation of one GPU, two GPUs by exact rotational operator, and two GPU versions by an approximate rotational operator with serial computation of the CPU, respectively.
+</abstract>
+
+</text>

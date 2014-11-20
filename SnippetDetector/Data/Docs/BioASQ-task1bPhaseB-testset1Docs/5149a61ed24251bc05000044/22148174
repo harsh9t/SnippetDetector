@@ -1,0 +1,11 @@
+<title>
+Predicting three-dimensional structures of transmembrane domains of β-barrel membrane proteins.
+</title>
+
+<text>
+
+<abstract>
+β-Barrel membrane proteins are found in the outer membrane of gram-negative bacteria, mitochondria, and chloroplasts. They are important for pore formation, membrane anchoring, and enzyme activity. These proteins are also often responsible for bacterial virulence. Due to difficulties in experimental structure determination, they are sparsely represented in the protein structure databank. We have developed a computational method for predicting structures of the transmembrane (TM) domains of β-barrel membrane proteins. Based on physical principles, our method can predict structures of the TM domain of β-barrel membrane proteins of novel topology, including those from eukaryotic mitochondria. Our method is based on a model of physical interactions, a discrete conformational state space, an empirical potential function, as well as a model to account for interstrand loop entropy. We are able to construct three-dimensional atomic structure of the TM domains from sequences for a set of 23 nonhomologous proteins (resolution 1.8-3.0 Å). The median rmsd of TM domains containing 75-222 residues between predicted and measured structures is 3.9 Å for main chain atoms. In addition, stability determinants and protein-protein interaction sites can be predicted. Such predictions on eukaryotic mitochondria outer membrane protein Tom40 and VDAC are confirmed by independent mutagenesis and chemical cross-linking studies. These results suggest that our model captures key components of the organization principles of β-barrel membrane protein assembly.
+</abstract>
+
+</text>

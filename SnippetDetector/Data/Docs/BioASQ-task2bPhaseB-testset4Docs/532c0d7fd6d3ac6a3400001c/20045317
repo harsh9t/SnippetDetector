@@ -1,0 +1,11 @@
+<title>
+Pharmacophore modeling and virtual screening for designing potential 5-lipoxygenase inhibitors.
+</title>
+
+<text>
+
+<abstract>
+Inhibitors of the 5-Lipoxygenase (5-LOX) pathway have a therapeutic potential in a variety of inflammatory disorders such as asthma. In this study, chemical feature based pharmacophore models of inhibitors of 5-LOX have been developed with the aid of HipHop and HypoGen modules within Catalyst program package. The best quantitative pharmacophore model, Hypo1, which has the highest correlation coefficient (0.97), consists of two hydrogen-bond acceptors, one hydrophobic feature and one ring aromatic feature. Hypo1 was further validated by test set and cross validation method. The application of the model shows great success in predicting the activities of 65 known 5-LOX inhibitors in our test set with a correlation coefficient of 0.85 with a cross validation of 95% confidence level, proving that the model is reliable in identifying structurally diverse compounds for inhibitory activity against 5-LOX. Furthermore, Hypo1 was used as a 3D query for screening Maybridge and NCI databases within catalyst and also drug like compounds obtained from Enamine Ltd, which follow Lipinski's rule of five. The hit compounds were subsequently subjected to filtering by docking and visualization, to identify the potential lead molecules. Finally 5 potential lead compounds, identified in the above process, were evaluated for their inhibitory activities. These studies resulted in the identification of two compounds with potent inhibition of 5-LOX activity with IC(50) of 14 microM and 35 microM, respectively. These studies thus validate the pharmacophore model generated and suggest the usefulness of the model in screening of various small molecule libraries and identification of potential lead compounds for 5-LOX inhibition.
+</abstract>
+
+</text>

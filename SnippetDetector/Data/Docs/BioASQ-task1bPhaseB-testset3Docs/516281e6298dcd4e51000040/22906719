@@ -1,0 +1,11 @@
+<title>
+TiSH--a robust and sensitive global phosphoproteomics strategy employing a combination of TiO2, SIMAC, and HILIC.
+</title>
+
+<text>
+
+<abstract>
+Large scale quantitative phosphoproteomics depends upon multidimensional strategies for peptide fractionation, phosphopeptide enrichment, and mass spectrometric analysis. Previously, most robust comprehensive large-scale phosphoproteomics strategies have relied on milligram amounts of protein. We have set up a multi-dimensional phosphoproteomics strategy combining a number of well-established enrichment and fraction methods: An initial TiO(2) phosphopeptide pre-enrichment step is followed by post-fractionation using sequential elution from IMAC (SIMAC) to separate multi- and mono-phosphorylated peptides, and hydrophilic interaction liquid chromatography (HILIC) of the mono-phosphorylated peptides (collectively abbreviated "TiSH"). The advantages of the strategy include a high specificity and sample preparation workload reduction due to the TiO(2) pre-enrichment step, as well as low adsorptive losses. We demonstrate the capability of this strategy by quantitative investigation of early interferon-γ signaling in low quantities of insulinoma cells. We identified ~6600 unique phosphopeptides from 300 μg of peptides/condition (22 unique phosphopeptides/μg) in a duplex dimethyl labeling experiment, with an enrichment specificity>94%. When doing network analysis of putative phosphorylation changes it could be noted that the identified protein interaction network centered upon proteins known to be affected by the interferon-γ pathway, thereby supporting the utility of this global phosphoproteomics strategy. This strategy thus shows great potential for interrogating signaling networks from low amounts of sample with high sensitivity and specificity.
+</abstract>
+
+</text>

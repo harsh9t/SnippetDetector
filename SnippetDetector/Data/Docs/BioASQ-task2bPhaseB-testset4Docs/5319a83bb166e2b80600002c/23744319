@@ -1,0 +1,11 @@
+<title>
+[Detection of pathogenic mutations in Marfan syndrome by targeted next-generation semiconductor sequencing].
+</title>
+
+<text>
+
+<abstract>
+OBJECTIVE: To detect pathogenic mutations in Marfan syndrome (MFS) using an Ion Torrent Personal Genome Machine (PGM) and to validate the result of targeted next-generation semiconductor sequencing for the diagnosis of genetic disorders. METHODS: Peripheral blood samples were collected from three MFS patients and a normal control with informed consent. Genomic DNA was isolated by standard method and then subjected to targeted sequencing using an Ion Ampliseq(TM) Inherited Disease Panel. Three multiplex PCR reactions were carried out to amplify the coding exons of 328 genes including FBN1, TGFBR1 and TGFBR2. DNA fragments from different samples were ligated with barcoded sequencing adaptors. Template preparation and emulsion PCR, and Ion Sphere Particles enrichment were carried out using an Ion One Touch system. The ion sphere particles were sequenced on a 318 chip using the PGM platform. Data from the PGM runs were processed using an Ion Torrent Suite 3.2 software to generate sequence reads. After sequence alignment and extraction of SNPs and indels, all the variants were filtered against dbSNP137. DNA sequences were visualized with an Integrated Genomics Viewer. The most likely disease-causing variants were analyzed by Sanger sequencing. RESULTS: The PGM sequencing has yielded an output of 855.80 Mb, with a > 100 × median sequencing depth and a coverage of > 98% for the targeted regions in all the four samples. After data analysis and database filtering, one known missense mutation (p.E1811K) and two novel premature termination mutations (p.E2264X and p.L871FfsX23) in the FBN1 gene were identified in the three MFS patients. All mutations were verified by conventional Sanger sequencing. CONCLUSION: Pathogenic FBN1 mutations have been identified in all patients with MFS, indicating that the targeted next-generation sequencing on the PGM sequencers can be applied for accurate and high-throughput testing of genetic disorders.
+</abstract>
+
+</text>

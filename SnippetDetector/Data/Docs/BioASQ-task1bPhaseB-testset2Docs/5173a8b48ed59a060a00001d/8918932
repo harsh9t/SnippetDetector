@@ -1,0 +1,11 @@
+<title>
+Naturally occurring nucleosome positioning signals in human exons and introns.
+</title>
+
+<text>
+
+<abstract>
+We describe the structural implications of a periodic pattern found in human exons and introns by hidden Markov models. We show that exons (besides the reading frame) have a specific sequential structure in the form of a pattern with triplet consensus non-T(A/T)G, and a minimal periodicity of roughly ten nucleotides. The periodic pattern is also present in intron sequences, although the strength per nucleotide is weaker. Using two independent profile methods based on triplet bendability parameters from DNase I experiments and nucleosome positioning data, we show that the pattern in multiple alignments of internal exon and intron sequences corresponds to a periodic "in phase" bending potential towards the major groove of the DNA. The nucleosome positioning data show that the consensus triplets (and their complements) have a preference for locations on a bent double helix where the major groove faces inward and is compressed. The in-phase triplets are located adjacent to GCC/GGC triplets known to have the strongest bias in their positioning on the nuclesome. Analysis of mRNA sequences encoding proteins with known tertiary structure exclude the possibility that the pattern is a consequence of the previously well-known periodicity caused by the encoding of alpha-helices in proteins. Finally, we discuss the relation between the bending potential of coding and non-coding regions and its impact on the translational positioning of nucleosomes and the recognition of genes by the transcriptional machinery.
+</abstract>
+
+</text>

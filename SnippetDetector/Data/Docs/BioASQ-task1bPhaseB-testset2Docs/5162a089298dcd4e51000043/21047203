@@ -1,0 +1,11 @@
+<title>
+Compilation of a comprehensive gene panel for systematic assessment of genes that govern an individual's drug responses.
+</title>
+
+<text>
+
+<abstract>
+AIMS: Polymorphisms of genes involved in the pharmacokinetic and pharmacodynamic processes underlie the divergent drug responses among individuals. Despite some successes in identifying these polymorphisms, the candidate gene approach suffers from insufficient gene coverage whereas the genome-wide association approach is limited by less than ideal coverage of SNPs in some important genes. To expand the potential of the candidate approach, we aim to delineate a comprehensive network of drug-response genes for in-depth genetic studies. MATERIALS & METHODS: Pharmacologically important genes were extracted from various sources including literatures and web resources. These genes, along with their homologs and regulatory miRNAs, were organized based on their pharmacological functions and weighted by literature evidence and confidence levels. Their coverage was evaluated by analyzing three commercial SNP chips commonly used for genome-wide association studies: Affymetrix SNP array 6.0, Illumina HumanHap1M and Illumina Omni. RESULTS: A panel of drug-response genes was constructed, which contains 923 pharmacokinetic genes, 703 pharmacodynamic genes and 720 miRNAs. There are only 16.7% of these genes whose all known SNPs can be directly or indirectly (r(2) > 0.8) captured by the SNP chips with coverage of more than 80%. This is possibly because these SNPs chips have notably poor performance over rare SNPs and miRNA genes. CONCLUSION: We have compiled a panel of candidate genes that may be pharmacologically important. Using this knowledgebase, we are able to systematically evaluate genes and their variants that govern an individual's response to a given pharmaceutical therapy. This approach can serve as a necessary complement to genome-wide associations.
+</abstract>
+
+</text>

@@ -1,0 +1,11 @@
+<title>
+Prediction of splice sites with dependency graphs and their expanded bayesian networks.
+</title>
+
+<text>
+
+<abstract>
+MOTIVATION: Owing to the complete sequencing of human and many other genomes, huge amounts of DNA sequence data have been accumulated. In bioinformatics, an important issue is how to predict the complete structure of genes from the genomic DNA sequence, especially the human genome. A crucial part in the gene structure prediction is to determine the precise exon-intron boundaries, i.e. the splice sites, in the coding region. RESULTS: We have developed a dependency graph model to fully capture the intrinsic interdependency between base positions in a splice site. The establishment of dependency between two position is based on a chi2-test from known sample data. To facilitate statistical inference, we have expanded the dependency graph (which is usually a graph with cycles that make probabilistic reasoning very difficult, if not impossible) into a Bayesian network (which is a directed acyclic graph that facilitates statistical reasoning). When compared with the existing models such as weight matrix model, weight array model, maximal dependence decomposition, Cai et al.'s tree model as well as the less-studied second-order and third-order Markov chain models, the expanded Bayesian networks from our dependency graph models perform the best in nearly all the cases studied. AVAILABILITY: Software (a program called DGSplicer) and datasets used are available at http://csrl.ee.nthu.edu.tw/bioinf/ CONTACT: cclu@ee.nthu.edu.tw.
+</abstract>
+
+</text>

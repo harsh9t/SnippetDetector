@@ -1,0 +1,11 @@
+<title>
+Genome-wide characterization of transcriptional start sites in humans by integrative transcriptome analysis.
+</title>
+
+<text>
+
+<abstract>
+We performed a genome-wide analysis of transcriptional start sites (TSSs) in human genes by multifaceted use of a massively parallel sequencer. By analyzing 800 million sequences that were obtained from various types of transcriptome analyses, we characterized 140 million TSS tags in 12 human cell types. Despite the large number of TSS clusters (TSCs), the number of TSCs was observed to decrease sharply with increasing expression levels. Highly expressed TSCs exhibited several characteristic features: Nucleosome-seq analysis revealed highly ordered nucleosome structures, ChIP-seq analysis detected clear RNA polymerase II binding signals in their surrounding regions, evaluations of previously sequenced and newly shotgun-sequenced complete cDNA sequences showed that they encode preferable transcripts for protein translation, and RNA-seq analysis of polysome-incorporated RNAs yielded direct evidence that those transcripts are actually translated into proteins. We also demonstrate that integrative interpretation of transcriptome data is essential for the selection of putative alternative promoter TSCs, two of which also have protein consequences. Furthermore, discriminative chromatin features that separate TSCs at different expression levels were found for both genic TSCs and intergenic TSCs. The collected integrative information should provide a useful basis for future biological characterization of TSCs.
+</abstract>
+
+</text>

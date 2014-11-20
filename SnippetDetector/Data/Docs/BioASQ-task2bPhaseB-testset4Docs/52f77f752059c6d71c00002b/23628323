@@ -1,0 +1,11 @@
+<title>
+Transcriptomic analysis provides insights on hexavalent chromium induced DNA double strand breaks and their possible repair in midgut cells of Drosophila melanogaster larvae.
+</title>
+
+<text>
+
+<abstract>
+Hexavalent chromium [Cr(VI)] is a well known mutagen and carcinogen. Since genomic instability due to generation of double strand breaks (DSBs) is causally linked to carcinogenesis, we tested a hypothesis that Cr(VI) causes in vivo generation of DSBs and elicits DNA damage response. We fed repair proficient Drosophila melanogaster (Oregon R(+)) larvae Cr(VI) (20.0μg/ml) mixed food for 24 and 48h and observed a significant (p<0.05) induction of DSBs in their midgut cells after 48h using neutral Comet assay. Global gene expression profiling in Cr(VI)-exposed Oregon R(+) larvae unveiled mis-regulation of DSBs responsive repair genes both after 24 and 48h. In vivo generation of DSBs in exposed Drosophila was confirmed by an increased pH2Av immunostaining along with the activation of cell cycle regulation genes. Analysis of mis-regulated genes grouped under DSB response by GOEAST indicated the participation of non-homologous end joining (NHEJ) DSB repair pathway. We selected two strains, one mutant (ligIV) and another ku80-RNAi (knockdown of ku80), whose functions are essentially linked to NHEJ-DSB repair pathway. As a proof of principle, we compared the DSBs generation in larvae of these two strains with that of repair proficient Oregon R(+). Along with this, DSBs generation in spn-A and okr [essential genes in homologous recombination repair (HR) pathway] mutants was also tested for the possible involvement of HR-DSB repair. A significantly increased DSBs generation in the exposed ku80-RNAi and ligIV (mutant) larvae because of impaired repair, concomitant with an insignificant DSBs generation in okr and spn-A mutant larvae indicates an active participation of NHEJ repair pathway. The study, first of its kind to our knowledge, while providing evidences for in vivo generation of DSBs in Cr(VI) exposed Drosophila larvae, assumes significance for its relevance to higher organisms due to causal link between DSB generation and Cr(VI)-induced carcinogenesis.
+</abstract>
+
+</text>

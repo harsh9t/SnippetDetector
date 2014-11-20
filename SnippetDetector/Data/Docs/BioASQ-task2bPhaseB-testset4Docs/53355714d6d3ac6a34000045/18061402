@@ -1,0 +1,11 @@
+<title>
+Real-time stereographic rendering and display of medical images with programmable GPUs.
+</title>
+
+<text>
+
+<abstract>
+The study was to explore the power and feasibility of using programmable graphics processing units (GPUs) for real-time rendering and displaying large 3D medical datasets for stereoscopic display workstation. Lung cancer screening CT images were used for developing GPU-based stereo rendering and displaying. The study was run on a personal computer with a 128 MB NVIDIA Quadro FX 1100 graphics card. The performance of rendering and displaying was measured and compared between GPU-based and central processing unit (CPU)-based programming. The results indicate that GPU-based programming was capable of rendering large 3D datasets at real-time interactive rates with stereographic displays.
+</abstract>
+
+</text>

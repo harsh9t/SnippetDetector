@@ -1,0 +1,11 @@
+<title>
+The design and implementation of a rescue terminal with vital signs telemonitoring based on Beidou 1 navigation satellite system.
+</title>
+
+<text>
+
+<abstract>
+This article presents the design and applications of a rescue terminal with positioning, vital signs sensing, and communicating function for special environment. The terminal provides three-dimensional positioning functionality via China's Beidou 1 Navigation Satellite (BD1) System and can collect users' vital signs with a set of wireless sensors. A controller of the terminal is in charge of processing data collected from the wireless sensors and communicating with the monitoring platform. With features such as small sizing, low power consumption, and accurate positioning, this terminal is very helpful in special circumstances such as disaster relief, dangerous outdoor sports and adventure monitoring, and antiterrorism activities.
+</abstract>
+
+</text>

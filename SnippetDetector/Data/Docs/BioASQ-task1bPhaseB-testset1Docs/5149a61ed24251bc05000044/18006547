@@ -1,0 +1,11 @@
+<title>
+TMBpro: secondary structure, beta-contact and tertiary structure prediction of transmembrane beta-barrel proteins.
+</title>
+
+<text>
+
+<abstract>
+MOTIVATION: Transmembrane beta-barrel (TMB) proteins are embedded in the outer membranes of mitochondria, Gram-negative bacteria and chloroplasts. These proteins perform critical functions, including active ion-transport and passive nutrient intake. Therefore, there is a need for accurate prediction of secondary and tertiary structure of TMB proteins. Traditional homology modeling methods, however, fail on most TMB proteins since very few non-homologous TMB structures have been determined. Yet, because TMB structures conform to specific construction rules that restrict the conformational space drastically, it should be possible for methods that do not depend on target-template homology to be applied successfully. RESULTS: We develop a suite (TMBpro) of specialized predictors for predicting secondary structure (TMBpro-SS), beta-contacts (TMBpro-CON) and tertiary structure (TMBpro-3D) of transmembrane beta-barrel proteins. We compare our results to the recent state-of-the-art predictors transFold and PRED-TMBB using their respective benchmark datasets, and leave-one-out cross-validation. Using the transFold dataset TMBpro predicts secondary structure with per-residue accuracy (Q(2)) of 77.8%, a correlation coefficient of 0.54, and TMBpro predicts beta-contacts with precision of 0.65 and recall of 0.67. Using the PRED-TMBB dataset, TMBpro predicts secondary structure with Q(2) of 88.3% and a correlation coefficient of 0.75. All of these performance results exceed previously published results by 4% or more. Working with the PRED-TMBB dataset, TMBpro predicts the tertiary structure of transmembrane segments with RMSD <6.0 A for 9 of 14 proteins. For 6 of 14 predictions, the RMSD is <5.0 A, with a GDT_TS score greater than 60.0. AVAILABILITY: http://www.igb.uci.edu/servers/psss.html.
+</abstract>
+
+</text>

@@ -1,0 +1,11 @@
+<title>
+An immunoaffinity purification method for the proteomic analysis of ubiquitinated protein complexes.
+</title>
+
+<text>
+
+<abstract>
+Protein ubiquitination plays an important role in the regulation of many cellular processes, including protein degradation, cell cycle regulation, apoptosis, and DNA repair. To study the ubiquitin proteome we have established an immunoaffinity purification method for the proteomic analysis of endogenously ubiquitinated protein complexes. A strong, specific enrichment of ubiquitinated factors was achieved using the FK2 antibody bound to protein G-beaded agarose, which recognizes monoubiquitinated and polyubiquitinated conjugates. Mass spectrometric analysis of two FK2 immunoprecipitations (IPs) resulted in the identification of 296 FK2-specific proteins in both experiments. The isolation of ubiquitinated and ubiquitination-related proteins was confirmed by pathway analyses (using Ingenuity Pathway Analysis and Gene Ontology-annotation enrichment). Additionally, comparing the proteins that specifically came down in the FK2 IP with databases of ubiquitinated proteins showed that a high percentage of proteins in our enriched fraction was indeed ubiquitinated. Finally, assessment of protein-protein interactions revealed that significantly more FK2-specific proteins were residing in protein complexes than in random protein sets. This method, which is capable of isolating both endogenously ubiquitinated proteins and their interacting proteins, can be widely used for unraveling ubiquitin-mediated protein regulation in various cell systems and tissues when comparing different cellular states.
+</abstract>
+
+</text>

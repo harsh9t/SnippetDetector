@@ -1,0 +1,11 @@
+<title>
+Discovering implicit protein-protein interactions in the cell cycle using bioinformatics approaches.
+</title>
+
+<text>
+
+<abstract>
+The cell division control protein (Cdc2) kinase is a catalytic subunit of a protein kinase complex, called the M phase promoting factor, which induces entry into mitosis and is universal among eukaryotes. This protein is believed to play a major role in cell division and control. The lives of biological cells are controlled by proteins interacting in metabolic and signaling pathways, in complexes that replicate genes and regulate gene activity, and in the assembly of the cytoskeletal infrastructure. Our knowledge of protein-protein (P-P) interactions has been accumulated from biochemical and genetic experiments, including the widely used yeast two-hybrid test. In this paper we examine if P-P interactions in regenerating tissues and cells of the anuran Xenopus laevis can be discovered from biomedical literature using computational and literature mining techniques. Using literature mining techniques, we have identified a set of implicitly interacting proteins in regenerating tissues and cells of Xenopus laevis that may interact with Cdc2 to control cell division. Genome sequence based bioinformatics tools were then applied to validate a set of proteins that appear to interact with the Cdc2 protein. Pathway analysis of these proteins suggests that Myc proteins function as the regulator of M phase initiation by controlling expression of the Akt1 molecule that ultimately inhibits the Cdc2-cyclin B complex in cells. P-P interactions that are implicitly appearing in literature can be effectively discovered using literature mining techniques. By applying evolutionary principles on the P-P interacting pairs, it is possible to quantitatively analyze the significance of the associations with biological relevance. The developed BioMap system allows discovering implicit P-P interactions from large quantity of biomedical literature data. The unique similarities and differences observed within the interacting proteins can lead to the development of the new hypotheses that can be used to design further laboratory experiments.
+</abstract>
+
+</text>

@@ -1,0 +1,11 @@
+<title>
+Mouse TU tagging: a chemical/genetic intersectional method for purifying cell type-specific nascent RNA.
+</title>
+
+<text>
+
+<abstract>
+Transcriptional profiling is a powerful approach for understanding development and disease. Current cell type-specific RNA purification methods have limitations, including cell dissociation trauma or inability to identify all RNA species. Here, we describe "mouse thiouracil (TU) tagging," a genetic and chemical intersectional method for covalent labeling and purification of cell type-specific RNA in vivo. Cre-induced expression of uracil phosphoribosyltransferase (UPRT) provides spatial specificity; injection of 4-thiouracil (4TU) provides temporal specificity. Only UPRT(+) cells exposed to 4TU produce thio-RNA, which is then purified for RNA sequencing (RNA-seq). This method can purify transcripts from spatially complex and rare (<5%) cells, such as Tie2:Cre(+) brain endothelia/microglia (76% validated by expression pattern), or temporally dynamic transcripts, such as those acutely induced by lipopolysaccharide (LPS) injection. Moreover, generating chimeric mice via UPRT(+) bone marrow transplants identifies immune versus niche spleen RNA. TU tagging provides a novel method for identifying actively transcribed genes in specific cells at specific times within intact mice.
+</abstract>
+
+</text>

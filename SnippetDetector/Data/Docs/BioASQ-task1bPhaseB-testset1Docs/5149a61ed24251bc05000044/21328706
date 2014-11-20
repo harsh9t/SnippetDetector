@@ -1,0 +1,11 @@
+<title>
+Prediction of the exposure status of transmembrane beta barrel residues from protein sequence.
+</title>
+
+<text>
+
+<abstract>
+We present BTMX (Beta barrel TransMembrane eXposure), a computational method to predict the exposure status (i.e. exposed to the bilayer or hidden in the protein structure) of transmembrane residues in transmembrane beta barrel proteins (TMBs). BTMX predicts the exposure status of known TM residues with an accuracy of 84.2% over 2,225 residues and provides a confidence score for all predictions. Predictions made are in concert with the fact that hydrophobic residues tend to be more exposed to the bilayer. The biological relevance of the input parameters is also discussed. The highest prediction accuracy is obtained when a sliding window comprising three residues with similar C(α)-C(β) vector orientations is employed. The prediction accuracy of the BTMX method on a separate unseen non-redundant test dataset is 78.1%. By employing out-pointing residues that are exposed to the bilayer, we have identified various physico-chemical properties that show statistically significant differences between the beta strands located at the oligomeric interfaces compared to the non-oligomeric strands. The BTMX web server generates colored, annotated snake-plots as part of the prediction results and is available under the BTMX tab at http://service.bioinformatik.uni-saarland.de/tmx-site/. Exposure status prediction of TMB residues may be useful in 3D structure prediction of TMBs.
+</abstract>
+
+</text>

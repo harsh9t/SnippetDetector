@@ -1,0 +1,11 @@
+<title>
+Measurement of mRNA abundance using RNA-seq data: RPKM measure is inconsistent among samples.
+</title>
+
+<text>
+
+<abstract>
+Measures of RNA abundance are important for many areas of biology and often obtained from high-throughput RNA sequencing methods such as Illumina sequence data. These measures need to be normalized to remove technical biases inherent in the sequencing approach, most notably the length of the RNA species and the sequencing depth of a sample. These biases are corrected in the widely used reads per kilobase per million reads (RPKM) measure. Here, we argue that the intended meaning of RPKM is a measure of relative molar RNA concentration (rmc) and show that for each set of transcripts the average rmc is a constant, namely the inverse of the number of transcripts mapped. Further, we show that RPKM does not respect this invariance property and thus cannot be an accurate measure of rmc. We propose a slight modification of RPKM that eliminates this inconsistency and call it TPM for transcripts per million. TPM respects the average invariance and eliminates statistical biases inherent in the RPKM measure.
+</abstract>
+
+</text>

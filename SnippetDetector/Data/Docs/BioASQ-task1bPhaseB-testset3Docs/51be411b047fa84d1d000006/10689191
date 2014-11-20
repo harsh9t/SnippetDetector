@@ -1,0 +1,11 @@
+<title>
+The PAUSE software for analysis of translational control over protein targeting: application to E. nidulans membrane proteins.
+</title>
+
+<text>
+
+<abstract>
+The PAUSE software has been developed as a new tool to study translational control over protein targeting. This makes it possible to correlate the position of clusters of rare codons in a gene, predicted to cause a translational pause, with the position of hydrophobic stretches in the encoded protein, predicted to span a membrane or to act as a cleavable signal for targeting to the secretory pathway. Furthermore, this software gathers these correlations over whole sets of genes. The PAUSE software is described here, and its use is illustrated on a set of membrane proteins from the fungus Emericella nidulans. Preferential distances of about 45 codons and of about 70 codons between putative transmembrane domains and predicted translational pauses were observed. Given that approximately 30 residues are required to span the large ribosomal subunit, the predicted pauses would therefore occur when the hydrophobic domain starts protruding from the ribosome ('+45 pause'), or fully protrudes as a hairpin ('+70 pause'). Thus, these specific pauses might reflect a translational control over membrane protein targeting or early recognition ('+45 pause'), and over insertion or folding ('+70 pause').
+</abstract>
+
+</text>

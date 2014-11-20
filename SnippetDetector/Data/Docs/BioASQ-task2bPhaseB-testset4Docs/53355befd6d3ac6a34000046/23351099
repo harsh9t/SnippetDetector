@@ -1,0 +1,11 @@
+<title>
+Consensus docking: improving the reliability of docking in a virtual screening context.
+</title>
+
+<text>
+
+<abstract>
+Structure-based virtual screening relies on scoring the predicted binding modes of compounds docked into the target. Because the accuracy of this scoring relies on the accuracy of the docking, methods that increase docking accuracy are valuable. Here, we present a relatively straightforward method for improving the probability of identifying accurately docked poses. The method is similar in concept to consensus scoring schemes, which have been shown to increase ranking power and thus hit rates, but combines information about predicted binding modes rather than predicted binding affinities. The pose prediction success rate of each docking program alone was found in this trial to be 55% for Autodock, 58% for DOCK, and 64% for Vina. By using more than one docking program to predict the binding pose, correct poses were identified in 82% or more of cases, a significant improvement. In a virtual screen, these more reliably posed compounds can be preferentially advanced to subsequent scoring stages to improve hit rates. Consensus docking can be easily introduced into established structure-based virtual screening methodologies.
+</abstract>
+
+</text>

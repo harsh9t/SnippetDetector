@@ -1,0 +1,11 @@
+<title>
+Kernel-based data fusion for gene prioritization.
+</title>
+
+<text>
+
+<abstract>
+MOTIVATION: Hunting disease genes is a problem of primary importance in biomedical research. Biologists usually approach this problem in two steps: first a set of candidate genes is identified using traditional positional cloning or high-throughput genomics techniques; second, these genes are further investigated and validated in the wet lab, one by one. To speed up discovery and limit the number of costly wet lab experiments, biologists must test the candidate genes starting with the most probable candidates. So far, biologists have relied on literature studies, extensive queries to multiple databases and hunches about expected properties of the disease gene to determine such an ordering. Recently, we have introduced the data mining tool ENDEAVOUR (Aerts et al., 2006), which performs this task automatically by relying on different genome-wide data sources, such as Gene Ontology, literature, microarray, sequence and more. RESULTS: In this article, we present a novel kernel method that operates in the same setting: based on a number of different views on a set of training genes, a prioritization of test genes is obtained. We furthermore provide a thorough learning theoretical analysis of the method's guaranteed performance. Finally, we apply the method to the disease data sets on which ENDEAVOUR (Aerts et al., 2006) has been benchmarked, and report a considerable improvement in empirical performance. AVAILABILITY: The MATLAB code used in the empirical results will be made publicly available.
+</abstract>
+
+</text>

@@ -1,0 +1,11 @@
+<title>
+Systematic detection of pathogenic alu element insertions in NGS-based diagnostic screens: the BRCA1/BRCA2 example.
+</title>
+
+<text>
+
+<abstract>
+Pathogenic Alu element insertions are rarely reported, whereas their occurrence is expected to be much higher. Alu containing alleles are usually out-competed during the PCR process and consequently undetectable with the classical screening methods. However, with the introduction of the next generation sequencing (NGS) technology in the diagnostic field, new opportunities are emerging. NGS data for a particular genomic region can be seen as the summation of all the individual sequences (reads) obtained for that region and no longer as the mean of this sum as it is the case for traditional Sanger sequencing. Because each single read covering that region is expected to be generated from a different template molecule, the presence of one single mutant read must theoretically be sufficient to identify the mutation. However, generation and identification of mutant reads bearing Alu insertions remains challenging and several wet/dry bench parameters need to be optimized. Hereby we present the proof of principle of a NGS-based mutation screening procedure allowing the detection of inherited Alu insertions within any predefined sequence by investigating 2 cases: c.1739_1740insAlu in BRCA1 and c.156_157insAlu in BRCA2.
+</abstract>
+
+</text>

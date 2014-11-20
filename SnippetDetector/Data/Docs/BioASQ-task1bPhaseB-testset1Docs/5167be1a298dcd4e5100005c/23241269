@@ -1,0 +1,88 @@
+<title>
+Mortality in former Olympic athletes: retrospective cohort analysis.
+</title>
+
+<text>
+
+<sections.0>
+Introduction
+ublic health associations recommend physical exercise because it is associated with lower mortality risks, better mood and cognition, and lower prevalence of cardiovascular disease.1
+2
+3
+4
+5
+6
+7 owever, when heidippides ran from arathon to thens in 490  to announce the reek victory over the ersians, he died on arrival. s his case illustrates, exercise of high intensity can also place great strain on the body and can cause serious injuries and damage.8 he question is whether regular high intensity exercise is associated with a lower or higher mortality risk. hen the first modern lympic ames were held in thens in 1896, including a marathon run to thens, the organisers decided to shorten the distance, with the death of heidippides in mind. he current distance of 42.195 km was determined only later during the third lympics in ondon, when the royal family requested the race to be from the start at indsor astle to the royal stage in the hite ity tadium. his year, the lympic ames were back in ondon, but whether high intensity exercise is beneficial for reducing mortality risk is still debated.9
+10
+he effect of high intensity exercise on mortality later in life has mostly been studied among professional athletes, using the general population as a control group. he outcomes from these studies differ; some did not find a survival benefit, whereas others showed lower mortality in athletes than in their non-athletic counterparts from the general population.11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24 he lower mortality risk of professional athletes compared with the general population could be due to specific social and psychometric characteristics, and whether high intensity exercise brings a survival benefit or an increased mortality risk for athletes remains to be elucidated. e analysed mortality patterns in a large historic cohort of athletes who had all participated in the lympic ames between 1896 and 1936 but performed at different levels of cardiovascular, static, and dynamic intensity exercise.Introduction
+Public health associations recommend physical exercise because it is associated with lower mortality risks, better mood and cognition, and lower prevalence of cardiovascular disease.1
+2
+3
+4
+5
+6
+7 However, when Pheidippides ran from Marathon to Athens in 490 BC to announce the Greek victory over the Persians, he died on arrival. As his case illustrates, exercise of high intensity can also place great strain on the body and can cause serious injuries and damage.8 The question is whether regular high intensity exercise is associated with a lower or higher mortality risk. When the first modern Olympic Games were held in Athens in 1896, including a marathon run to Athens, the organisers decided to shorten the distance, with the death of Pheidippides in mind. The current distance of 42.195 km was determined only later during the third Olympics in London, when the royal family requested the race to be from the start at Windsor Castle to the royal stage in the White City Stadium. This year, the Olympic Games were back in London, but whether high intensity exercise is beneficial for reducing mortality risk is still debated.9
+10
+The effect of high intensity exercise on mortality later in life has mostly been studied among professional athletes, using the general population as a control group. The outcomes from these studies differ; some did not find a survival benefit, whereas others showed lower mortality in athletes than in their non-athletic counterparts from the general population.11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24 The lower mortality risk of professional athletes compared with the general population could be due to specific social and psychometric characteristics, and whether high intensity exercise brings a survival benefit or an increased mortality risk for athletes remains to be elucidated. We analysed mortality patterns in a large historic cohort of athletes who had all participated in the Olympic Games between 1896 and 1936 but performed at different levels of cardiovascular, static, and dynamic intensity exercise.
+</sections.0>
+
+<sections.1>
+Methods
+tudy population. In May 2011 we retrieved a cohort of 21β€‰127 former Olympic athletes from the continuously updated Sports Reference database, the largest online database of Olympic athletes.25 Figure 1 summarises the inclusion process. We included 9889 former Olympic athletes, born between 1830 and 1910, with a known age at death, who participated in at least one of the Summer Olympic Games between 1896 and 1936. We excluded 2162 athletes from nine disciplines that were not mentioned in the classification of the American College of Cardiology.26 We classified skeleton as bobsledding and polo as equestrian, because of the very similar types of exercise. For 7534 athletes, the age at death was unknown owing to an unknown date of birth, date of death, or both. Finally, we excluded 1542 participants born after 1910, as they could possibly be still alive.Fig 1β€‚Flow diagram showing inclusion of former Olympic athletes in studyClassification of Olympic disciplinesWe classified the 43 Olympic disciplines according to the classification system of the 8th Task Force on the Classification of Sports by the American College of Cardiology.26 The classification of cardiovascular intensity sums a static component reflecting maximal voluntary muscle contraction and a dynamic component reflecting maximal oxygen uptake; both were categorised at three levels of intensityβ€”low, moderate, and high. The system also defines three levels of static and dynamic intensityβ€”low, moderate, and high. When an athlete had participated in multiple disciplines, we categorised him/her in the discipline with the highest cardiovascular score. The risk of bodily collision was also classified by the American College of Cardiology.26 Finally, we classified the various disciplines as low (non-contact), moderate (limited contact), and high (full contact), according to the classification of contact sports of the American Academy of Pediatrics.27 The levels of exercise intensity were similar in athletes who were included in and excluded from this analysis (data not shown).Statistical analysisWe calculated hazard ratios for all cause mortality by using a left truncated Cox proportional hazards model, entering participants at the age of first participation in the Olympic Games. All analyses were adjusted for sex, year of birth, and nationality. We used Stata 11 for all calculations.
+</sections.1>
+
+<sections.2>
+Results
+e included 9889 athletes from 43 different lympic disciplines that were classified in various categories of intensity of exercise, risk of bodily collision, and the level of physical contact. he supplementary table summarises the characteristics of these 43 disciplines. igure 2 shows all 43 disciplines stratified for the level of static, dynamic, and cardiovascular intensity, classified according the merican ollege of ardiology.26
+ig 2β€‚43 lympic disciplines classified in categories of static and dynamic intensity, as well as three categories of low, moderate, and high cardiovascular intensity (from yellow to red).26e firstly calculated hazard ratios for mortality dependent on different levels of exercise intensity. s the participants came from different birth cohorts, we adjusted all our analyses for year of birth, which, as expected, was correlated with mortality. ext, we adjusted for sex and nationality, which were also correlated with mortality (data not shown). able 1 shows hazard ratios for mortality for different levels of cardiovascular, static, and dynamic intensity in both univariate and multivariate analyses. ngagement in disciplines with increasing cardiovascular intensity was not associated with a significantly higher mortality risk; the hazard ratio for moderate intensity was 1.01 (95% confidence interval 0.96 to 1.07; =0.71), and that for high intensity was 0.98 (0.92 to 1.40; =0.46). ultivariate analysis showed similar results (table 1). nalysis of the static and dynamic components separately showed similar non-significant results. nivariate analysis showed a small beneficial effect of moderate static exercise, but this was not reflected in a lower hazard ratio in athletes engaged in disciplines with high intensity static exercise.
+able 1β€‚azard ratios of mortality for athletes in disciplines with different intensities of exercise. IntensityUnivariate analysis*Multivariate analysisβ€ Hazard ratio (95% CI)P valueHazard ratio (95% CI)P valueCardiovascular:β€ƒLowReferenceReferenceβ€ƒModerate1.01 (0.96 to 1.07)0.711.04 (0.95 to 1.15)0.40β€ƒHigh0.98 (0.92 to 1.04)0.461.05 (0.89 to 1.25)0.58Static:β€ƒLowReferenceReferenceβ€ƒModerate0.94 (0.89 to 0.99)0.020.93 (0.85 to 1.01)0.09β€ƒHigh0.99 (0.94 to 1.04)0.620.95 (0.85 to 1.07)0.40Dynamic:β€ƒLowReferenceReferenceβ€ƒModerate0.94 (0.89 to 0.99)0.030.94 (0.87 to 1.01)0.09β€ƒHigh0.97 (0.92 to 1.02)0.190.94 (0.83 to 1.06)0.34*Adjusted for sex, year of birth, and nationality.β€ Additionally includes all types of exercise intensity (cardiovascular, static, and dynamic) in model.We also studied the effect of bodily collision and physical contact on mortality (table 2). Athletes engaged in disciplines with a high risk of bodily collision had an 11% higher mortality risk compared with those who were not exposed (hazard ratio 1.11, 1.06 to 1.15; P<0.001). When comparing athletes who had performed in disciplines with various levels of physical contact, we found that those who participated in sports with only moderate contact did not have a higher mortality risk. However, athletes who were exposed to high levels of physical contact had a 16% higher mortality risk compared with those with low physical contact (hazard ratio 1.16, 1.11 to 1.22; P<0.001). These higher mortality risks remained similar in the multivariate analysis, whereas the hazard ratio for bodily collision became non-significant.
+Table 2β€‚Hazard ratios of mortality for athletes in disciplines with different risk of bodily collision and physical contactSport typeUnivariate analysis*Multivariate analysisβ€ Hazard ratio (95% CI)P valueHazard ratio (95% CI)P valueBodily collision:β€ƒNoReferenceReferenceβ€ƒYes1.11 (1.06 to 1.15)<0.0011.03 (0.98 to 1.09)0.25Physical contact:β€ƒLowReferenceReferenceβ€ƒModerate0.97 (0.93 to 1.02)0.250.96 (0.92 to 1.01)0.16β€ƒHigh1.16 (1.11 to 1.22)<0.0011.13 (1.06 to 1.21)<0.001*Adjusted for sex, year of birth, and nationality.β€ Additionally includes both bodily collision and physical contact in model.We additionally did similar analyses in various subgroupsβ€”men only, deaths after age 50, born before 1900, and born after 1900 (fig 3). In none of the subgroups was exercise at high cardiovascular intensity associated with a reduction in mortality risk. However, we found a significant higher mortality risk in all these subgroups for risk of bodily collision and high physical contact.
+Fig 3β€‚Hazard ratios of mortality (95% CIs) in former Olympic athletes according to cardiovascular intensity, bodily collision, and physical contact. Analyses were adjusted for sex, year of birth, and nationality
+</sections.2>
+
+<sections.3>
+Discussion
+ur results show that former lympic athletes who engaged in disciplines with high cardiovascular intensity had similar mortality risks to athletes from disciplines with low cardiovascular intensity. his would indicate that engaging in cycling and rowing (high cardiovascular intensity) had no added survival benefit compared with playing golf or cricket (low cardiovascular intensity).
+lthough comparing modern sporting activity with that during the first series of the games is a daunting task, this analysis is sobering for all those athletes who trained so hard to qualify for the ondon lympics in 2012. oreover, our analyses point to a potential risk for those engaged in disciplines with a high risk of bodily collision or high levels of physical contact. s the higher mortality risk persisted for death after age 50, this increased risk could not be explained by the death of young athletes due to trauma. e consider it more likely that the higher mortality risk reflects the effect of a gradual accumulation of multiple bodily injuries during sporting activities. revious studies have shown that bodily collisions or fierce physical contacts are responsible for a large proportion of the total burden of injuries.8
+28 hese injuries may have longlasting detrimental effects, in line with the generalised theory of ageing. or instance, repetitive blows to the head, especially in boxers, are associated with cognitive impairment, early onset dementia, and reduced life expectancy.29
+30
+ur findings stand in contrast to several other studies showing a benefit to late life mortality risk in very well trained athletes.31
+32
+33
+34  possible explanation could be that these studies included only exercise of moderate intensity. ther studies, however, described a late life survival advantage for endurance athletes who had trained at high physical intensity.22
+23
+24
+35 ll previous observations may be subject to bias, however, as trained athletes differ from the general population in more ways than just physical fitness. e consider our comparison of former lympic athletes who performed their sports at different physical intensity to be more robust than a comparison between trained athletes and people from the population at large. his interpretation is strengthened by the fact that outcomes were congruent in all domains of physical intensity (for example, cardiovascular, static and dynamic intensity).
+n this study, we used data from athletes who participated in the lympic ames between 1896 and 1936, so outcomes reflect late life consequences of intensive exercise programmes that were in vogue 70 to 110 years ago. ince then, training programmes, especially on a (semi)professional level, have changed substantially. op athletes now not only train more often and more intensely, but training has also become more individualised and specifically focused. oreover, medical care to prevent permanent damage is undoubtedly better and could explain why in the past the potential benefits of intensive physical training were overwhelmed by trade-offs later in life. e do not have access to any data that allow for a valid comparison of use of anabolic steroids and other stimulating substances, but many people would argue that their use was probably less prevalent in the past than it is now. or all of these reasons, care is needed in extrapolating our findings to the late life effects of current training schemes.
+egarding the negative effect of bodily collision and fierce physical contact, current sporting activities are much more extreme with regard to velocity, g force, and other mechanical strains. ollisions and physical injuries could therefore have more effect nowadays, despite better protective aids and medical treatment. ur findings could well underestimate the late life effects of the gradual accumulation of permanent damage due to repeated collisions and injuries to which top athletes are exposed. his being said, several potential confounders could decrease or further increase the hazard ratios for mortality that we have found. hese include unknown factors such as the total number of years spent in training, age at which intensive training ceased, intensity of exercise after athletes withdrew from competitive sports, specific behaviour in specific types of sport, and specific personal characteristics depending on the type of sport. he beneficial effects of exercise could also be counterbalanced by detrimental effects of (acute) cessation of physical exercise resulting in a net neutral effect.
+lthough we did not find evidence that former lympic athletes from disciplines involving high intensity exercise have a higher mortality risk than other former lympians, people should think for a moment before engaging in disciplines with risk of bodily collision or fierce physical contact. his notion may help to explain a historical fact. efore heidippides exclaimed β€�½‰µ. Ξ½β€� (we have won) and collapsed, he had not only run from Marathon to Athens but had fought in the battle of Marathon before that. It is tempting to speculate that it was not the run from Marathon to Athens but the effect of armed force that led to his tragic death.
+What is already known on this topicModern athletes who performing high intensity exercise have a survival benefit when compared with the general populationIntensive exercise places great strain on the human body and can cause serious injuries and damageWhat this study addsFormer Olympic athletes who engaged in disciplines with high cardiovascular intensity had similar mortality risks to those from disciplines with low cardiovascular intensityEngaging in disciplines with risk of bodily collision or physical contact was associated with a higher mortality risk compared with other disciplines
+</sections.3>
+
+</text>

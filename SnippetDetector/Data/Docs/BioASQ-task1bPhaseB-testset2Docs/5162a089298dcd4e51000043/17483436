@@ -1,0 +1,11 @@
+<title>
+MicroRNA expression profiles for the NCI-60 cancer cell panel.
+</title>
+
+<text>
+
+<abstract>
+Advances in the understanding of cancer cell biology and response to drug treatment have benefited from new molecular technologies and methods for integrating information from multiple sources. The NCI-60, a panel of 60 diverse human cancer cell lines, has been used by the National Cancer Institute to screen >100,000 chemical compounds and natural product extracts for anticancer activity. The NCI-60 has also been profiled for mRNA and protein expression, mutational status, chromosomal aberrations, and DNA copy number, generating an unparalleled public resource for integrated chemogenomic studies. Recently, microRNAs have been shown to target particular sets of mRNAs, thereby preventing translation or accelerating mRNA turnover. To complement the existing NCI-60 data sets, we have measured expression levels of microRNAs in the NCI-60 and incorporated the resulting data into the CellMiner program package for integrative analysis. Cell line groupings based on microRNA expression were generally consistent with tissue type and with cell line clustering based on mRNA expression. However, mRNA expression seemed to be somewhat more informative for discriminating among tissue types than was microRNA expression. In addition, we found that there does not seem to be a significant correlation between microRNA expression patterns and those of known target transcripts. Comparison of microRNA expression patterns and compound potency patterns showed significant correlations, suggesting that microRNAs may play a role in chemoresistance. Combined with gene expression and other biological data using multivariate analysis, microRNA expression profiles may provide a critical link for understanding mechanisms involved in chemosensitivity and chemoresistance.
+</abstract>
+
+</text>

@@ -1,0 +1,11 @@
+<title>
+Over- and under-representation of short oligonucleotides in DNA sequences.
+</title>
+
+<text>
+
+<abstract>
+Strand-symmetric relative abundance functionals for di-, tri-, and tetranucleotides are introduced and applied to sequences encompassing a broad phylogenetic range to discern tendencies and anomalies in the occurrences of these short oligonucleotides within and between genomic sequences. For dinucleotides, TA is almost universally under-represented, with the exception of vertebrate mitochondrial genomes, and CG is strongly under-represented in vertebrates and in mitochondrial genomes. The traditional methylation/deamination/mutation hypothesis for the rarity of CG does not adequately account for the observed deficiencies in certain sequences, notably the mitochondrial genomes, yeast, and Neurospora crassa, which lack the standard CpG methylase. Homodinucleotides (AA.TT, CC.GG) and larger homooligonucleotides are over-represented in many organisms, perhaps due to polymerase slippage events. For trinucleotides, GCA.TGC tends to be under-represented in phage, human viral, and eukaryotic sequences, and CTA.TAG is strongly under-represented in many prokaryotic, eukaryotic, and viral sequences. The CCA.TGG triplet is ubiquitously over-represented in human viral and eukaryotic sequences. Among the tetranucleotides, several four-base-pair palindromes tend to be under-represented in phage sequences, probably as a means of restriction avoidance. The tetranucleotide CTAG is observed to be rare in virtually all bacterial genomes and some phage genomes. Explanations for these over- and under-representations in terms of DNA/RNA structures and regulatory mechanisms are considered.
+</abstract>
+
+</text>

@@ -1,0 +1,11 @@
+<title>
+Genome-wide analysis reveals strong correlation between CpG islands with nearby transcription start sites of genes and their tissue specificity.
+</title>
+
+<text>
+
+<abstract>
+It has been envisaged that CpG islands are often observed near the transcriptional start sites (TSS) of housekeeping genes. However, neither the precise positions of CpG islands relative to TSS of genes nor the correlation between the presence of the CpG islands and the expression specificity of these genes is well-understood. Using thousands of sequences with known TSS in human and mouse, we found that there is a clear peak in the distribution of CpG islands around TSS in the genes of these two species. Thus, we classified human (mouse) genes into 6600 (2948) CpG+ genes and 2619 (1830) CpG- ones, based on the presence of a CpG island within the -100: +100 region. We estimated the degree of each gene being a housekeeper by the number of cDNA libraries where its ESTs were detected. Then, the tendency that a gene lacking CpG islands around its TSS is expressed with a higher degree of tissue specificity turned out to be evolutionarily conserved. We also confirmed this tendency by analyzing the gene ontology annotation of classified genes. Since no such clear correlation was found in the control data (mRNAs, pre-mRNAs, and chromosome banding pattern), we concluded that the effect of a CpG island near the TSS should be more important than the global GC content of the region where the gene resides.
+</abstract>
+
+</text>

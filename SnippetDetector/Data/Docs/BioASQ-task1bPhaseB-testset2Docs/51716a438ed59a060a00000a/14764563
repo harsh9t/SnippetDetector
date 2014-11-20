@@ -1,0 +1,11 @@
+<title>
+Comparison of various algorithms for recognizing short coding sequences of human genes.
+</title>
+
+<text>
+
+<abstract>
+MOTIVATION: Since the early 1980s of the twentieth century, there has been great progress in the development of computational gene-finding algorithms. Some problems, however, have not yet been solved currently. Recognizing short genes in prokaryotes and short exons in eukaryotes is one of such problems. The paper is devoted to assessing various algorithms, including those currently available and the new ones proposed here, in order to find the best algorithm to solve the issue. RESULTS: The databases consisting of phase-specific coding and non-coding sequences of human genes with length of 192, 162, 129, 108, 87, 63 and 42 bp, respectively, have been established. Based on the databases and a standard benchmark, 19 algorithms were evaluated, which include the methods of Markov models with orders of 1 through 5, codon usage, hexamer usage, codon preference, amino acid usage, codon prototype, Fourier transform and 8 Z curve methods with various numbers of parameters. Consequently, the Z curve methods with 69 and 189 parameters are the best ones among them, based on the databases constructed here. In addition to the highest recognition accuracy confirmed by 10-fold cross-validation tests, the Z curve methods are much simpler computationally than the second best one, the fifth-order Markov chain model, in which 12 288 parameters are used. We hope that the Z curve methods presented in this paper would be beneficial to the further development of gene-finding algorithms. AVAILABILITY: The programs of various Z curve methods are available on request.
+</abstract>
+
+</text>

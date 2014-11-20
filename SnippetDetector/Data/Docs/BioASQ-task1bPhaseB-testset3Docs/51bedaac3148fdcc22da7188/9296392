@@ -1,0 +1,11 @@
+<title>
+Glucose-induced microautophagy in Pichia pastoris requires the alpha-subunit of phosphofructokinase.
+</title>
+
+<text>
+
+<abstract>
+We have characterized biochemically, morphologically, and genetically two distinct pathways for the selective degradation of peroxisomes in Pichia pastoris. These pathways are independently regulated and analogous to microautophagy and macroautophagy that have been defined in mammalian cells. When P. pastoris is grown in methanol, cytosolic and peroxisomal enzymes necessary for methanol assimilation are synthesized. During adaptation from methanol to glucose, these enzymes are rapidly and selectively degraded within the yeast vacuole by microautophagy. We have isolated gsa mutants that are defective in glucose-induced selective autophagy of peroxisomes. In this study, we have shown that gsa1 is unable to sequester peroxisomes into the yeast vacuole. In addition, we provide evidence that the glucose-induced selective autophagy 1 (GSA1) protein is the alpha subunit of the phosphofructokinase enzyme complex encoded by PFK1. First, we can rescue the gsa1 mutant by transformation with a vector containing PFK1. Second, cellular levels of both PFK1 mRNA and phosphofructokinase activity are dramatically reduced in gsa1 when compared to the parental GS115. Third, a PFK1 knockout (delta pfk1) is unable to degrade alcohol oxidase during glucose adaptation. As observed in gsa1, the peroxisomes in delta pfk1 remain outside the vacuole during adaptation. Our data are consistent with the concept that PFK1 protein is required for an event upstream of vacuole degradation (i.e. signaling, selection, or sequestration). However, the degradation of peroxisomes does not require a catalytically active phosphofructokinase. The inability of delta pfk1 cells to degrade alcohol oxidase can be rescued by transformation with either normal PFK1 or mutant pfk1 whose catalytic site had been inactivated by a single amino acid mutation. We propose that PFK1 protein directly modulates glucose-induced microautophagy independent of its ability to metabolize glucose intermediates.
+</abstract>
+
+</text>

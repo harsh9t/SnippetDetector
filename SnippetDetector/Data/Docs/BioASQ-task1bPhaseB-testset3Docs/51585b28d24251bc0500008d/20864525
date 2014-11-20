@@ -1,0 +1,11 @@
+<title>
+DNA methyltransferase 1-associated protein (DMAP1) is a co-repressor that stimulates DNA methylation globally and locally at sites of double strand break repair.
+</title>
+
+<text>
+
+<abstract>
+Correction of double strand DNA breaks proceeds in an error-free pathway of homologous recombination (HR), which can result in gene silencing of half of the DNA molecules caused by action by DNA methyltransferase 1 (DNMT1) (Cuozzo, C., Porcellini, A., Angrisano, T., Morano, A., Lee, B., Di Pardo, A., Messina, S., Iuliano, R., Fusco, A., Santillo, M. R., Muller, M. T., Chiariotti, L., Gottesman, M. E., and Avvedimento, E. V. (2007) PLoS Genet. 3, e110). To explore the mechanism that leads to HR-induced silencing, a genetic screen was carried out based on the silencing of a GFP reporter to identify potential partners. DMAP1, a DNMT1 interacting protein, was identified as a mediator of this process. DMAP1 is a potent activator of DNMT1 methylation in vitro, suggesting that DMAP1 is a co-repressor that supports the maintenance and de novo action of DNMT1. To examine critical roles for DMAP1 in vivo, lentiviral shRNA was used to conditionally reduce cellular DMAP1 levels. The shRNA transduced cells grew poorly and eventually ceased their growth. Analysis of the tumor suppressor gene p16 methylation status revealed a clear reduction in methylated CpGs in the shRNA cells, suggesting that reactivation of a tumor suppressor gene pathway caused the slow growth phenotype. Analysis of HR, using a fluorescence-based reporter, revealed that knocking down DMAP1 also caused hypomethylation of the DNA repair products following gene conversion. DMAP1 was selectively enriched in recombinant GFP chromatin based on chromatin immunoprecipitation analysis. The picture that emerges is that DMAP1 activates DNMT1 preferentially at sites of HR repair. Because DMAP1 depleted cells display enhanced HR, we conclude that it has additional roles in genomic stability.
+</abstract>
+
+</text>

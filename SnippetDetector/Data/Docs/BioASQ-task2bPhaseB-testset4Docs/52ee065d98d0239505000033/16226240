@@ -1,0 +1,11 @@
+<title>
+Machine learning in bioinformatics: a brief survey and recommendations for practitioners.
+</title>
+
+<text>
+
+<abstract>
+Machine learning is used in a large number of bioinformatics applications and studies. The application of machine learning techniques in other areas such as pattern recognition has resulted in accumulated experience as to correct and principled approaches for their use. The aim of this paper is to give an account of issues affecting the application of machine learning tools, focusing primarily on general aspects of feature and model parameter selection, rather than any single specific algorithm. These aspects are discussed in the context of published bioinformatics studies in leading journals over the last 5 years. We assess to what degree the experience gained by the pattern recognition research community pervades these bioinformatics studies. We finally discuss various critical issues relating to bioinformatic data sets and make a number of recommendations on the proper use of machine learning techniques for bioinformatics research based upon previously published research on machine learning.
+</abstract>
+
+</text>

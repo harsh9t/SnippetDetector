@@ -1,0 +1,11 @@
+<title>
+Using pseudo amino acid composition to predict transmembrane regions in protein: cellular automata and Lempel-Ziv complexity.
+</title>
+
+<text>
+
+<abstract>
+Transmembrane (TM) proteins represent about 20-30% of the protein sequences in higher eukaryotes, playing important roles across a range of cellular functions. Moreover, knowledge about topology of these proteins often provides crucial hints toward their function. Due to the difficulties in experimental structure determinations of TM protein, theoretical prediction methods are highly preferred in identifying the topology of newly found ones according to their primary sequences, useful in both basic research and drug discovery. In this paper, based on the concept of pseudo amino acid composition (PseAA) that can incorporate sequence-order information of a protein sequence so as to remarkably enhance the power of discrete models (Chou, K. C., Proteins: Structure, Function, and Genetics, 2001, 43: 246-255), cellular automata and Lempel-Ziv complexity are introduced to predict the TM regions of integral membrane proteins including both alpha-helical and beta-barrel membrane proteins, validated by jackknife test. The result thus obtained is quite promising, which indicates that the current approach might be a quite potential high throughput tool in the post-genomic era. The source code and dataset are available for academic users at liml@scu.edu.cn.
+</abstract>
+
+</text>

@@ -1,0 +1,11 @@
+<title>
+Genotype-based screen for ENU-induced mutations in mouse embryonic stem cells.
+</title>
+
+<text>
+
+<abstract>
+The ability to generate mutations is a prerequisite to functional genetic analysis. Despite a long history of using mice as a model system for genetic analysis, the scientific community has not generated a comprehensive collection of multiple alleles for most mouse genes. The chemical mutagen of choice for mouse has been N-ethyl-N-nitrosourea (ENU), an alkylating agent that mainly causes base substitutions in DNA, and therefore allows for recovery of complete and partial loss-, as well as gain-, of-function alleles . Specific locus tests designed to detect recessive mutations showed that ENU is the most efficient mutagen in mouse with an approximate mutation rate of 1 in 1,000 gametes. In fact, several genome-wide and region-specific screens based on phenotypes have been carried out. The anticipation of the completion of the human and mouse genome projects, however, now emphasizes genotype-driven genetics--from sequence to mutants. To take advantage of the mutagenicity of ENU and its ability to create allelic series of mutations, we have developed a complementary approach to generating mutations using mouse embryonic stem (ES) cells. We show that a high mutation frequency can be achieved and that modulating DNA-repair activities can enhance this frequency. The treated cells retain germline competency, thereby rendering this approach applicable for efficient generation of an allelic series of mutations pivotal to a fine-tuned dissection of biological pathways.
+</abstract>
+
+</text>

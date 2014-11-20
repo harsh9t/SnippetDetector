@@ -1,0 +1,11 @@
+<title>
+metaPIS: a sequence-based meta-server for protein interaction site prediction.
+</title>
+
+<text>
+
+<abstract>
+The identification of interfaces in protein complexes is effective for the elucidation of protein function and helps us to understand their roles in biological processes. With the exponentially growing amount of protein sequence data, an exploration of new methods that predict protein interaction sites based solely on sequence information is becoming increasingly urgent. Because a combination of different methods could produce better results than a single method, interaction site prediction can be improved through the utilization of different methods. This paper describes a new method that predicts interaction sites based on protein sequences by integrating five different algorithms employing meta-method, Majority Vote and SVMhmm Regression techniques. The 'metaPIS' web-server was implemented for meta-prediction. An evaluation of the meta-methods using independent datasets revealed that Majority Vote achieved the highest average Matthews correlation coefficient (0.181) among all the methods assessed. SVMhmm Regression achieved a lower score but provided a more stable result. The metaPIS server allows experimental biologists to speculate regarding protein function by identifying potential interaction sites based on protein sequence. As a web server, metaPIS is freely accessible to the public at http://202.116.74.5:84/metapis.
+</abstract>
+
+</text>

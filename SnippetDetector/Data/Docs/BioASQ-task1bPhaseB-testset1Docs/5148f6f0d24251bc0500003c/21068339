@@ -1,0 +1,11 @@
+<title>
+Sequence capture and next-generation resequencing of multiple tagged nucleic acid samples for mutation screening of urea cycle disorders.
+</title>
+
+<text>
+
+<abstract>
+BACKGROUND: Molecular genetic testing is commonly used to confirm clinical diagnoses of inherited urea cycle disorders (UCDs); however, conventional mutation screenings encompassing only the coding regions of genes may not detect disease-causing mutations occurring in regulatory elements and introns. Microarray-based target enrichment and next-generation sequencing now allow more-comprehensive genetic screening. We applied this approach to UCDs and combined it with the use of DNA bar codes for more cost-effective, parallel analyses of multiple samples. METHODS: We used sectored 2240-feature medium-density oligonucleotide arrays to capture and enrich a 199-kb genomic target encompassing the complete genomic regions of 3 urea cycle genes, OTC (ornithine carbamoyltransferase), CPS1 (carbamoyl-phosphate synthetase 1, mitochondrial), and NAGS (N-acetylglutamate synthase). We used the Genome Sequencer FLX System (454 Life Sciences) to jointly analyze 4 samples individually tagged with a 6-bp DNA bar code and compared the results with those for an individually sequenced sample. RESULTS: Using a low tiling density of only 1 probe per 91 bp, we obtained strong enrichment of the targeted loci to achieve ≥90% coverage with up to 64% of the sequences covered at a sequencing depth ≥10-fold. We observed a very homogeneous sequence representation of the bar-coded samples, which yielded a >30% increase in the sequence data generated per sample, compared with an individually processed sample. Heterozygous and homozygous disease-associated mutations were correctly detected in all samples. CONCLUSIONS: The use of DNA bar codes and the use of sectored oligonucleotide arrays for target enrichment enable parallel, large-scale analysis of complete genomic regions for multiple genes of a disease pathway and for multiple samples simultaneously. This approach thus may provide an efficient tool for comprehensive diagnostic screening of mutations.
+</abstract>
+
+</text>

@@ -1,0 +1,11 @@
+<title>
+A case study on the in silico absorption simulations of levothyroxine sodium immediate-release tablets.
+</title>
+
+<text>
+
+<abstract>
+The aim of this case study was to develop a drug-specific absorption model for levothyroxine (LT4) using mechanistic gastrointestinal simulation technology (GIST) implemented in the GastroPlus™ software package. The required input parameters were determined experimentally, in silico predicted and/or taken from the literature. The simulated plasma profile was similar and in a good agreement with the data observed in the in vivo bioequivalence study, indicating that the GIST model gave an accurate prediction of LT4 oral absorption. Additionally, plasma concentration-time profiles were simulated based on a set of experimental and virtual in vitro dissolution data in order to estimate the influence of different in vitro drug dissolution kinetics on the simulated plasma profiles and to identify biorelevant dissolution specification for LT4 immediate-release (IR) tablets. A set of experimental and virtual in vitro data was also used for correlation purposes. In vitro-in vivo correlation model based on the convolution approach was applied in order to assess the relationship between the in vitro and in vivo data. The obtained results suggest that dissolution specification of more than 85% LT4 dissolved in 60 min might be considered as biorelevant dissolution specification criteria for LT4 IR tablets.
+</abstract>
+
+</text>

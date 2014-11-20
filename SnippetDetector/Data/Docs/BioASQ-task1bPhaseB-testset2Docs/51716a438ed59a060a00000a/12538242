@@ -1,0 +1,11 @@
+<title>
+Gene finding with a hidden Markov model of genome structure and evolution.
+</title>
+
+<text>
+
+<abstract>
+MOTIVATION: A growing number of genomes are sequenced. The differences in evolutionary pattern between functional regions can thus be observed genome-wide in a whole set of organisms. The diverse evolutionary pattern of different functional regions can be exploited in the process of genomic annotation. The modelling of evolution by the existing comparative gene finders leaves room for improvement. RESULTS: A probabilistic model of both genome structure and evolution is designed. This type of model is called an Evolutionary Hidden Markov Model (EHMM), being composed of an HMM and a set of region-specific evolutionary models based on a phylogenetic tree. All parameters can be estimated by maximum likelihood, including the phylogenetic tree. It can handle any number of aligned genomes, using their phylogenetic tree to model the evolutionary correlations. The time complexity of all algorithms used for handling the model are linear in alignment length and genome number. The model is applied to the problem of gene finding. The benefit of modelling sequence evolution is demonstrated both in a range of simulations and on a set of orthologous human/mouse gene pairs. AVAILABILITY: Free availability over the Internet on www server: http://www.birc.dk/Software/evogene.
+</abstract>
+
+</text>

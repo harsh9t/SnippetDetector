@@ -1,0 +1,11 @@
+<title>
+Prediction of the transmembrane regions of beta-barrel membrane proteins with a neural network-based predictor.
+</title>
+
+<text>
+
+<abstract>
+A method based on neural networks is trained and tested on a nonredundant set of beta-barrel membrane proteins known at atomic resolution with a jackknife procedure. The method predicts the topography of transmembrane beta strands with residue accuracy as high as 78% when evolutionary information is used as input to the network. Of the transmembrane beta-strands included in the training set, 93% are correctly assigned. The predictor includes an algorithm of model optimization, based on dynamic programming, that correctly models eight out of the 11 proteins present in the training/testing set. In addition, protein topology is assigned on the basis of the location of the longest loops in the models. We propose this as a general method to fill the gap of the prediction of beta-barrel membrane proteins.
+</abstract>
+
+</text>

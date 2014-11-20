@@ -1,0 +1,11 @@
+<title>
+Gene structure prediction by spliced alignment of genomic DNA with protein sequences: increased accuracy by differential splice site scoring.
+</title>
+
+<text>
+
+<abstract>
+Gene identification in genomic DNA from eukaryotes is complicated by the vast combinatorial possibilities of potential exon assemblies. If the gene encodes a protein that is closely related to known proteins, gene identification is aided by matching similarity of potential translation products to those target proteins. The genomic DNA and protein sequences can be aligned directly by scoring the implied residues of in-frame nucleotide triplets against the protein residues in conventional ways, while allowing for long gaps in the alignment corresponding to introns in the genomic DNA. We describe a novel method for such spliced alignment. The method derives an optimal alignment based on scoring for both sequence similarity of the predicted gene product to the protein sequence and intrinsic splice site strength of the predicted introns. Application of the method to a representative set of 50 known genes from Arabidopsis thaliana showed significant improvement in prediction accuracy compared to previous spliced alignment methods. The method is also more accurate than ab initio gene prediction methods, provided sufficiently close target proteins are available. In view of the fast growth of public sequence repositories, we argue that close targets will be available for the majority of novel genes, making spliced alignment an excellent practical tool for high-throughput automated genome annotation.
+</abstract>
+
+</text>

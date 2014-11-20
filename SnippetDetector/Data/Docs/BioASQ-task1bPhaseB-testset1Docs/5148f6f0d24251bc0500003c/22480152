@@ -1,0 +1,11 @@
+<title>
+A low-cost exon capture method suitable for large-scale screening of genetic deafness by the massively-parallel sequencing approach.
+</title>
+
+<text>
+
+<abstract>
+Current major barriers for using next-generation sequencing (NGS) technologies in genetic mutation screening on an epidemiological scale appear to be the high accuracy demanded by clinical applications and high per-sample cost. How to achieve high efficiency in enriching targeted disease genes while keeping a low cost/sample is a key technical hurdle to overcome. We validated a cDNA-probe-based approach for capturing exons of a group of genes known to cause deafness. Polymerase chain reaction amplicons were made from cDNA clones of the targeted genes and used as bait probes in hybridization for capturing human genomic DNA (gDNA) fragments. The cDNA library containing the clones of targeted genes provided a readily available, low-cost, and regenerable source for producing capture probes with standard molecular biology equipment. Captured gDNA fragments by our method were sequenced by the Illumina NGS platform. Results demonstrated that targeted exons captured by our approach achieved specificity, multiplexicity, uniformity, and depth of coverage suitable for accurate sequencing applications by the NGS systems. Reliable genotype calls for various homozygous and heterozygous mutations were achieved. The results were confirmed independently by conventional Sanger sequencing. The method validated here could be readily expanded to include all-known deafness genes for applications such as genetic hearing screening in newborns. The high coverage depth and cost benefits of the cDNA-probe-based exon capture approach may also facilitate widespread applications in clinical practices beyond screening mutations in deafness genes.
+</abstract>
+
+</text>

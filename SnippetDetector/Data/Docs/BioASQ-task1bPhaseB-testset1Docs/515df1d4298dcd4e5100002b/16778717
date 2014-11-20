@@ -1,0 +1,11 @@
+<title>
+Population pharmacokinetics of allopurinol in full-term neonates with perinatal asphyxia.
+</title>
+
+<text>
+
+<abstract>
+In newborn infants, allopurinol is being tested as a free radical scavenger to prevent brain damage caused by reperfusion and oxygenation after perinatal hypoxia and ischemia (birth asphyxia). To develop rational dosing schemes for future studies, knowledge of the pharmacokinetics in this patient group is essential. In the present study, a population pharmacokinetic model was designed and validated for allopurinol in this specific patient group. One-compartment and 2-compartment models were fitted to plasma concentration time data of 24 newborns entered in 2 clinical trials using nonlinear mixed effects modeling. A bootstrap procedure was performed to check the robustness of the model. The data were best described using a 1-compartment model with linear elimination. Estimated pharmacokinetic parameters were volume of the central compartment (V, 0.79 L/kg) and total body clearance (CL, 0.078 L/h/kg), with 42% and 60% interindividual variability, respectively. The median values for these parameters of 1000 bootstrap replicates were very similar (95% confidence intervals were 0.67 to 0.96 and 0.054 to 0.10 for V and CL, respectively), indicating the robustness of the model. A population pharmacokinetic model has been designed and validated which adequately describes the data of 2 clinical studies in critically ill newborn infants. The model will be used to design dosing strategies for future evaluation of the benefits of allopurinol in these patients.
+</abstract>
+
+</text>

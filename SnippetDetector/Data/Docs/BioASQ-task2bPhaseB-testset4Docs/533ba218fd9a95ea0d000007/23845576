@@ -1,0 +1,11 @@
+<title>
+Advances in parametric mapping with CMR imaging.
+</title>
+
+<text>
+
+<abstract>
+Cardiac magnetic resonance imaging (CMR) is well established and considered the gold standard for assessing myocardial volumes and function, and for quantifying myocardial fibrosis in both ischemic and nonischemic heart disease. Recent developments in CMR imaging techniques are enabling clinically-feasible rapid parametric mapping of myocardial perfusion and magnetic relaxation properties (T1, T2, and T2* relaxation times) that are further expanding the range of unique tissue parameters that can be assessed using CMR. To generate a parametric map of perfusion or relaxation times, multiple images of the same region of the myocardium are acquired with different sensitivity to the parameter of interest, and the signal intensities of these images are fit to a model which describes the underlying physiology or relaxation parameters. The parametric map is an image of the fitted perfusion parameters or relaxation times. Parametric mapping requires acquisition of multiple images typically within a breath-hold and thus requires specialized rapid acquisition techniques. Quantitative perfusion imaging techniques can more accurately determine the extent of myocardial ischemia in coronary artery disease and provide the opportunity to evaluate microvascular disease with CMR. T1 mapping techniques performed both with and without contrast are enabling quantification of diffuse myocardial fibrosis and myocardial infiltration. Myocardial edema and inflammation can be evaluated using T2 mapping techniques. T2* mapping provides an assessment of myocardial iron-overload and myocardial hemorrhage. There is a growing body of evidence for the clinical utility of quantitative assessment of perfusion and relaxation times, although current techniques still have some important limitations. This article will review the current imaging technologies for parametric mapping, emerging applications, current limitations, and potential of CMR parametric mapping of the myocardium. The specific focus will be the assessment and quantification of myocardial perfusion and magnetic relaxation times.
+</abstract>
+
+</text>

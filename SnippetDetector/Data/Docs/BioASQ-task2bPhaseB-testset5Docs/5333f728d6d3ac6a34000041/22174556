@@ -1,0 +1,11 @@
+<title>
+HKC: an algorithm to predict protein complexes in protein-protein interaction networks.
+</title>
+
+<text>
+
+<abstract>
+With the availability of more and more genome-scale protein-protein interaction (PPI) networks, research interests gradually shift to Systematic Analysis on these large data sets. A key topic is to predict protein complexes in PPI networks by identifying clusters that are densely connected within themselves but sparsely connected with the rest of the network. In this paper, we present a new topology-based algorithm, HKC, to detect protein complexes in genome-scale PPI networks. HKC mainly uses the concepts of highest k-core and cohesion to predict protein complexes by identifying overlapping clusters. The experiments on two data sets and two benchmarks show that our algorithm has relatively high F-measure and exhibits better performance compared with some other methods.
+</abstract>
+
+</text>

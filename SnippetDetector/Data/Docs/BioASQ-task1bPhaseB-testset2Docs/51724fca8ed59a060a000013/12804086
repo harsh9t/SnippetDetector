@@ -1,0 +1,11 @@
+<title>
+A table-driven, full-sensitivity similarity search algorithm.
+</title>
+
+<text>
+
+<abstract>
+Searching a database for a local alignment to a query under a typical scoring scheme, such as PAM120 or BLOSUM62 with affine gap costs, is a computation that has resisted algorithmic improvement due to its basis in dynamic programming and the weak nature of the signals being searched for. In a query preprocessing step, a set of tables can be built that permit one to (a) eliminate a large fraction of the dynamic programming matrix from consideration and (b) to compute several steps of the remainder with a single table lookup. While this result is not an asymptotic improvement over the original Smith-Waterman algorithm, its complexity is characterized in terms of some sparse features of the matrix and it yields the fastest software implementation to date for such searches.
+</abstract>
+
+</text>

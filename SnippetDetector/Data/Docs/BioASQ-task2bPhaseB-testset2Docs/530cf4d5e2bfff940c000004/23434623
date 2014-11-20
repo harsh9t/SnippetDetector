@@ -1,0 +1,11 @@
+<title>
+Neighbor-favoring weight reinforcement to improve random walk-based disease gene prioritization.
+</title>
+
+<text>
+
+<abstract>
+BACKGROUND: Finding candidate genes associated with a disease is an important issue in biomedical research. Recently, many network-based methods have been proposed that implicitly utilize the modularity principle, which states that genes causing the same or similar diseases tend to form physical or functional modules in gene/protein relationship networks. Of these methods, the random walk with restart (RWR) algorithm is considered to be a state-of-the-art approach, but the modularity principle has not been fully considered in traditional RWR approaches. Therefore, we propose a novel method called ORIENT (neighbor-favoring weight reinforcement) to improve the performance of RWR through proper intensification of the weights of interactions close to the known disease genes. RESULTS: Through extensive simulations over hundreds of diseases, we observed that our approach performs better than the traditional RWR algorithm. In particular, our method worked best when the weights of interactions involving only the nearest neighbor genes of the disease genes were intensified. Interestingly, the performance of our approach was negatively related to the probability with which the random walk will restart, whereas the performance of RWR without the weight-reinforcement was positively related in dense gene/protein relationship networks. We further found that the density of the disease gene-projected sub-graph and the number of paths between the disease genes in a gene/protein relationship network may be explanatory variables for the RWR performance. Finally, a comparison with other well-known gene prioritization tools including Endeavour, ToppGene, and BioGraph, revealed that our approach shows significantly better performance. CONCLUSION: Taken together, these findings provide insight to efficiently guide RWR in disease gene prioritization.
+</abstract>
+
+</text>

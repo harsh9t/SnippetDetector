@@ -1,0 +1,11 @@
+<title>
+Proteome, phosphoproteome, and N-glycoproteome are quantitatively preserved in formalin-fixed paraffin-embedded tissue and analyzable by high-resolution mass spectrometry.
+</title>
+
+<text>
+
+<abstract>
+Tissue samples in biobanks are typically formalin-fixed and paraffin-embedded (FFPE), in which form they are preserved for decades. It has only recently been shown that proteins in FFPE tissues can be identified by mass spectrometry-based proteomics but analysis of post-translational modifications is thought to be difficult or impossible. The filter aided sample preparation (FASP) method can analyze proteomic samples solubilized in high concentrations of SDS and we use this feature to develop a simple protocol for FFPE analysis. Combination with simple pipet-tip based peptide fractionation identified about 5000 mouse liver proteins in 24 h measurement time-the same as in fresh tissue. Results from the FFPE-FASP procedure do not indicate any discernible changes due to storage time, hematoxylin staining or laser capture microdissection. We compared fresh against FFPE tissue using the SILAC mouse and found no significant qualitative or quantitative differences between these samples either at the protein or the peptide level. Application of our FFPE-FASP protocol to phosphorylation and N-glycosylation pinpointed nearly 5000 phosphosites and 1500 N-glycosylation sites. Analysis of FFPE tissue of the SILAC mouse revealed that these post-translational modifications were quantitatively preserved. Thus, FFPE biobank material can be analyzed by quantitative proteomics at the level of proteins and post-translational modifications.
+</abstract>
+
+</text>

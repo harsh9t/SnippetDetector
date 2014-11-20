@@ -1,0 +1,11 @@
+<title>
+A polynomial-time algorithm for a class of protein threading problems.
+</title>
+
+<text>
+
+<abstract>
+This paper presents an algorithm for constructing an optimal alignment between a three-dimensional protein structure template and an amino acid sequence. A protein structure template is given as a sequence of amino acid residue positions in three-dimensional space, along with an array of physical properties attached to each position; these residue positions are sequentially grouped into a series of core secondary structures (central helices and beta sheets). In addition to match scores and gap penalties, as in a traditional sequence-sequence alignment problem, the quality of a structure-sequence alignment is also determined by interaction preferences among amino acids aligned with structure positions that are spatially close (we call these 'long-range interactions'). Although it is known that constructing such a structure-sequence alignment in the most general form is NP-hard, our algorithm runs in polynomial time when restricted to structures with a 'modest' number of long-range amino acid interactions. In the current work, long-range interactions are limited to interactions between amino acids from different core secondary structures. Dividing the series of core secondary structures into two subseries creates a cut set of long-range interactions. If we use N, M and C to represent the size of an amino acid sequence, the size of a structure template, and the maximum cut size of long-range interactions, respectively, the algorithm finds an optimal structure-sequence alignment in O(21C NM) time, a polynomial function of N and M when C = O(log(N + M)). When running on structure-sequence alignment problems without long-range intersections, i.e. C = 0, the algorithm achieves the same asymptotic computational complexity of the Smith-Waterman sequence-sequence alignment algorithm.
+</abstract>
+
+</text>

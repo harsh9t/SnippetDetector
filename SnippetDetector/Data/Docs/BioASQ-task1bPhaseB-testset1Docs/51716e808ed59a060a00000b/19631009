@@ -1,0 +1,11 @@
+<title>
+The effect of host movement on viral transmission dynamics in a vector-borne disease system.
+</title>
+
+<text>
+
+<abstract>
+Many vector-borne pathogens whose primary vectors are generalists, such as Ixodid ticks, can infect a wide range of host species and are often zoonotic. Understanding their transmission dynamics is important for the development of disease management programmes. Models exist to describe the transmission dynamics of such diseases, but are necessarily simplistic and generally limited by knowledge of vector population dynamics. They are typically deterministic SIR-type models, which predict disease dynamics in a single, non-spatial, closed patch. Here we explore the limitations of such a model of louping-ill virus dynamics by challenging it with novel field data. The model was only partially successful in predicting Ixodes ricinus density and louping-ill virus prevalence at 6 Scottish sites. We extend the existing multi-host model by forming a two-patch model, incorporating the impact of roaming hosts. This demonstrates that host movement may account for some of the discrepancies between the original model and empirical data. We conclude that insights into the dynamics of multi-host vector-borne pathogens can be gained by using a simple two-patch model. Potential improvements to the model, incorporating aspects of spatial and temporal heterogeneity, are outlined.
+</abstract>
+
+</text>

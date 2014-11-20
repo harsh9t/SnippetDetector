@@ -1,0 +1,11 @@
+<title>
+Using reconfigurable hardware to accelerate multiple sequence alignment with ClustalW.
+</title>
+
+<text>
+
+<abstract>
+Aligning hundreds of sequences using progressive alignment tools such as ClustalW requires several hours on state-of-the-art workstations. We present a new approach to compute multiple sequence alignments in far shorter time using reconfigurable hardware. This results in an implementation of ClustalW with significant runtime savings on a standard off-the-shelf FPGA.
+</abstract>
+
+</text>

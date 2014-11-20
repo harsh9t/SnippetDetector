@@ -1,0 +1,11 @@
+<title>
+Functional genomics analysis of the Saccharomyces cerevisiae iron responsive transcription factor Aft1 reveals iron-independent functions.
+</title>
+
+<text>
+
+<abstract>
+The Saccharomyces cerevisiae transcription factor Aft1 is activated in iron-deficient cells to induce the expression of iron regulon genes, which coordinate the increase of iron uptake and remodel cellular metabolism to survive low-iron conditions. In addition, Aft1 has been implicated in numerous cellular processes including cell-cycle progression and chromosome stability; however, it is unclear if all cellular effects of Aft1 are mediated through iron homeostasis. To further investigate the cellular processes affected by Aft1, we identified >70 deletion mutants that are sensitive to perturbations in AFT1 levels using genome-wide synthetic lethal and synthetic dosage lethal screens. Our genetic network reveals that Aft1 affects a diverse range of cellular processes, including the RIM101 pH pathway, cell-wall stability, DNA damage, protein transport, chromosome stability, and mitochondrial function. Surprisingly, only a subset of mutants identified are sensitive to extracellular iron fluctuations or display genetic interactions with mutants of iron regulon genes AFT2 or FET3. We demonstrate that Aft1 works in parallel with the RIM101 pH pathway and the role of Aft1 in DNA damage repair is mediated by iron. In contrast, through both directed studies and microarray transcriptional profiling, we show that the role of Aft1 in chromosome maintenance and benomyl resistance is independent of its iron regulatory role, potentially through a nontranscriptional mechanism.
+</abstract>
+
+</text>

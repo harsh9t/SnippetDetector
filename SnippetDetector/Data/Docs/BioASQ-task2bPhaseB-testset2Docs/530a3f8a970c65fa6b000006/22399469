@@ -1,0 +1,11 @@
+<title>
+Introduction to the analysis of environmental sequences: metagenomics with MEGAN.
+</title>
+
+<text>
+
+<abstract>
+Metagenomics is the study of microbial organisms using sequencing applied directly to environmental samples. Similarly, in metatranscriptomics and metaproteomics, the RNA and protein sequences of such samples are studied. The analysis of these kinds of data often starts by asking the questions of "who is out there?", "what are they doing?", and "how do they compare?". In this chapter, we describe how these computational questions can be addressed using MEGAN, the MEtaGenome ANalyzer program. We first show how to analyze the taxonomic and functional content of a single dataset and then show how such analyses can be performed in a comparative fashion. We demonstrate how to compare different datasets using ecological indices and other distance measures. The discussion is conducted using a number of published marine datasets comprising metagenomic, metatranscriptomic, metaproteomic, and 16S rRNA data.
+</abstract>
+
+</text>

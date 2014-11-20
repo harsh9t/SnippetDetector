@@ -1,0 +1,11 @@
+<title>
+3D QSAR methods: Phase and Catalyst compared.
+</title>
+
+<text>
+
+<abstract>
+The programs Phase and Catalyst HypoGen are compared for their performance in determining three-dimensional quantitative structure-activity relationships. Eight sets of compounds with measured activity were collected from the public literature and partitioned into suitable training and test sets by an automated procedure. A range of models is built with each program, and suggested parameter variations are investigated. The models are assessed by their ability to predict the activity of compounds in the test set, and it is demonstrated that the performance of Phase is better than or equal to that of Catalyst HypoGen, with the data sets and parameters used here. Additionally, compounds in two of the data sets are overlaid on crystallographic structures of similar ligands in complex with the target receptor, in order to guide pharmacophore generation by the two programs, but the resulting models do not perform better.
+</abstract>
+
+</text>

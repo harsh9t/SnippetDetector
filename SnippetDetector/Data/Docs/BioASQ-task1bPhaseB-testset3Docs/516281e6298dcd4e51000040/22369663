@@ -1,0 +1,11 @@
+<title>
+Global analysis of phosphoproteome regulation by the Ser/Thr phosphatase Ppt1 in Saccharomyces cerevisiae.
+</title>
+
+<text>
+
+<abstract>
+Even though protein phosphatases are key regulators of signal transduction, their cellular mechanisms of action are poorly understood. Here, we undertook a large-scale proteomics survey to identify cellular protein targets of a serine/threonine phosphatase. We used SILAC-based quantitative MS to measure differences in protein expression and phosphorylation upon ablation of the serine/threonine phosphatase Ppt1 in Saccharomyces cerevisiae. Phosphopeptide fractionation by strong cation exchange chromatography combined with immobilized metal affinity chromatography (IMAC) enrichment enabled quantification of more than 8000 distinct phosphorylation sites in Ppt1 wild-type versus Ppt1-deficient yeast cells. We further quantified the relative expression of 1897 yeast proteins and detected no major protein changes accompanying Ppt1 deficiency. Notably, we found 33 phosphorylation sites to be significantly and reproducibly up-regulated while no phosphorylation events were repressed in cells lacking Ppt1. Ppt1 acted on its cellular target proteins in a sequence- and site-specific fashion. Several of the regulated phosphoproteins were involved in the response to heat stress in agreement with known Ppt1 functions. Additionally, biosynthetic enzymes were particularly prominent among Ppt1-regulated phosphoproteins, pointing to unappreciated roles of Ppt1 in the control of various metabolic functions. These results demonstrate the utility of large-scale and quantitative phosphoproteomics to identify cellular sites of serine/threonine phosphatase action in an unbiased manner.
+</abstract>
+
+</text>

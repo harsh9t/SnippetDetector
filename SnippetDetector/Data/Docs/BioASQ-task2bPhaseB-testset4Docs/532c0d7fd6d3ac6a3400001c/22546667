@@ -1,0 +1,11 @@
+<title>
+Pharmacophore modeling, virtual screening and 3D-QSAR studies of 5-tetrahydroquinolinylidine aminoguanidine derivatives as sodium hydrogen exchanger inhibitors.
+</title>
+
+<text>
+
+<abstract>
+Sodium hydrogen exchanger (SHE) inhibitor is one of the most important targets in treatment of myocardial ischemia. In the course of our research into new types of non-acylguanidine, SHE inhibitory activities of 5-tetrahydroquinolinylidine aminoguanidine derivatives were used to build pharmacophore and 3D-QSAR models. Genetic Algorithm Similarity Program (GASP) was used to derive a 3D pharmacophore model which was used in effective alignment of data set. Eight molecules were selected on the basis of structure diversity to build 10 different pharmacophore models. Model 1 was considered as the best model as it has highest fitness score compared to other nine models. The obtained model contained two acceptor sites, two donor atoms and one hydrophobic region. Pharmacophore modeling was followed by substructure searching and virtual screening. The best CoMFA model, representing steric and electrostatic fields, obtained for 30 training set molecules was statistically significant with cross-validated coefficient (q(2)) of 0.673 and conventional coefficient (r(2)) of 0.988. In addition to steric and electrostatic fields observed in CoMFA, CoMSIA also represents hydrophobic, hydrogen bond donor and hydrogen bond acceptor fields. CoMSIA model was also significant with cross-validated coefficient (q(2)) and conventional coefficient (r(2)) of 0.636 and 0.986, respectively. Both models were validated by an external test set of eight compounds and gave satisfactory prediction (r(pred)(2)) of 0.772 and 0.701 for CoMFA and CoMSIA models, respectively. This pharmacophore based 3D-QSAR approach provides significant insights that can be used to design novel, potent and selective SHE inhibitors.
+</abstract>
+
+</text>

@@ -1,0 +1,11 @@
+<title>
+Linking genes to diseases: it's all in the data.
+</title>
+
+<text>
+
+<abstract>
+Genome-wide association analyses on large patient cohorts are generating large sets of candidate disease genes. This is coupled with the availability of ever-increasing genomic databases and a rapidly expanding repository of biomedical literature. Computational approaches to disease-gene association attempt to harness these data sources to identify the most likely disease gene candidates for further empirical analysis by translational researchers, resulting in efficient identification of genes of diagnostic, prognostic and therapeutic value. Existing computational methods analyze gene structure and sequence, functional annotation of candidate genes, characteristics of known disease genes, gene regulatory networks, protein-protein interactions, data from animal models and disease phenotype. To date, a few studies have successfully applied computational analysis of clinical phenotype data for specific diseases and shown genetic associations. In the near future, computational strategies will be facilitated by improved integration of clinical and computational research, and by increased availability of clinical phenotype data in a format accessible to computational approaches.
+</abstract>
+
+</text>

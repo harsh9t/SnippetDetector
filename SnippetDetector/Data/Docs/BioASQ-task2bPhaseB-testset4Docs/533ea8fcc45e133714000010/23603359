@@ -1,0 +1,11 @@
+<title>
+Selenocysteine biosynthesis and insertion machinery in Naegleria gruberi.
+</title>
+
+<text>
+
+<abstract>
+Selenium (Se) is an essential trace element primarily found in selenoproteins as the 21st amino acid (selenocysteine, Sec, or U). Selenoproteins play an important role in growth and proliferation and are typically involved in cellular redox balance. Selenocysteine is encoded by an in-frame UGA codon specified by a stem-loop structure, the Sec insertion sequence element (SECIS), which, in eukaryotes, is located in the 3'-untranslated region (UTR). The availability of the Naegleria gruberi (ATCC 30224) genome sequence and the use of this organism as a model system for the pathogenic amoeba N. fowleri allowed us to investigate the Sec incorporation pathway in this primitive eukaryote. Using bioinformatics tools, we identified gene sequences encoding PSTK (O-phosphoseryl-tRNA(Sec) kinase), SepSecS (O-phosphoseryl-tRNA:selenocysteinyl-tRNA synthase), SelD/SPS2 (selenophosphate synthetase), EFSec (selenocysteine-specific elongation factor) and SBP (SECIS binding protein). These findings were confirmed by RT-PCR and by sequencing. A potential tRNA(Ser)Sec (SelC) gene and a putative selenoprotein with sequence similarity to a mitochondrial thioredoxin reductase (TR3) were also identified. Our results show that the selenocysteine incorporation machinery is indeed present in N. gruberi. Interestingly, the SelD/SPS2 gene is 2214 bp in length and contains two distinct domains. The N-terminal region shows sequence similarity to predicted methyltransferase proteins, and the C-terminal region is homologous to prokaryotic SelD/SPS2. Our results suggest the possibility of novel selenoproteins.
+</abstract>
+
+</text>

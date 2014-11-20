@@ -1,0 +1,11 @@
+<title>
+3D QSAR pharmacophore modeling for c-Met kinase inhibitors.
+</title>
+
+<text>
+
+<abstract>
+The receptor tyrosine kinase c-Met has multiple roles during cancer development and is currently considered as a promising target for cancer therapies. Pharmacophore models of c-Met kinase inhibitors have been developed based on 22 diverse compounds by using HypoGen algorithm implemented in Discovery studio program package. The best quantitative pharmacophore model, Hypo 1, which had the highest correlation coefficient (0.9623), consists of two hydrogen bond acceptors, one hydrophobic feature and two excluded volumes. Then best model was validated by test set prediction, Fischer randomization and decoy set. Besides, the features of Hypo1 were verified to correctly reflect the interactions between kinase active site and its ligands by comparison and superimposition of Hypo 1 in active site of c-Met kinase. The results shows that Hypo 1 has strong capability to identify c-Met kinase inhibitors and to predict the activities of structurally diverse molecules. Therefore, our pharmacophore models were considered as valuable tools for the discovery and development of specific c-Met kinase inhibitors.
+</abstract>
+
+</text>

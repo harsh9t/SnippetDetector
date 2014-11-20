@@ -1,0 +1,11 @@
+<title>
+SymmRef: a flexible refinement method for symmetric multimers.
+</title>
+
+<text>
+
+<abstract>
+Symmetric protein complexes are abundant in the living cell. Predicting their atomic structure can shed light on the mechanism of many important biological processes. Symmetric docking methods aim to predict the structure of these complexes given the unbound structure of a single monomer, or its model. Symmetry constraints reduce the search-space of these methods and make the prediction easier compared to asymmetric protein-protein docking. However, the challenge of modeling the conformational changes that the monomer might undergo is a major obstacle. In this article, we present SymmRef, a novel method for refinement and reranking of symmetric docking solutions. The method models backbone and side-chain movements and optimizes the rigid-body orientations of the monomers. The backbone movements are modeled by normal modes minimization and the conformations of the side-chains are modeled by selecting optimal rotamers. Since solved structures of symmetric multimers show asymmetric side-chain conformations, we do not use symmetry constraints in the side-chain optimization procedure. The refined models are re-ranked according to an energy score. We tested the method on a benchmark of unbound docking challenges. The results show that the method significantly improves the accuracy and the ranking of symmetric rigid docking solutions. SymmRef is available for download at http:// bioinfo3d.cs.tau.ac.il/SymmRef/download.html.
+</abstract>
+
+</text>

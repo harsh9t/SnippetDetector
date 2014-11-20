@@ -1,0 +1,11 @@
+<title>
+Prediction of the membrane-spanning beta-strands of the major outer membrane protein of Chlamydia.
+</title>
+
+<text>
+
+<abstract>
+There is preliminary experimental evidence indicating that the major outer-membrane protein (MOMP) of Chlamydia is a porin. We tested this hypothesis for the MOMP of the mouse pneumonitis serovar of Chlamydia trachomatis using two secondary structure prediction methods. First, an algorithm that calculates the mean hydrophobicity of one side of putative beta-strands predicted the positions of 16 transmembrane segments, a structure common to known porins. Second, outer loops typical of porins were assigned using an artificial neural network trained to predict the topology of bacterial outer-membrane proteins with a predominance of beta-strands. A topology model based on these results locates the four variable domains (VDs) of the MOMP on the outer loops and the five constant domains on beta-strands and the periplasmic turns. This model is consistent with genetic analysis and immunological and biochemical data that indicate the VDs are surface exposed. Furthermore, it shows significant homology with the consensus porin model of the program FORESST, which contrasts a proposed secondary structure against a data set of 349 proteins of known structure. Analysis of the MOMP of other chlamydial species corroborated our predicted model.
+</abstract>
+
+</text>

@@ -1,0 +1,11 @@
+<title>
+Investigating repetitively matching short sequencing reads: the enigmatic nature of H3K9me3.
+</title>
+
+<text>
+
+<abstract>
+Most histone modifications can easily be characterized as either activating or repressive. For example, histone3, lysine 4 trimethylation (H3K4me3) is generally considered a distinct sign of actively transcribed promoters while H3K27me3 is generally found at repressed genes. This is not the case for H3K9me3, the subject of this communication, which is a modification that has traditionally been considered a mark of constitutive heterochromatin, but has also been found in significant levels in expressed genes. We therefore sought to use new high-throughput genome-wide maps of H3K9me3 localization to investigate the conflicting hypotheses concerning the nature of this modification. Before we could accurately analyze the locations of H3K9me3 along the genome, and especially in repetitive locations, we developed a method for accurately utilizing short sequencing reads that do not map uniquely to a location in the genome. Investigating the locations of H3K9me3 along the genome allowed us to determine that, while there are high levels of H3K9me3 outside of genes, this modification is not absent from genes. Therefore, we suggest that H3K9me3 may have a role in chromatin organization rather than being directly related to gene expression. In addition, we have found that there is a need to include repetitively matching reads in any high-throughput sequencing experiment.
+</abstract>
+
+</text>

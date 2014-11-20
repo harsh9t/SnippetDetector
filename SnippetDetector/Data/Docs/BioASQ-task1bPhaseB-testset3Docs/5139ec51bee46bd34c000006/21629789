@@ -1,0 +1,959 @@
+<title>
+Mouse transgenesis identifies conserved functional enhancers and cis-regulatory motif in the vertebrate LIM homeobox gene Lhx2 locus.
+</title>
+
+<text>
+
+<sections.0>
+Introduction
+ homeobox gene hx2 is a member of the  homeobox family of
+                transcription factors that are characterized by a -type tandem zinc finger known
+                as the  domain and a -binding homeodomain. he hx2 and its
+                family member hx9 are the vertebrate homologs of the fruit fly
+                    (rosophila) apterous gene.
+                    pterous is required for wing development, dorsoventral
+                compartmentalization [1], [2] and neuronal pathway selection [3] in
+                rosophila. he murine hx2 was identified through
+                a screen for early markers of -lymphocyte differentiation and determined to be
+                involved in the differentiation of lymphoid and neural cell types [4].
+                    hx2-null mice exhibit dorsal telencephalic patterning defects
+                that involve an expansion of the choroid plexus and cortical hem at the expense of
+                the hippocampus and neocortex [5], [6], ventral diencephalic defects that involve the
+                infundibulum and pituitary gland [7], an absence of eyes [8], incomplete development of
+                olfactory sensory neurons [9], liver fibrosis [10] and defective erythropoiesis
+                resulting in death at 15.5 β€“ 16.5 due to severe anemia [8]. ence, hx2 is
+                essential for the normal development of the forebrain, eyes, olfactory system and
+                liver. ecent studies have suggested that hx2 acts as a classic
+                β€�selectorβ€� gene that induces cortical stem cells to adopt hippocampal or
+                neocortex identities [11]. hx2 also plays an important role in
+                maintaining hair follicle stem cells in an undifferentiated state [12], and the
+                progression of anagen (growth phase) and morphogenesis of hair follicles [13].
+n mouse, the expression of hx2 begins at 8.5 in the optic vesicle
+                    [8], extending
+                to a wide range of tissues by 10.5 including the telencephalon, diencephalon, optic
+                cup, midbrain, hindbrain, future spinal cord [14] and liver [15]. t 11.5,
+                    hx2 is localized in the walls of the lateral ventricles and
+                third ventricle of the brain, the neural retina and optic stalk, the dorsal
+                commissural interneurons of the neural tube and additionally expresses in limb bud
+                mesenchyme [16]. y 15.5, hx2 expression in the
+                cerebral cortex becomes restricted to the ventricular layer and intermediate zone
+                    [5] and
+                extends to the olfactory epithelium of the nasal cavity [17]. y 17.5,
+                    hx2 expression in the cerebral cortex becomes restricted to
+                the superficial layers of the entire cerebral cortex and the hippocampus (except for
+                the subiculum) [5]. he restricted embryonic expression pattern of
+                    hx2 is closely related to its function during development. or
+                example, hx2 has a graded expression pattern in the cortical
+                ventricular zone (highest expression in the medial regions and lowest in the lateral
+                regions) and is normally absent in the dorsal midline region [6]. his expression gradient is
+                crucial for the role of hx2 in specifying cortical cell fate, in
+                particular by determining the regional fate (to either neocortex or olfactory
+                cortex) in dorsal telencephalic progenitors [18]. n zebrafish, ix3, which is
+                required for the formation of the entire rostral prosencephalon, acts upstream of
+                hx2 suggesting that ix3 establishes the rostral forebrain field within which hx2
+                specifies cortical cell fate [11]. n enopus, transcription factors such
+                as ax6 and ix3 regulate the restricted expression of hx2 in the
+                developing eye. ogether, these transcription factors form a gene regulatory network
+                that helps specify the vertebrate eye field [19]. t has been proposed that
+                    hx2 plays a central role in coordinating the various pathways
+                that lead to optic cup formation [20]. lthough the spatially and temporally restricted
+                expression of hx2 is crucial for proper development of the
+                cerebral cortex and the eye, and that previous studies have indicated several
+                potential upstream regulators of hx2, no attempt has been made to
+                identify and characterize cis-regulatory elements in the
+                    hx2 locus.
+uman 2 has been reported to be overexpressed in chronic
+                myelogenous leukemia () [21], but downregulated in small -cell lymphoma [22] and lung
+                cancer [23]. ittle
+                is known about the mechanisms by which changes in 2 expression
+                occur. he overexpression of 2 in  cells is postulated to be
+                caused by decreased  methylation that results from a -
+                gene fusion event [24]
+                brought about by a translocation between chromosomal regions 22q11 and 9q34 [25]. owever,
+                    2 (9q33.3) and  (9q34.12) are separated
+                by a chromosomal distance as large as 7 b (human 36 assembly). t remains to be
+                seen if there exist cis-regulatory elements in the vicinity of
+                    2, whose disruption could account for changes in
+                    2 expression.
+n this study we have used evolutionary constraint as an indicator of putative
+                enhancers in the vertebrate hx2 locus. ue to selective pressure,
+                noncoding functional elements such as enhancers tend to evolve slowly compared to
+                their neighboring sequences and hence can be identified as conserved noncoding
+                elements in comparisons of related genomes. his strategy has been effectively used
+                to identify a large number of putative enhancers conserved in distantly related
+                vertebrates such as mammals and teleost fishes [26], [27], [28], [29]. unctional assay of such
+                elements in transgenic mouse and zebrafish have indeed indicated that a large number
+                of them function as transcriptional enhancers directing tissue-specific expression
+                of reporter genes during embryonic development [26], [28], [29]. e have aligned sequences
+                of the hx2 locus from human, mouse and pufferfish (fugu) genomes
+                and predicted conserved noncoding elements (s) in the locus. unctional assay of
+                these s in a transgenic mouse assay system showed that half of them function as
+                tissue-specific enhancers at embryonic day 11.5.Introduction
+LIM homeobox gene Lhx2 is a member of the LIM homeobox family of
+                transcription factors that are characterized by a LIM-type tandem zinc finger known
+                as the LIM domain and a DNA-binding homeodomain. The Lhx2 and its
+                family member Lhx9 are the vertebrate homologs of the fruit fly
+                    (Drosophila) apterous gene.
+                    Apterous is required for wing development, dorsoventral
+                compartmentalization [1], [2] and neuronal pathway selection [3] in
+                Drosophila. The murine Lhx2 was identified through
+                a screen for early markers of B-lymphocyte differentiation and determined to be
+                involved in the differentiation of lymphoid and neural cell types [4].
+                    Lhx2-null mice exhibit dorsal telencephalic patterning defects
+                that involve an expansion of the choroid plexus and cortical hem at the expense of
+                the hippocampus and neocortex [5], [6], ventral diencephalic defects that involve the
+                infundibulum and pituitary gland [7], an absence of eyes [8], incomplete development of
+                olfactory sensory neurons [9], liver fibrosis [10] and defective erythropoiesis
+                resulting in death at E15.5 β€“ E16.5 due to severe anemia [8]. Hence, Lhx2 is
+                essential for the normal development of the forebrain, eyes, olfactory system and
+                liver. Recent studies have suggested that Lhx2 acts as a classic
+                β€�selectorβ€� gene that induces cortical stem cells to adopt hippocampal or
+                neocortex identities [11]. Lhx2 also plays an important role in
+                maintaining hair follicle stem cells in an undifferentiated state [12], and the
+                progression of anagen (growth phase) and morphogenesis of hair follicles [13].
+In mouse, the expression of Lhx2 begins at E8.5 in the optic vesicle
+                    [8], extending
+                to a wide range of tissues by E10.5 including the telencephalon, diencephalon, optic
+                cup, midbrain, hindbrain, future spinal cord [14] and liver [15]. At E11.5,
+                    Lhx2 is localized in the walls of the lateral ventricles and
+                third ventricle of the brain, the neural retina and optic stalk, the dorsal
+                commissural interneurons of the neural tube and additionally expresses in limb bud
+                mesenchyme [16]. By E15.5, Lhx2 expression in the
+                cerebral cortex becomes restricted to the ventricular layer and intermediate zone
+                    [5] and
+                extends to the olfactory epithelium of the nasal cavity [17]. By E17.5,
+                    Lhx2 expression in the cerebral cortex becomes restricted to
+                the superficial layers of the entire cerebral cortex and the hippocampus (except for
+                the subiculum) [5]. The restricted embryonic expression pattern of
+                    Lhx2 is closely related to its function during development. For
+                example, Lhx2 has a graded expression pattern in the cortical
+                ventricular zone (highest expression in the medial regions and lowest in the lateral
+                regions) and is normally absent in the dorsal midline region [6]. This expression gradient is
+                crucial for the role of Lhx2 in specifying cortical cell fate, in
+                particular by determining the regional fate (to either neocortex or olfactory
+                cortex) in dorsal telencephalic progenitors [18]. In zebrafish, Six3, which is
+                required for the formation of the entire rostral prosencephalon, acts upstream of
+                Lhx2 suggesting that Six3 establishes the rostral forebrain field within which Lhx2
+                specifies cortical cell fate [11]. In Xenopus, transcription factors such
+                as Pax6 and Six3 regulate the restricted expression of Lhx2 in the
+                developing eye. Together, these transcription factors form a gene regulatory network
+                that helps specify the vertebrate eye field [19]. It has been proposed that
+                    Lhx2 plays a central role in coordinating the various pathways
+                that lead to optic cup formation [20]. Although the spatially and temporally restricted
+                expression of Lhx2 is crucial for proper development of the
+                cerebral cortex and the eye, and that previous studies have indicated several
+                potential upstream regulators of Lhx2, no attempt has been made to
+                identify and characterize cis-regulatory elements in the
+                    Lhx2 locus.
+Human LHX2 has been reported to be overexpressed in chronic
+                myelogenous leukemia (CML) [21], but downregulated in small B-cell lymphoma [22] and lung
+                cancer [23]. Little
+                is known about the mechanisms by which changes in LHX2 expression
+                occur. The overexpression of LHX2 in CML cells is postulated to be
+                caused by decreased DNA methylation that results from a BCR-ABL
+                gene fusion event [24]
+                brought about by a translocation between chromosomal regions 22q11 and 9q34 [25]. However,
+                    LHX2 (9q33.3) and ABL (9q34.12) are separated
+                by a chromosomal distance as large as 7 Mb (human NCBI36 assembly). It remains to be
+                seen if there exist cis-regulatory elements in the vicinity of
+                    LHX2, whose disruption could account for changes in
+                    LHX2 expression.
+In this study we have used evolutionary constraint as an indicator of putative
+                enhancers in the vertebrate Lhx2 locus. Due to selective pressure,
+                noncoding functional elements such as enhancers tend to evolve slowly compared to
+                their neighboring sequences and hence can be identified as conserved noncoding
+                elements in comparisons of related genomes. This strategy has been effectively used
+                to identify a large number of putative enhancers conserved in distantly related
+                vertebrates such as mammals and teleost fishes [26], [27], [28], [29]. Functional assay of such
+                elements in transgenic mouse and zebrafish have indeed indicated that a large number
+                of them function as transcriptional enhancers directing tissue-specific expression
+                of reporter genes during embryonic development [26], [28], [29]. We have aligned sequences
+                of the Lhx2 locus from human, mouse and pufferfish (fugu) genomes
+                and predicted conserved noncoding elements (CNEs) in the locus. Functional assay of
+                these CNEs in a transgenic mouse assay system showed that half of them function as
+                tissue-specific enhancers at embryonic day 11.5.
+</sections.0>
+
+<sections.1>
+Methods
+thics statement. All animals were cared for in strict accordance with National Institutes of
+                    Health (USA) guidelines. The protocol was approved by the BRC Institutional
+                    Animal Care and Use Committee, Singapore (permit number 080338).Riboprobes for in situ hybridizationPrimers that would produce 300-500 bp riboprobes were designed for murine genes
+                        Lhx2, Crb2 and Dennd1a.
+                    PCR products were cloned into pBluescript II KS vector and sequenced to verify
+                    sequence identity and transcription orientation. The synthesis of digoxygenin
+                    (DIG)-labeled riboprobe was carried out based on published protocols [30] with the
+                    following modification: transcription was stopped by adding 1 Βµl of
+                    RNase-free DNase I (10 units/Βµl; Roche, Germany) and incubating at
+                    37Β°C for 15 min. RNA concentration was in the range of 300β€“400
+                    ng/Βµl. The riboprobes were designed to target the 5th (last), 7th and 22nd
+                    (last) coding exons of the mouse Lhx2, Crb2
+                    and Dennd1a genes respectively, and spanned 490 bp, 319 bp and
+                    488 bp respectively.Whole-mount in situ hybridizationWhole-mount in situ hybridization of riboprobes was carried out as per published
+                    protocols [30],
+                    with the following modifications. For the Proteinase K step, concentration used
+                    was 10 Βµg/ml for 15 min; for hybridization, concentration of riboprobe
+                    used was 1 Βµg/ml; for post-hybridization washes, TBST instead of MABT was
+                    used; and for antibody incubation, embryos were incubated overnight in
+                    10% heat-inactivated horse serum/1% blocking reagent (Roche,
+                    Germany)/TBST with 1β�¶2000 anti-DIG alkaline phosphatase-conjugated
+                    antibody (Roche, Germany). Before photo-taking, embryos were cleared in
+                    50% glycerol/PBT and 80% glycerol/PBT (both times till embryos
+                    sunk). Pictures of the embryos were taken under 16Γ— magnification using an
+                    Olympus SZX16 stereomicroscope (fitted with Olympus DP20 camera) and dark-field
+                    illumination.Lhx2 locus sequence and alignmentRepeat-masked sequences for Lhx2 locus from human, mouse and
+                    fugu genomes were downloaded from Ensembl release 48 (http://www.ensembl.org/) (human NCBI36 assembly, mouse NCBIM37
+                    assembly and fugu v4.0 assembly). The sequences were aligned using MLAGAN [31]. CNEs were
+                    predicted using VISTA [32] based on the conservation criteria of β‰¥65%
+                    identity over 50 bp. Protein-coding and ncRNA sequences were identified and
+                    excluded based on searches against NCBI NR protein database, human and mouse EST
+                    databases (ftp://ftp.ncbi.nih.gov/blast/db/), Rfam (http://rfam.sanger.ac.uk/) and mirBase (http://www.mirbase.org/).Transgene constructsTransgene constructs were prepared by linking CNEs upstream of a mouse
+                        hsp68 minimal promoter (denoted as
+                        β€�pHsp68β€� in this report) and bacterial
+                    Ξ²-galactosidase reporter gene (lacZ). The
+                        pHsp68-lacZ-pBluescript vector was originally designed by
+                    Kothary et al. [33] and later modified by Nadav Ahituv (Lawrence Berkeley
+                    National Laboratory, USA) to incorporate a GatewayΒ® cassette
+                        (attR1-ccdB-attR2) upstream of pHsp68 for
+                    efficient cloning by GatewayΒ® Technology (Invitrogen, USA). The
+                        hsp68 minimal promoter alone has been shown to drive no
+                        lacZ expression in transgenic mice from E6.5 to E15.5 [33]. For PCR
+                    amplification of CNEs, primers were designed with 100β€“200 bp of additional
+                    flanking sequence on each side of the CNE with leading attB1/attB2 sequences for
+                    GatewayΒ® DNA recombination. PCR was carried out using mouse genomic DNA as a
+                    template. β€�BPβ€™ and β€�LRβ€™ recombination reactions were
+                    carried out to clone the PCR product upstream of pHsp68. For
+                    both reactions, vector PCR was conducted to confirm that recombination was
+                    successful and the clones were sequenced to verify sequence identity. To
+                    generate constructs with base substitutions, QuikChangeΒ® Site-Directed
+                    Mutagenesis Kit (Stratagene, USA) was used.Transgenic miceTo prepare the transgene DNA for pronuclear microinjection, a restriction digest
+                    using SalI (or double digest using HindIII and
+                        NotI) was performed to remove the
+                        pBluescript backbone. The transgene DNA was gel-purified
+                    (β�Ό5 kb fragment) from vector backbone DNA (β�Ό2.9 kb) using GenecleanΒ®
+                    II Kit (Qbiogene, USA) and its concentration was estimated by running against
+                    known amounts of 1 Kb Plus DNA ladder (Invitrogen, USA). The DNA was diluted
+                    with filtered TE buffer (10 mM Tris pH 7.0, 0.1 mM EDTA pH 8.0) to a final
+                    concentration of 4 ng/Βµl and centrifuged twice at full speed for 15 min
+                    each to remove impurities, each time transferring 80% of the supernatant
+                    to a new tube. Transgenic mice were generated as per the standard protocol [34] using FVB/N
+                    mice as the host strain. DNA was extracted from the visceral yolk sac of embryos
+                    and used for genotyping by PCR using primers that amplify a 416-bp region which
+                    spans nucleotides 568 to 983 of the lacZ gene (GenBank
+                    accession number V00296) - laczF: 5β€²-CGT TGG AGT GAC GGC AGT TAT
+                        CTG-3β€², laczR: 5β€²-CAG GCT TCT GCT TCA ATC AGC
+                        GTG-3β€².Whole-mount lacZ stainingThe expression of transgene was analyzed in E11.5 embryos by whole-mount
+                        lacZ staining as per published methods [35]. Before
+                    photo-taking, embryos were cleared in 50% glycerol/PBT and 80%
+                    glycerol/PBT (both times till embryos sunk).Expression analysis of human TF-encoding genesGNF Human GeneAtlas v2 data (MAS5-condensed) were downloaded from GNF SymAtlas
+                        [36].
+                    Expression values derived from cell lines and pathogenic tissues were removed,
+                    leaving behind expression values for 62 normal human tissues. To eliminate
+                    probes that showed very low expression and insufficient variance in expression
+                    levels across all tissues, probes with mean expression values less than 100 and
+                    standard deviation less than 50 were excluded [37]. Probe identifiers were mapped
+                    to human Ensembl gene identifiers using Ensembl BioMart (for HG-U133A probes)
+                        (http://www.ensembl.org/biomart/martview) and the annotation
+                    table from GNF SymAtlas (for GNF1H probes). Each gene's expression value in
+                    each tissue was computed by averaging expression values of all probes
+                    corresponding to that gene and normalizing the resulting value across 62 normal
+                    tissues such that mean expression is 0 and standard deviation is 1. Following
+                    this procedure, expression data were available for 17,210 human genes.
+                        K-means clustering was then performed on the normalized
+                    gene expression values with Cluster [38] and visualized with
+                    TreeView (http://rana.lbl.gov/EisenSoftware.htm). To test the alternative
+                    hypothesis that the average number (and length) of human-fugu CNEs associated
+                    with genes grouped into a cluster varies from that of genes grouped into other
+                    clusters, a Wilcoxon rank-sum test was applied. Two-tailed
+                    P-values were calculated.Motif findingStatistically over-represented motifs were searched in human-fugu CNEs of
+                    TF-encoding genes using Weeder Version 1.3.1 [39]. Using oligomer frequencies
+                    in human intergenic regions as background, we searched both sequence strands for
+                    over-represented 8-mers with at most 2 substitutions, which appeared in at least
+                    50% of the sequences and could occur more than once per sequence. Our
+                    search for 10-mers and 12-mers yielded no significant motifs. Interesting motifs
+                    with many close variants among the best 100 reported motifs were found using the
+                    program β€�adviser.outβ€� in the Weeder package [39]. A chi-squared test (2-by-2
+                    contingency table with Yates' correction for continuity; one-tailed
+                        P-values adjusted with Bonferroni correction) was used to
+                    determine which of these interesting motifs were over-represented
+                        (P<0.01) with respect to the complementary set of CNEs
+                    (e.g., CNEs of cluster #3 genes versus CNEs of non-cluster #3 genes).
+</sections.1>
+
+<sections.2>
+Results
+rganization of the hx2 locus in vertebrates. We analyzed the Lhx2 locus in the completely sequenced genomes
+                    of human, mouse, chicken and fugu. In human, mouse and chicken, the linkage of
+                        Lhx2 and the two genes located upstream,
+                        DENN/MADD-domain containing protein 1A
+                        (Dennd1a) and Crumbs homolog 2
+                        (Crb2), is conserved (Figure 1). In fugu, Lhx2 and
+                        Crb2b are syntenic on scaffold_334 but
+                        Dennd1a is missing. Incidentally, the single remaining copy
+                    of Dennd1a in fugu is located on scaffold_128
+                    and is linked to Crb2a. In addition, the genomic sequence on
+                    fugu scaffold_334 is incomplete β�Ό58 kb downstream of
+                        Lhx2.10.1371/journal.pone.0020088.g001Figure 1Lhx2 gene loci in human, mouse, chicken and
+                            fugu.Rectangles above the line indicate genes on the forward strand, while
+                            rectangles below the line indicate genes on the reverse strand. Genes in
+                            blue are syntenic in the 4 species. Not drawn to scale.The conserved synteny of the locus encompassing Crb2 and
+                        Lhx2 in vertebrates such as tetrapods and fish, led us to
+                    postulate that there may exist cis-regulatory elements in this
+                    syntenic block of Crb2 and Lhx2 that regulate
+                    the spatiotemporal expression of Lhx2 and also
+                        Crb2 and Dennd1a located upstream. As
+                    described by Kikuta et al. [40], genes that encode developmental TFs tend to be
+                    embedded in regions of extensive conserved synteny known as β€�genomic
+                    regulatory blocksβ€�, and their cis-regulatory elements can
+                    be located far away, within or beyond neighbouring genes that are functionally
+                    unrelated. Based on this concept, it was necessary to examine the expression
+                    patterns of the adjacent genes Crb2 and
+                        Dennd1a and investigate the possibility that
+                        Crb2 and Dennd1a are regulated by CNEs
+                    within the Crb2-Lhx2 conserved syntenic block.
+                        Crb2 encodes two alternative isoforms, a transmembrane
+                    protein and a secreted protein, that are calcium-ion binding and are implicated
+                    in response to stimulus and visual perception. CRB2 is
+                    expressed in adult human retina, brain, kidney, fetal eye and at lower levels in
+                    the lung, placenta and heart [41]. In zebrafish, there
+                    are two paralogs of the mammalian Crb2, oko
+                        meduzy (ome) and crb2b. The
+                        ome gene expresses in the developing brain and retina from
+                    24β€“72 hpf and is essential for determining apico-basal polarity of neural
+                    tube epithelial cells [42]. The crb2b gene expresses in the
+                    immediate proximity of yolk sac and the pineal gland (epiphysis) from
+                    24β€“48 hpf, and is highly enriched in the photoreceptor cell layer and
+                    pronephros at 72 hpf. It determines apical surface size in photoreceptors and is
+                    required for differentiation and motility of renal cilia [42]. Hence, because
+                        Lhx2 and Crb2 express similarly in the
+                    developing vertebrate brain and eye, there may also exist shared enhancers
+                    within the Crb2-Lhx2 genomic region that direct expression of
+                    these two genes. On the other hand, Dennd1a encodes connecdenn,
+                    a component of the endocytic machinery with functions in synaptic vesicle
+                    endocytosis [43]. Connecdenn possesses an N-terminal DENN domain that
+                    is present in various signaling proteins involved in Rab-mediated processes or
+                    the regulation of MAP kinase signaling pathways [44], and other domains that
+                    enable it to bind clathrin adaptor protein 2 (AP-2) and synaptic Src homology 3
+                    (SH3)-domain proteins. Recent work has shown that connecdenn's DENN domain
+                    acts as a guanine nucleotide exchange factor for Rab35 GTPase, enabling it to
+                    promote cargo-selective recycling from early endosomes [45]. The expression of
+                    connecdenn is preferentially high in the adult rat brain and testis, in
+                    particular the membranes of neuronal clathrin-coated vesicles [43], and
+                    relatively lower in liver, kidney, lung, heart and epididymis [46]. The
+                    expression domains shared with Lhx2 (brain, liver) and
+                        Crb2 (brain, kidney, lung, heart) might suggest that
+                        Dennd1a could be co-regulated with Lhx2
+                    and Crb2. However, Dennd1a has been lost from
+                    the Crb2-Lhx2 conserved syntenic block in fugu, which implies
+                    that it does not fall under the control of cis-regulatory
+                    elements in the Crb2-Lhx2 region.Expression patterns of Lhx2, Crb2 and
+                        Dennd1a in E11.5 mouse embryosWe determined the expression patterns of Lhx2,
+                        Crb2 and Dennd1a genes in E11.5 mouse
+                    embryos by whole-mount in situ hybridization. While the
+                    expression pattern of mouse Lhx2 at E11.5 has been previously
+                    been determined [16], [47], [48], to the best of our knowledge, there is no report of
+                    the expression patterns of Crb2 and Dennd1a
+                    genes in E11.5 mouse embryos. Our in situ hybridization showed
+                    that at E11.5, Lhx2 is expressed in the telencephalon,
+                    diencephalon, midbrain, hindbrain, eye, dorsal neural tube and distal regions of
+                    the limb buds (Figure 2A).
+                    This is in accordance with what has been previously reported about
+                        Lhx2 expression [14], [16], [47]. Crb2 and
+                        Dennd1a are expressed in the forebrain, midbrain, and
+                    hindbrain, which is strikingly similar to Lhx2. In addition,
+                        Crb2 expresses in the eye. However, compared with
+                        Lhx2, both genes are expressed more highly in the medial
+                    regions of the telencephalon than in the lateral regions (Figure 2B and C) and do not express in the
+                    neural tube or the distal region of the limb buds.10.1371/journal.pone.0020088.g002Figure 2Expression of Lhx2, Crb2,
+                                Dennd1a in E11.5 mouse embryos.Expression patterns (ventral, lateral and dorsal views) as determined by
+                            whole-mount in situ hybridization at E11.5 for genes
+                            (A) Lhx2, (B) Crb2, and (C)
+                                Dennd1a. Three to four embryos were assayed for
+                            each gene and all embryos gave essentially the same results as these
+                            representative embryos. Scale bar at lower right corner denotes 1 mm in
+                            length. F: forebrain; M: midbrain; H: hindbrain; E: eye; NT: neural
+                            tube.CNEs in the Lhx2 gene locusTo identify a comprehensive list of CNEs that may direct the expression of
+                        Lhx2, we aligned the entire region of conserved synteny
+                    beginning from the end of the gene upstream of Crb2 to the
+                    start of the gene downstream of Lhx2 in human and mouse and the
+                    end of scaffold_334 in fugu (see Figure 1) using MLAGAN [31] and predicted CNEs using
+                    VISTA [32].
+                    The length of this region is 989 kb in human, 808 kb in mouse and 186 kb in fugu
+                        (Figure 3). Ten
+                    human-fugu and mouse-fugu CNEs were identified using criteria β‰¥65%
+                    identity over 50 bp and were numbered CNE1 to
+                        CNE10 (Figure
+                        4), beginning from the CNE that is located furthest from the
+                    transcription start site of Lhx2. The CNEs are 51 bp to 243 bp
+                    in length (average 115 bp), possess 65% to 90% sequence identity
+                    (average 72% identity) and reside 219 kb to 619 kb upstream of human
+                        LHX2, within the introns of the upstream gene
+                        DENND1A (Table 1; Figure
+                        5).10.1371/journal.pone.0020088.g003Figure 3Region of conserved synteny in human, mouse and fugu used for
+                            sequence alignment.Lhx2 locus in human, mouse and fugu used for sequence
+                            alignment. In human and mouse, Crb2 and
+                                Dennd1a overlap by β�Ό100 bp at their 3β€²
+                            ends.10.1371/journal.pone.0020088.g004Figure 4CNEs in the Lhx2 locus.Human, mouse and fugu Lhx2 loci were aligned using
+                            MLAGAN and CNEs (β‰¥65% identity over 50 bp) were predicted with
+                            VISTA. Fugu served as the base sequence. Pink peaks denote CNEs while
+                            blue peaks denote conserved coding sequences. The arrows above the blue
+                            boxes that denote exons indicate the direction of transcription.
+                                x-axis represents distance along the fugu sequence
+                            while y-axis shows the percentage identity in each
+                            pairwise alignment. The pink peaks that are not annotated do not meet
+                            the thresholds of β‰¥65% identity over 50 bp.10.1371/journal.pone.0020088.g005Figure 5Location of CNEs in the human LHX2 locus.The exons of protein-coding genes are shown in light/dark blue or green
+                            rectangles. The CNEs are located within the introns of the upstream gene
+                                DENND1A are indicated by red rectangles that extend
+                            above the exons.10.1371/journal.pone.0020088.t001Table 1Details of CNEs tested in transgenic mice.CNE constructLength of CNE(s) (bp)Percentage identity of CNE(s)Distance from TSS of human
+                                    LHX2Location of CNE(s)CNE17669.1%619 kbDENND1A intron 20CNE2/321075.0%516 kbDENND1A intron 13CNE411971.4%324 kbDENND1A intron 5CNE5/638072.3%269 kbDENND1A intron 5CNE75164.7%242 kbDENND1A intron 3CNE812067.7%234 kbDENND1A intron 3CNE95369.8%222 kbDENND1A intron 3CNE1014589.7%219 kbDENND1A intron 2TSS: transcription start site.Functional assay of CNEs in E11.5 transgenic mouse embryosThe CNEs were amplified from mouse genomic DNA including 100β€“200 bp of
+                    flanking sequence on either end of the CNE, and cloned upstream of a
+                        lacZ reporter gene whose expression is driven by a mouse
+                        hsp68 minimal promoter
+                    (β€�pHsp68β€�). Transgenic mouse embryos were generated
+                    and harvested at E11.5. The details of the CNE constructs tested in transgenic
+                    mice are given in Table 1
+                    and Table
+                        S1. We studied the lacZ (Ξ²-galactosidase)
+                    expression patterns that were directed under the control of each CNE. A CNE was
+                    classified as a transcriptional enhancer if it directed reproducible reporter
+                    gene expression in the same anatomical structure in at least three independent
+                    transgenic mouse embryos.CNE1CNE1 is a 76-bp sequence located approximately 619 kb upstream
+                    of human LHX2 within the 20th intron of
+                        DENND1A. Altogether seven transgenic embryos were obtained
+                    for CNE1 construct, of which four (57%) showed no
+                        lacZ expression while three (43%) showed varying
+                    patterns of lacZ expression (Figure S1).
+                    Although two independent embryos showed similar expression in the dorsal root
+                    ganglia (marked with red arrows in Figure S1), the number of transgenic embryos
+                    displaying this pattern of expression is not sufficient for this CNE to be
+                    classified as an enhancer. We therefore concluded that CNE1
+                    does not act as a transcriptional enhancer at stage E11.5.CNE2/3CNE2/3 is a combination of two CNEs, CNE2 and
+                        CNE3, which were tested together due to their close
+                    proximity to each other (41 bp apart). These CNEs have a combined length of 210
+                    bp, and are situated approximately 516 kb upstream of human
+                        LHX2 in the 13th intron of
+                        DENND1A. A total of six E11.5 transgenic embryos were
+                    obtained for CNE2/3 construct, four (67%) of which
+                    displayed reproducible expression in the neural tube and dorsal root ganglia
+                        (Figure 6A and Figure S2)
+                    while the remaining two embryos (33%) showed no expression. We therefore
+                    conclude that CNE2/3 directs expression to neural tube and dorsal root ganglia
+                    at E11.5. However, it should be noted that this expression pattern differs from
+                        Lhx2 expression in the neural tube; while
+                        lacZ appears to express in the ventral region of the neural
+                    tube under the direction of CNE2/3, Lhx2
+                    expresses in the dorsal region at E11.5. Furthermore, the dorsal root ganglion
+                    is not a domain of Lhx2 expression.10.1371/journal.pone.0020088.g006Figure 6Lhx2-associated CNEs direct expression to various
+                            tissues in E11.5 mouse embryos.Lateral and dorsal views of a representative transgenic embryo for each
+                            construct. (A) CNE2/3; Strong lacZ expression was
+                            observed in the neural tube and dorsal root ganglia. (B) CNE5/6; (C)
+                            CNE7; lacZ expression was observed in the hindbrain and
+                            the neural tube for CNE5/6 and CNE7. (D) CNE10. lacZ
+                            expression extending from the most rostral region of the midbrain to the
+                            hindbrain and the entire length of the neural tube. Additional ectopic
+                                lacZ expression was detected in the diencephalon
+                            for this embryo. Scale bar denotes 1 mm in length. M: midbrain; H:
+                            hindbrain; NT: neural tube; DRG: dorsal root ganglion.CNE4CNE4 is a 119-bp element situated approximately 324 kb 5β€²
+                    of LHX2, within the fifth intron of DENND1A. A
+                    total of five transgenic embryos were obtained for E11.5, but none of them
+                    showed lacZ expression (data not shown). Hence,
+                        CNE4 is not an enhancer at E11.5.CNE5/6CNE5/6 is a combination of two CNEs, CNE5 and
+                        CNE6, that are 38 bp apart and are located approximately
+                    269 kb upstream of human LHX2 within the fifth intron of
+                        DENND1A. A 719-bp genomic fragment was amplified and cloned
+                    for this construct, making it the longest element among all the constructs
+                    tested. A total of five E11.5 transgenic embryos were obtained. Four
+                    (80%) of these embryos had two lacZ-expressing
+                    anatomical features in common - the hindbrain and the neural tube (Figure 6B and Figure S3A
+                    β€“ C) while the fifth embryo showed nearly ubiquitous expression throughout
+                    the entire head and the dorsal part of the embryo (Figure
+                    S3D). CNE5/6 is classified as a transcriptional
+                    enfhancer at E11.5 because it directs reproducible reporter gene expression to
+                    similar embryonic regions in independent transgenic embryos. Although
+                        CNE5/6 does not recapitulate the expression of
+                        Lhx2 in the dorsal region of the neural tube, it does
+                    partially recapiftulate the expression of Lhx2,
+                        Crb2 and Dennd1a in the hindbrain.CNE7The 51-bp CNE7 is the shortest among all the 10 CNEs tested. The
+                    orthologous sequences in human and fugu share 65% identity.
+                        CNE7 is located in the third intron of
+                        DENND1A, approximately 242 kb upstream of
+                        LHX2 in human. When assayed in transgenic mice, this
+                    construct directed reporter gene expression in the hindbrain and neural tube at
+                    E11.5. Among a total of four transgenic embryos that were obtained, three
+                    (75%) showed similar lacZ expression in the hindbrain
+                    and neural tube (Figure 6C
+                    and Figure
+                        S4) while the remaining embryo did not display any expression. Hence,
+                        CNE7 acts as a transcriptional enhancer at stage E11.5.
+                    While CNE7 does not recapitulate Lhx2
+                    expression in the dorsal region of the neural tube, it does partially
+                    recapitulate Lhx2, Crb2 and
+                        Dennd1a expression in the hindbrain.CNE8CNE8, like CNE7, resides in the third intron of
+                        DENND1A, approximately 234 kb upstream of human
+                        LHX2 gene. This CNE does not act as an enhancer at E11.5,
+                    because no lacZ expression was detected in four out of the six
+                    (67%) transgenic embryos obtained for this developmental stage. The
+                    remainfing two embryos (33%) exhibited ectopic lacZ
+                    expression in various anatomical structures with no reproducible similarities
+                        (Figure
+                        S5).CNE9CNE9 is a 53-bp element, the second shortest CNE after
+                        CNE7, that is also located in the third intron of
+                        DENND1A, approximately 222 kb upstream of human
+                        LHX2. CNE9 was amplified and cloned as
+                    part of a 261-bp insert fragment. When assayed in transgenic mice, a total of
+                    eight transgenic embryos were obtained, half of which showed no expression (data
+                    not shown) while three embryos showed ectopic expression in various tissues and
+                    the final embryo expressed lacZ ubiquitously (Figure S6).
+                    Hence, CNE9 does not act as an enhancer at E11.5.CNE10CNE10 is a 145-bp element that has the highest percentage
+                    identity (β�Ό90%) in human and fugu among all the CNEs assayed.
+                        CNE10 is located approximately 219 kb upstream of human
+                        LHX2, immediately upstream of the third exon of
+                        DENND1A. Because CNE10 encompasses a
+                    splice site of DENND1A, it may be involved in the regulation of
+                        DENND1A mRNA splicing. Nevertheless, we assayed this
+                    element for enhancer activity in transgenic mice because the ortholog of
+                        DENND1A is absent from the genomic region upstream of fugu
+                        Lhx2 on scaffold_334 suggesting that the
+                    CNE may have been retained during evolution due to selective pressure that arose
+                    from an underlying cis-regulatory function. Indeed,
+                        CNE10 was found to act as a transcriptional enhancer. Of
+                    the total seven transgenic embryos obtained, three embryos (43%) showed
+                    reproducible lacZ expression in essentially the same anatomical
+                    features, the most rostral part of the midbrain, the hindbrain and the neural
+                    tube (Figure 6D and Figure S7)
+                    while two embryos showed ubiquitous lacZ expression throughout
+                    the whole embryo and the remaining two embryos did not display any
+                        lacZ expression. Although CNE10 does not
+                    recapitulate Lhx2 expression in the dorsal region of the neural
+                    tube at E11.5, it does partially recapitulate Lhx2,
+                        Crb2 and Dennd1a expression in the
+                    midbrain and hindbrain.Summary of the expression patterns of CNEsIn summary, four out of the eight elements (50%) that we assayed for
+                    enhancer activity in transgenic mouse embryos, directed reproducible reporter
+                    gene expression in specific tissues at E11.5 (Table 2). Elements CNE2/3,
+                        CNE5/6, CNE7 and CNE10
+                    directed lacZ expression to the neural tube with the latter
+                    three also directing lacZ expression to the hindbrain. Thus
+                    there was clear overlap in their domains of expression. In addition,
+                        CNE2/3 induced lacZ expression in the
+                    dorsal root ganglia while CNE10 extended lacZ
+                    expression from the hindbrain into the ventral and most rostral regions of the
+                    midbrain. Overall, these four elements partially recapitulate
+                        Lhx2 expression in the midbrain and hindbrain, but do not
+                    recapitulate the expression of Lhx2 in the forebrain, eye, limb
+                    buds and dorsal neural tube at E11.5.10.1371/journal.pone.0020088.t002Table 2Summary of the expression patterns directed by CNE
+                            constructs.Number of mouse embryosReproducible expression pattern (if
+                                    any)CNE constructTransgenicNo lacZ expressionUbiquitous expressionEctopic expressionReproducible expressionMidbrainHindbrainNeural tubeDorsal root gangliaCNE174-3-CNE2/362--4β€Άβ€ΆCNE455---CNE5/65-1-4β€Άβ€ΆCNE741--3β€Άβ€ΆCNE864-2-CNE98413-CNE10722-3β€Άβ€Άβ€ΆPrediction of motifs in CNEs associated with transcription factor-encoding
+                    genes that express in central nervous systemTranscriptional enhancers typically comprise clusters of binding sites for
+                    transcription factors (TFs). Since four of the Lhx2-associated
+                    CNEs (CNE2/3, CNE5/6, CNE7 and CNE10) function as enhancers directing expression
+                    to the central nervous system, we reasoned that they might be enriched for
+                    motifs (binding sites of TFs) that mediate expression in the central nervous
+                    system. Since four is a small number for predicting motifs, we decided to use
+                    the large set of human-fugu CNEs (β�Ό3,000 elements that are at least
+                    65% identical over 50 bp) that we have previously predicted in the
+                    TF-encoding gene loci in human and fugu [49]. This is a comprehensive set
+                    of CNEs associated with 718 human TF-encoding genes that have orthologs in fugu.
+                    We first extracted the expression data for 718 human-fugu TF orthologs across 62
+                    human tissues from GNF Human GeneAtlas v2 [36]. The gene expression profiles
+                    were then clustered using the k-means clustering algorithm,
+                    Cluster [38].
+                    We experimented with different values of k and selected the
+                    value kβ€�=β€�6 (resulting in six clusters)
+                    for subsequent analysis because it performed best qualitatively. Figure 7A shows the heat maps
+                    generated using TreeView (http://rana.lbl.gov/EisenSoftware.htm) and Figure 7B the corresponding average gene
+                    expression levels for each of the 62 human tissues across the six clusters. The
+                    CNE densities of genes in expression clusters #1, #3, #4 and #6 (Figure 7C) are higher than,
+                    but not significantly different (P>0.01; Wilcoxon rank-sum
+                    test with Bonferroni correction for multiple testing) from, those in other
+                    expression clusters. However, when the number of CNEs and total length of CNEs
+                    per gene are considered, genes in cluster #3 have a significantly higher number
+                    of CNEs (5.90 CNEs per gene, Pβ€�=β€�0.00983)
+                    than genes in other clusters, although their total length is not significantly
+                    high (total length 800 bp per gene,
+                    Pβ€�=β€�0.0124) (Figure 7C). This cluster consists mainly of
+                    genes that express highly in different regions of the brain (e.g., prefrontal
+                    cortex, amygdala, whole brain) and spinal cord, which make up the central
+                    nervous system. This suggests that TF-encoding genes that predominantly express
+                    in the central nervous system contain higher numbers of CNEs compared to
+                    TF-encoding genes that express in other tissues. This inference is in agreement
+                    with our previous findings that genes that are involved in development, in
+                    particular development of the central nervous system, are enriched with CNEs
+                        [49]. In
+                    addition, these results are consistent with the findings of Sironi et al. [50] that
+                    central nervous system-expressed genes tend to be rich in CNEs while Pennacchio
+                    et al. [29] who had verified β�Ό80 transcriptional enhancers in
+                    developing mouse embryos, found that the enhancers directed reporter expression
+                    most frequently in the brain and neural tube. More recently, a similar
+                    association between ultraconserved noncoding elements (noncoding sequences
+                    exceedingly conserved in human, chimp and mouse) and genes that preferentially
+                    express in the central nervous system has been described [51]. Using the GNF Human
+                    GeneAtlas, this study found that nine out of the ten tissues that express genes
+                    most significantly associated with ultraconserved noncoding elements constitute
+                    various members of the central nervous system.10.1371/journal.pone.0020088.g007Figure 7TF-encoding genes predominantly expressed in the central nervous
+                            system are enriched with CNEs.(A, B) Tissue expression patterns of 718 human TF-encoding genes. (A)
+                            Each of the six panels displays a heat map. The rows and columns of each
+                            heat map represent human TF-encoding genes and 62 human tissues
+                            respectively. (B) Each graph represents the average gene expression
+                            levels of a cluster of TF-encoding genes. Expression cluster #3 consists
+                            of genes that predominantly express in the central nervous system. (C)
+                            The table pertains to the CNE density (CNE bases per kb of noncoding
+                            sequence in a human gene locus), the number and total length of CNEs per
+                            TF-encoding gene in different expression clusters.The identification of a large number of CNEs (810 CNEs) associated with genes
+                    that express in the central nervous system (cluster #3) (Figure 7B) allowed us to search for
+                    over-represented motifs using the motif finding program, Weeder [39]. Comparison
+                    of CNEs associated with cluster #3 genes and non-cluster #3 genes (810 CNEs of
+                    117 genes vs. 1,684 CNEs of 601 genes) resulted in the detection of four
+                    over-represented 8-mer motifs (P<0.01) (Table 3). These
+                    over-represented motifs in CNEs of cluster #3 genes presumably represent binding
+                    sites for TFs that are involved in directing expression of the target gene to
+                    the central nervous system. Interestingly, all the four motifs contain the
+                    β€�TAATβ€� motif characteristic of homeodomain TF binding sites (TFBS)
+                        [52]. Two
+                    of the motifs (motif #1, β€�ATTAACCGβ€™ and motif #4,
+                    β€�TGATTACGβ€™) coincide with two pentamer motifs (β€�ATTAAβ€™
+                    and β€�GATTAβ€™) previously reported to be enriched in four human-fugu
+                    CNEs that drove reporter gene expression in the mouse forebrain [29]. Motif
+                    #2 (β€�CTAATTAGβ€™) shares the β€�TAATTβ€™ sequence of
+                    homeodomain TFBS, whose co-occurrence with SOX and POU TFBS in highly conserved
+                    mammal-fugu CNEs was proposed to be associated with gene expression in the
+                    central nervous system [53]. However, the motifs identified by Pennacchio et al.
+                        [29]
+                    and Bailey et al. [53] that coincide with our motifs, were not
+                    experimentally tested for functional activity in the central nervous system.
+                    Finally, a third study searched 13 forebrain enhancers conserved in human and
+                    zebrafish and identified five hexamer motifs that were enriched [54]. Mutation of
+                    the 5 motifs in some forebrain enhancers significantly reduced or altered
+                    enhancer activity and hence these motifs were deduced to be critical for
+                    forebrain enhancer activity. Our motif #3 (β€�CATTAGCGβ€™) partially
+                    corresponds to one of their motifs β€�AATGGAβ€™.10.1371/journal.pone.0020088.t003Table 3Over-represented 8-mer motifs in CNEs of cluster #3 genes.Known TFBSNo.Motif (and reverse-complement)No. of instancesP-valueSequenceTFReferences1ATTAACCG (CGGTTAAT)1591.1Γ—10β�’12ATGYTAATBrn2[64]2CTAATTAG (palindromic)2766.8Γ—10β�’8GCATAATTAATBrn3[65]TAATTAHoxB1, HoxB3[66]3CATTAGCG (CGCTAATG)985.2Γ—10β�’4CYYNATTAKYHoxA5[67]CATTAGIsl-1[68]4TGATTACG (CGTAATCA)1244.2Γ—10β�’3AATTAATCAAPit-1[69]Human-fugu CNEs of cluster #3 human transcription factor-encoding
+                                genes were compared against CNEs of non-cluster #3 transcription
+                                factor-encoding genes. Number of instances of each motif was
+                                determined by searching each motif in the human-fugu CNEs permitting
+                                at most 2 mismatches. P-values were calculated
+                                based on a chi-squared test followed by Bonferroni correction for
+                                multiple testing. Underlined portion of TFBS sequence indicates
+                                similarity with motif. TF, transcription factor; TFBS, TF binding
+                                sites.We searched TRANSFAC for TFBS that matched instances of the four motifs in our
+                    810 human-fugu CNEs associated with central nervous system-expressing genes. The
+                    identified sites included binding sites for homeodomain TFs such as HoxA5,
+                    Brain-2, Islet-1 and Pit-1 (Table
+                        3) which are implicated in the development of the nervous system
+                        [55],
+                        [56], [57], [58]. Thus, the
+                    motifs we have found in the central nervous system CNEs are likely to be the
+                    binding sites for TFs that mediate expression of genes in the central nervous
+                    system. These motifs are putative targets for experimentally verifying TFBS in
+                    CNEs and for identifying upstream regulators of the associated TF-encoding
+                    gene.Besides cluster #3, genes of clusters #1 and #6 also display relatively high
+                    numbers of CNEs although the association of these genes to presence of CNEs is
+                    not statistically significant. Cluster #1 genes are expressed highly in the
+                    human lung, placenta, prostate, thyroid and uterus (top five expression domains)
+                        (Figure 7B). To the best
+                    of our knowledge, these expression domains have not been previously associated
+                    with enrichment of CNEs. Cluster #6 genes are expressed highly in the human
+                    skeletal muscle, superior cervical ganglion, trigeminal ganglion, appendix and
+                    uterus corpus (top five expression domains) (Figure 7B). Among the top 10 expression
+                    domains, four tissues (superior cervical ganglion, trigeminal ganglion, adrenal
+                    cortex and ciliary ganglion) are derived from the neural crest. TF-encoding
+                    genes such as Sox10
+                    [59] and
+                        Pax3
+                    [60] are
+                    known to be associated with conserved enhancers that mediate gene expression in
+                    the neural crest or its derivatives. Despite having no significant enrichment of
+                    CNEs, the genes in the expression clusters other than cluster #3 may still be
+                    enriched for motifs that direct expression to the tissues characteristic of each
+                    cluster. To obtain a more complete list of motifs enriched in all TF-encoding
+                    genes, we searched the CNEs associated with the genes of the remaining
+                    expression clusters and identified two to twelve motifs enriched in CNEs of each
+                    cluster (Table
+                        S2).Site-directed mutagenesis of a predicted motif in
+                    CNE2/3Among the 10 CNEs predicted by us in the Lhx2 locus,
+                        CNE2 contained 1 instance each of motifs #2 (with 1 base
+                    mismatch) and #4 (2 mismatches) (Table 3); and CNE4 contained 1 instance each of
+                    motifs #1 (2 mismatches) and #4 (2 mismatches). No other motif instance could be
+                    found in these or the other CNEs. The locations of these putative motif
+                    instances are shown in Figures S8, S9, S10, S11, S12, S13, S14, S15, S6, S17.
+                    Interestingly, while CNE2 is part of the
+                        CNE2/3 construct that directed expression to neural tube
+                    and dorsal root ganglia, CNE4 did not drive expression of
+                    reporter gene in transgenic mouse embryos at E11.5. This suggests that
+                        CNE4 may be active in the central nervous system at some
+                    other stage of development. Alternatively, motif #1 has occurred in this CNE by
+                    chance and is not acting as a transcription factor binding site. The latter
+                    hypothesis is more likely because the motif #1 instance is not conserved in fugu
+                    (see Figure
+                        S9). To determine if the motifs predicted in CNE2
+                    are functional, we selected CNE2/3 construct, which directed
+                    expression to the neural tube and dorsal root ganglia. This construct has two
+                    motif instances β€�AGTAATTAβ€™ and
+                        β€�GTAATTAGβ€™ that overlap each other (bases
+                    that match motifs #4 and #2 are underlined) and are located at the 5β€² end
+                    of CNE2 (Figure S9). We mutated the
+                    β€�TAATTAβ€™ subsequence to β€�GGGGGGβ€™ (Figure 8A). We then tested the mutant
+                    construct in transgenic mice at stage E11.5. A total of 13 transgenic embryos
+                    were obtained. The expression in 3 embryos (23%) displayed
+                        lacZ expression patterns that are faintly similar to but
+                    significantly truncated compared with the expression pattern of the wild-type
+                    construct (Figure
+                    8Bβ€“F). Two embryos (15%) showed ubiquitous
+                        lacZ expression throughout the entire embryo and notably,
+                    while 8 embryos (62%) showed no lacZ expression. Hence,
+                    through the mutation of the predicted motif, the enhancer activity of
+                        CNE2/3 was either significantly reduced or completely
+                    abolished.10.1371/journal.pone.0020088.g008Figure 8Site-directed mutagenesis of overlapping motifs in
+                                CNE2.(A) Wild-type and mutant sequences of overlapping motifs in
+                                CNE2. (B) lacZ expression although
+                            still detectable in neural tube and dorsal root ganglia, is greatly
+                            reduced especially in the anterior neural tube. (C, D) Faint
+                                lacZ expression in neural tube is present in two
+                            different embryos, and visible under higher magnification in (E, F).
+                            Yellow scale bar denotes 1 mm in length. Red scale bar denotes 0.2 mm in
+                            length.
+</sections.2>
+
+<sections.3>
+Discussion
+n this study, we have used evolutionary constraint as an indicator for identifying
+                conserved enhancers directing the expression of hx2 gene. y
+                aligning hx2 locus from distantly related vertebrates such as
+                human and fugu, we identified 10 s in the greater hx2 locus
+                that encompasses three genes. e tested the 10 s as a set of eight constructs in
+                transgenic mice and found that four elements confer restricted expression patterns
+                in transgenic mouse embryos at 11.5. hese four s directed reporter gene
+                expression to mainly the hindbrain and the neural tube, partially recapitulating the
+                endogenous expression pattern of hx2 at 11.5. n addition, one of
+                these s (10) directed reporter expression to the
+                rostroventral midbrain while another  (2/3) induced reporter
+                expression in the dorsal root ganglia. s for the four s that did not display
+                specific spatiotemporal reporter gene expression, they may direct expression at
+                other stages of development or they may act as transcriptional silencers instead of
+                enhancers, and therefore would not be detected by the minimal promoter-reporter
+                construct used.
+hx2 is located within a conserved syntenic block that spans at
+                least 14 genes in tetrapods (igure
+                    1). owever, the conserved syntenic block covers only three genes in
+                mammals and fish, namely rb2, ennd1a and
+                    hx2. urthermore, the duplicated copy of the intervening gene
+                    ennd1a has been lost in the fugu
+                    rb2-hx2 locus. he
+                    rb2-hx2 is reminiscent of β€�genomic regulatory
+                blocksβ€� (s) previously described by ikuta et al. (2007) based on conserved
+                syntenic blocks of genes and s in mammals and teleost fishes. s are long-range
+                conserved syntenic regions characterized by the presence of s and their target
+                genes in addition to β€�bystanderβ€� genes that are specifically not under
+                the control of the s. onsequently, the bystander genes can be β€�lostβ€�
+                from the s in some species such as teleosts that have experienced a
+                β€�fish-specificβ€� whole-genome duplication. he loss of the duplicated
+                    ennd1a in the fugu rb2-hx2 locus indicates
+                that this could be a bystander gene in this locus. he four s that were showed to
+                be functional enhancers in our transgenic mouse assay directed expression, among
+                other domains, to the midbrain and hindbrain. ince both rb2 and
+                    hx2 are expressed in these domains in mouse embryos at 11.5,
+                it is possible that these s may be directing the expression of
+                    hx2 and/or rb2. nterestingly all four
+                functional s have one expression domain in common β€“ the full length of the
+                neural tube, in particular the ventral region. ince both hx2 and
+                    rb2 are not expressed in this domain, the possibility remains
+                that these enhancers may be directing the expression of other genes, possibly those
+                located downstream of hx2 for which we have not yet determined to
+                be syntenic in fishes and mammals. n alternative possibility is that the hx2 locus
+                may contain silencers that repress the expression of hx2 and
+                    rb2 in the ventral region of the neural tube.
+y identifying a large number of s associated with  encoding-genes that
+                predominantly express in the central nervous system, we predicted motifs that are
+                over-represented in such s. e then hypothesized that motifs may represent
+                -binding sites that are essential for directing expression to the central nervous
+                system. e tested this hypothesis through site-directed mutagenesis of a predicted
+                motif instance, motif #2, in 2/3, that directed expression to
+                the neural tube. utation of the motif β€�β€™ in this  resulted in
+                the abolition of reporter gene expression in the neural tube. his indicates that
+                the motif is necessary for the 2/3 enhancer to direct gene
+                expression to the neural tube. his motif shares the β€�β€™ sequence
+                with the homeodomain binding model by ailey et al. [53] and a forebrain-associated
+                motif of ennacchio et al. [29]. owever in these studies, the motifs were not tested for
+                functional activity in the central nervous system. e have now tested and provided
+                experimental evidence that motif #2 is indeed necessary for expression in the neural
+                tube. nterestingly, 2/3 also directed expression to the dorsal
+                root ganglia which is part of the peripheral nervous system, and mutation of motif
+                #2 in this construct resulted in abolition of expression in this domain. hese
+                results suggest that motif #2 also plays a role driving expression in the peripheral
+                nervous system in the embryo.
+ut of the four s that showed expression in the central nervous system and the
+                dorsal root ganglia, three showed overlapping expression in the hindbrain and all
+                showed similar expression in the neural tube. hese overlapping expression patterns
+                of the different enhancers suggest that they are either associated with different
+                genes in this locus or alternatively, redundant enhancers of the same gene. imilar
+                enhancers showing overlapping patterns of expression have been previously identified
+                in the screening of mammal-chicken s in the ox10 locus [59] and in a 1-b
+                region surrounding the hh locus [61]. uch apparently redundant
+                enhancers are believed to be retained to ensure robust and high levels of expression
+                of target genes and/or to serve as templates for evolution of novel enhancers.
+                nterestingly, based on studies in rosophila, some apparently
+                redundant enhancers have been found to be essential for survival in extreme
+                conditions because they maintain optimal levels of target gene expression and confer
+                phenotypic robustness [62], [63]. or example, deletion of two enhancers that direct
+                    shavenbaby expression in overlapping domains in
+                    rosophila results in only minor defects in trichome
+                development under normal conditions, whereas a significant loss of trichomes is
+                observed at extreme temperatures [62]. uch apparently redundant enhancers have been termed as
+                β€�shadowβ€� or secondary enhancers which function in concert with primary
+                enhancers that reside closer to the target gene. t remains to be seen if the
+                apparently redundant enhancers identified in the hx2 locus act as
+                shadow enhancers.
+s the four functional s that we have identified in the hx2
+                locus do not direct expression to the forebrain, eye, limb buds and dorsal neural
+                tube in which hx2 normally expresses at 11.5, additional analyses
+                have to be conducted to identify the complete repertoire of
+                cis-regulatory elements that recapitulate the full expression
+                pattern of hx2. t is possible that some
+                cis-regulatory elements that direct specific spatiotemporal
+                expression of hx2 lie outside the locus studied. lternatively,
+                the cis-regulatory elements present within the genomic region we
+                have analyzed are divergent in mammals and fish and cannot be detected by human-fish
+                sequence comparisons. omparisons among several mammalian species may help to
+                identify such lineage-specific enhancers.Discussion
+In this study, we have used evolutionary constraint as an indicator for identifying
+                conserved enhancers directing the expression of Lhx2 gene. By
+                aligning Lhx2 locus from distantly related vertebrates such as
+                human and fugu, we identified 10 CNEs in the greater Lhx2 locus
+                that encompasses three genes. We tested the 10 CNEs as a set of eight constructs in
+                transgenic mice and found that four elements confer restricted expression patterns
+                in transgenic mouse embryos at E11.5. These four CNEs directed reporter gene
+                expression to mainly the hindbrain and the neural tube, partially recapitulating the
+                endogenous expression pattern of Lhx2 at E11.5. In addition, one of
+                these CNEs (CNE10) directed reporter expression to the
+                rostroventral midbrain while another CNE (CNE2/3) induced reporter
+                expression in the dorsal root ganglia. As for the four CNEs that did not display
+                specific spatiotemporal reporter gene expression, they may direct expression at
+                other stages of development or they may act as transcriptional silencers instead of
+                enhancers, and therefore would not be detected by the minimal promoter-reporter
+                construct used.
+Lhx2 is located within a conserved syntenic block that spans at
+                least 14 genes in tetrapods (Figure
+                    1). However, the conserved syntenic block covers only three genes in
+                mammals and fish, namely Crb2, Dennd1a and
+                    Lhx2. Furthermore, the duplicated copy of the intervening gene
+                    Dennd1a has been lost in the fugu
+                    Crb2-Lhx2 locus. The
+                    Crb2-Lhx2 is reminiscent of β€�genomic regulatory
+                blocksβ€� (GRBs) previously described by Kikuta et al. (2007) based on conserved
+                syntenic blocks of genes and CNEs in mammals and teleost fishes. GRBs are long-range
+                conserved syntenic regions characterized by the presence of CNEs and their target
+                genes in addition to β€�bystanderβ€� genes that are specifically not under
+                the control of the CNEs. Consequently, the bystander genes can be β€�lostβ€�
+                from the GRBs in some species such as teleosts that have experienced a
+                β€�fish-specificβ€� whole-genome duplication. The loss of the duplicated
+                    Dennd1a in the fugu Crb2-Lhx2 locus indicates
+                that this could be a bystander gene in this locus. The four CNEs that were showed to
+                be functional enhancers in our transgenic mouse assay directed expression, among
+                other domains, to the midbrain and hindbrain. Since both Crb2 and
+                    Lhx2 are expressed in these domains in mouse embryos at E11.5,
+                it is possible that these CNEs may be directing the expression of
+                    Lhx2 and/or Crb2. Interestingly all four
+                functional CNEs have one expression domain in common β€“ the full length of the
+                neural tube, in particular the ventral region. Since both Lhx2 and
+                    Crb2 are not expressed in this domain, the possibility remains
+                that these enhancers may be directing the expression of other genes, possibly those
+                located downstream of Lhx2 for which we have not yet determined to
+                be syntenic in fishes and mammals. An alternative possibility is that the Lhx2 locus
+                may contain silencers that repress the expression of Lhx2 and
+                    Crb2 in the ventral region of the neural tube.
+By identifying a large number of CNEs associated with TF encoding-genes that
+                predominantly express in the central nervous system, we predicted motifs that are
+                over-represented in such CNEs. We then hypothesized that motifs may represent
+                TF-binding sites that are essential for directing expression to the central nervous
+                system. We tested this hypothesis through site-directed mutagenesis of a predicted
+                motif instance, motif #2, in CNE2/3, that directed expression to
+                the neural tube. Mutation of the motif β€�TAATTAβ€™ in this CNE resulted in
+                the abolition of reporter gene expression in the neural tube. This indicates that
+                the motif is necessary for the CNE2/3 enhancer to direct gene
+                expression to the neural tube. This motif shares the β€�TAATTβ€™ sequence
+                with the homeodomain binding model by Bailey et al. [53] and a forebrain-associated
+                motif of Pennacchio et al. [29]. However in these studies, the motifs were not tested for
+                functional activity in the central nervous system. We have now tested and provided
+                experimental evidence that motif #2 is indeed necessary for expression in the neural
+                tube. Interestingly, CNE2/3 also directed expression to the dorsal
+                root ganglia which is part of the peripheral nervous system, and mutation of motif
+                #2 in this construct resulted in abolition of expression in this domain. These
+                results suggest that motif #2 also plays a role driving expression in the peripheral
+                nervous system in the embryo.
+Out of the four CNEs that showed expression in the central nervous system and the
+                dorsal root ganglia, three showed overlapping expression in the hindbrain and all
+                showed similar expression in the neural tube. These overlapping expression patterns
+                of the different enhancers suggest that they are either associated with different
+                genes in this locus or alternatively, redundant enhancers of the same gene. Similar
+                enhancers showing overlapping patterns of expression have been previously identified
+                in the screening of mammal-chicken CNEs in the Sox10 locus [59] and in a 1-Mb
+                region surrounding the Shh locus [61]. Such apparently redundant
+                enhancers are believed to be retained to ensure robust and high levels of expression
+                of target genes and/or to serve as templates for evolution of novel enhancers.
+                Interestingly, based on studies in Drosophila, some apparently
+                redundant enhancers have been found to be essential for survival in extreme
+                conditions because they maintain optimal levels of target gene expression and confer
+                phenotypic robustness [62], [63]. For example, deletion of two enhancers that direct
+                    shavenbaby expression in overlapping domains in
+                    Drosophila results in only minor defects in trichome
+                development under normal conditions, whereas a significant loss of trichomes is
+                observed at extreme temperatures [62]. Such apparently redundant enhancers have been termed as
+                β€�shadowβ€� or secondary enhancers which function in concert with primary
+                enhancers that reside closer to the target gene. It remains to be seen if the
+                apparently redundant enhancers identified in the Lhx2 locus act as
+                shadow enhancers.
+As the four functional CNEs that we have identified in the Lhx2
+                locus do not direct expression to the forebrain, eye, limb buds and dorsal neural
+                tube in which Lhx2 normally expresses at E11.5, additional analyses
+                have to be conducted to identify the complete repertoire of
+                cis-regulatory elements that recapitulate the full expression
+                pattern of Lhx2. It is possible that some
+                cis-regulatory elements that direct specific spatiotemporal
+                expression of Lhx2 lie outside the locus studied. Alternatively,
+                the cis-regulatory elements present within the genomic region we
+                have analyzed are divergent in mammals and fish and cannot be detected by human-fish
+                sequence comparisons. Comparisons among several mammalian species may help to
+                identify such lineage-specific enhancers.
+</sections.3>
+
+<sections.4>
+Supporting nformation
+able 1rimer sequences of the eight  constructs.()lick here for additional data file.able 2ver-represented 8-mer motifs in s of genes of clusters #1, 2, 4, 5
+                            and 6.()lick here for additional data file.igure 11 does not act as a transcriptional
+                            enhancer at 11.5.()lick here for additional data file.igure 22/3 directs reporter gene expression
+                            in the neural tube and dorsal root ganglia at 11.5.()lick here for additional data file.igure 35/6 directs reporter gene expression
+                            in the neural tube at 11.5.()lick here for additional data file.igure 47 directs reporter gene expression in
+                            the hindbrain and neural tube at 11.5.()lick here for additional data file.igure 58 does not act as an enhancer at
+                            11.5.()lick here for additional data file.igure 69 does not act as an enhancer at
+                            11.5.()lick here for additional data file.igure 710 directs reporter gene expression in
+                            the midbrain, hindbrain and neural tube at 11.5.()lick here for additional data file.igure 8uman-mouse-fugu alignment and predicted  of
+                                1.()lick here for additional data file.igure 9uman-mouse-fugu alignment and predicted  of
+                                2.()lick here for additional data file.igure 10uman-mouse-fugu alignment and predicted  of
+                                3.()lick here for additional data file.igure 11uman-mouse-fugu alignment and predicted  of
+                                4.()lick here for additional data file.igure 12uman-mouse-fugu alignment and predicted  of
+                                5.()lick here for additional data file.igure 13uman-mouse-fugu alignment and predicted  of
+                                6.()lick here for additional data file.igure 14uman-mouse-fugu alignment and predicted  of
+                                7.()lick here for additional data file.igure 15uman-mouse-fugu alignment and predicted  of
+                                8.()lick here for additional data file.igure 16uman-mouse-fugu alignment and predicted  of
+                                9.()lick here for additional data file.igure 17uman-mouse-fugu alignment and predicted  of
+                                10.()lick here for additional data file.Supporting Information
+Table S1Primer sequences of the eight CNE constructs.(PDF)Click here for additional data file.Table S2Over-represented 8-mer motifs in CNEs of genes of clusters #1, 2, 4, 5
+                            and 6.(PDF)Click here for additional data file.Figure S1CNE1 does not act as a transcriptional
+                            enhancer at E11.5.(PDF)Click here for additional data file.Figure S2CNE2/3 directs reporter gene expression
+                            in the neural tube and dorsal root ganglia at E11.5.(PDF)Click here for additional data file.Figure S3CNE5/6 directs reporter gene expression
+                            in the neural tube at E11.5.(PDF)Click here for additional data file.Figure S4CNE7 directs reporter gene expression in
+                            the hindbrain and neural tube at E11.5.(PDF)Click here for additional data file.Figure S5CNE8 does not act as an enhancer at
+                            E11.5.(PDF)Click here for additional data file.Figure S6CNE9 does not act as an enhancer at
+                            E11.5.(PDF)Click here for additional data file.Figure S7CNE10 directs reporter gene expression in
+                            the midbrain, hindbrain and neural tube at E11.5.(PDF)Click here for additional data file.Figure S8Human-mouse-fugu alignment and predicted TFBS of
+                                CNE1.(PDF)Click here for additional data file.Figure S9Human-mouse-fugu alignment and predicted TFBS of
+                                CNE2.(PDF)Click here for additional data file.Figure S10Human-mouse-fugu alignment and predicted TFBS of
+                                CNE3.(PDF)Click here for additional data file.Figure S11Human-mouse-fugu alignment and predicted TFBS of
+                                CNE4.(PDF)Click here for additional data file.Figure S12Human-mouse-fugu alignment and predicted TFBS of
+                                CNE5.(PDF)Click here for additional data file.Figure S13Human-mouse-fugu alignment and predicted TFBS of
+                                CNE6.(PDF)Click here for additional data file.Figure S14Human-mouse-fugu alignment and predicted TFBS of
+                                CNE7.(PDF)Click here for additional data file.Figure S15Human-mouse-fugu alignment and predicted TFBS of
+                                CNE8.(PDF)Click here for additional data file.Figure S16Human-mouse-fugu alignment and predicted TFBS of
+                                CNE9.(PDF)Click here for additional data file.Figure S17Human-mouse-fugu alignment and predicted TFBS of
+                                CNE10.(PDF)Click here for additional data file.
+</sections.4>
+
+</text>

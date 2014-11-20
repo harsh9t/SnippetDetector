@@ -1,0 +1,11 @@
+<title>
+First pharmacophore model of CCR3 receptor antagonists and its homology model-assisted, stepwise virtual screening.
+</title>
+
+<text>
+
+<abstract>
+CCR3, a G protein-coupled receptor, plays a central role in allergic inflammation and is an important drug target for inflammatory diseases. To understand the structure-function relationship of CCR3 receptor, different computational techniques were employed, which mainly include: (i) homology modeling of CCR3 receptor, (ii) 3D-quantitative pharmacophore model of CCR3 antagonists, (iii) virtual screening of small compound databases, and (iv) finally, molecular docking at the binding site of the CCR3 receptor homology model. Pharmacophore model was developed for the first time, on a training data set of 22 CCR3 antagonists, using CATALYST HypoRefine program. Best hypothesis (Hypo1) has three different chemical features: two hydrogen-bond acceptors, one hydrophobic, and one ring aromatic. Hypo1 model was further validated using (i) 87 test set CCR3 antagonists, (ii) Cat Scramble randomization technique, and (iii) Decoy data set. Molecular docking studies were performed on modeled CCR3 receptor using 303 virtually screened hits, obtained from small compound database virtual screening. Finally, five hits were identified as potential leads against CCR3 receptor, which exhibited good estimated activities, favorable binding interactions, and high docking scores. These studies provided useful information on the structurally vital residues of CCR3 receptor involved in the antagonist binding, and their unexplored potential for the future development of potent CCR3 receptor antagonists.
+</abstract>
+
+</text>

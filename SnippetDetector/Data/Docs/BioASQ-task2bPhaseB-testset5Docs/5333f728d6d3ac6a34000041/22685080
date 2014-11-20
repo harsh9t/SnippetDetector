@@ -1,0 +1,11 @@
+<title>
+Detection of protein complexes using a protein ranking algorithm.
+</title>
+
+<text>
+
+<abstract>
+Detecting protein complexes from protein-protein interaction (PPI) network is becoming a difficult challenge in computational biology. There is ample evidence that many disease mechanisms involve protein complexes, and being able to predict these complexes is important to the characterization of the relevant disease for diagnostic and treatment purposes. This article introduces a novel method for detecting protein complexes from PPI by using a protein ranking algorithm (ProRank). ProRank quantifies the importance of each protein based on the interaction structure and the evolutionarily relationships between proteins in the network. A novel way of identifying essential proteins which are known for their critical role in mediating cellular processes and constructing protein complexes is proposed and analyzed. We evaluate the performance of ProRank using two PPI networks on two reference sets of protein complexes created from Munich Information Center for Protein Sequence, containing 81 and 162 known complexes, respectively. We compare the performance of ProRank to some of the well known protein complex prediction methods (ClusterONE, CMC, CFinder, MCL, MCode and Core) in terms of precision and recall. We show that ProRank predicts more complexes correctly at a competitive level of precision and recall. The level of the accuracy achieved using ProRank in comparison to other recent methods for detecting protein complexes is a strong argument in favor of the proposed method.
+</abstract>
+
+</text>

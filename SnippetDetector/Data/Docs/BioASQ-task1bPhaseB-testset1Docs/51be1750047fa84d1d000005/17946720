@@ -1,0 +1,11 @@
+<title>
+Hardware accelerator for genomic sequence alignment.
+</title>
+
+<text>
+
+<abstract>
+To infer homology and subsequently gene function, the Smith-Waterman algorithm is used to find the optimal local alignment between two sequences. When searching sequence databases that may contain billions of sequences, this algorithm becomes computationally expensive. Consequently, in this paper, we focused on accelerating the Smith-Waterman algorithm by modifying the computationally repeated portion of the algorithm by FPGA hardware custom instructions. These simple modifications accelerated the algorithm runtime by an average of 287% compared to the pure software implementation. Therefore, further design of FPGA accelerated hardware offers a promising direction to seeking runtime improvement of genomic database searching.
+</abstract>
+
+</text>

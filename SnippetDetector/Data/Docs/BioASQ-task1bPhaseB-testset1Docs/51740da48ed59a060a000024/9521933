@@ -1,0 +1,11 @@
+<title>
+SeqHelp: a program to analyze molecular sequences utilizing common computational resources.
+</title>
+
+<text>
+
+<abstract>
+Here we describe a tool to analyze molecular sequences utilizing the internet and existing computational resources for molecular biology. The computer program SeqHelp organizes information from database searches, gene structure prediction, and other information to generate multiply aligned, hypertext-linked reports to allow for fast analysis of molecular sequences. The efficient and economical strategy in this program can be employed to study molecular sequences for gene cloning, mutation analysis, and identical sequence search projects.
+</abstract>
+
+</text>

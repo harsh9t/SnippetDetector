@@ -1,0 +1,11 @@
+<title>
+Receptor guided 3D-QSAR analysis of thieno[2,3-b]pyridine-5- carbonitrile inhibitors of protein kinase C theta (PKC-θ).
+</title>
+
+<text>
+
+<abstract>
+In the present study, receptor induced 3D-QSAR model was developed for a set of 46 thieno[2,3-b]pyridine-5- carbonitrile PKC-θ inhibitors, to explore the structural requirements of the molecules necessary for PKC-θ inhibition. Since the chemical nature of the studied molecules was different from the crystal ligand of the selected protein, induced fit docking (IFD) protocol was employed to induce the conformational changes in the active site of the selected protein. Thereafter, all molecules were docked into the newly generated active site environment of the selected protein using glide docking program, and the 3D-QSAR analysis was performed in PHASE program utilizing the docking based alignment of the molecules. The best 3D-QSAR model was selected on the basis of the highest value of Q(2)test (0.600), and the selected model also showed high values of R(2)train , 0.915, Pearson-r, 0.801 and low value of SD, 0.241. The contour maps corresponding to the selected 3D-QSAR model, in combination with docking analysis, helped to explore the essential amino acid residues involved in binding, and structural requirements of the ligand molecules necessary for complementary fit with the active site of the protein. Therefore, the information revealed from the generated model can further be explored as a novel tool for the designing of new congener molecules that can serve as potential therapeutics for the treatment of various disease conditions associated with abnormal PKC-θ signalling.
+</abstract>
+
+</text>

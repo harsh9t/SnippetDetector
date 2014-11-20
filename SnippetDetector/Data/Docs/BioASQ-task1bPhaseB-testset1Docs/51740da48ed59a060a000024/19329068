@@ -1,0 +1,11 @@
+<title>
+SCGPred: a score-based method for gene structure prediction by combining multiple sources of evidence.
+</title>
+
+<text>
+
+<abstract>
+Predicting protein-coding genes still remains a significant challenge. Although a variety of computational programs that use commonly machine learning methods have emerged, the accuracy of predictions remains a low level when implementing in large genomic sequences. Moreover, computational gene finding in newly sequenced genomes is especially a difficult task due to the absence of a training set of abundant validated genes. Here we present a new gene-finding program, SCGPred, to improve the accuracy of prediction by combining multiple sources of evidence. SCGPred can perform both supervised method in previously well-studied genomes and unsupervised one in novel genomes. By testing with datasets composed of large DNA sequences from human and a novel genome of Ustilago maydi, SCG-Pred gains a significant improvement in comparison to the popular ab initio gene predictors. We also demonstrate that SCGPred can significantly improve prediction in novel genomes by combining several foreign gene finders with similarity alignments, which is superior to other unsupervised methods. Therefore, SCG-Pred can serve as an alternative gene-finding tool for newly sequenced eukaryotic genomes. The program is freely available at http://bio.scu.edu.cn/SCGPred/.
+</abstract>
+
+</text>

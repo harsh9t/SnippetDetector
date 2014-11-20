@@ -1,0 +1,11 @@
+<title>
+A fast algorithm to track changes of direction of a person using magnetometers.
+</title>
+
+<text>
+
+<abstract>
+Technological advances in signal processing and in circuits integration offer numerous perspectives in telemedicine and telemonitoring. Considering the increase of life expectancy, accurate and reliable assessement of modification and/or deterioration in the health status of a person is needed. One possible indicator is the "activity index" of a person. To compute such an index, previous studies have used accelerometers. Although these sensors are appropriate for the detection of postural transitions (e.g. Sit To Stand and Stand To Sit), they do not allow to detect changes of direction of a walking individual insofar as such activity occurs in a constant gravitation field. Within this context, the purpose of the present work is to investigate whether magnetometers can be used to monitor the changes of direction of a person.
+</abstract>
+
+</text>

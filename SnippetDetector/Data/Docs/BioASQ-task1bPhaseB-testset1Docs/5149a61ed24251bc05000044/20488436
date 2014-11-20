@@ -1,0 +1,11 @@
+<title>
+Combined prediction of transmembrane topology and signal peptide of beta-barrel proteins: using a hidden Markov model and genetic algorithms.
+</title>
+
+<text>
+
+<abstract>
+BACKGROUND: Hidden Markov models (HMMs) have been extensively used in computational molecular biology, for modelling protein and nucleic acid sequences. The design of the model architecture and the algorithms for parameter estimation and decoding are extremely important for improve the performance of HMM. In topology prediction of transmembrane beta-barrels proteins (TMBs), the Baum-Welch algorithm is widely adapted for HMM training but usually leads to a sub-optimal model in practice. In addition, all the existing HMM-based predictors are only designed to model the transmembrane segment without a submodel to model the signal peptide (SP) for full-length sequences. It is not convenient for users to investigate the structures of full-length TMB sequences. RESULTS: We present here, an HMM that combine a transmembrane barrel submodel and an SP submodel for both topology and SP predictions. A new genetic algorithm (GA) is presented here to training the model, at the same time the Posterior-Viterbi algorithm is adopted for decoding. A dataset including 33 TMBs that is the most so far in literature are collected for model training and testing. Results of self-consistency and jackknife tests shows the GA has better global performance than the Baum-Welch algorithm. Results of jackknife tests show that this method performs better than all well known existing methods for topology predictions. Furthermore, it provides a function to predict SP in full-length TMBs sequences with fairish accuracy. CONCLUSION: We show that our combined HMM-based method is a better choice for TMB topology prediction, which implements topology predictions with higher accuracy and additional SP predictions for full-length TMB sequences.
+</abstract>
+
+</text>

@@ -1,0 +1,11 @@
+<title>
+Gene structure prediction from consensus spliced alignment of multiple ESTs matching the same genomic locus.
+</title>
+
+<text>
+
+<abstract>
+MOTIVATION: Accurate gene structure annotation is a challenging computational problem in genomics. The best results are achieved with spliced alignment of full-length cDNAs or multiple expressed sequence tags (ESTs) with sufficient overlap to cover the entire gene. For most species, cDNA and EST collections are far from comprehensive. We sought to overcome this bottleneck by exploring the possibility of using combined EST resources from fairly diverged species that still share a common gene space. Previous spliced alignment tools were found inadequate for this task because they rely on very high sequence similarity between the ESTs and the genomic DNA. RESULTS: We have developed a computer program, GeneSeqer, which is capable of aligning thousands of ESTs with a long genomic sequence in a reasonable amount of time. The algorithm is uniquely designed to tolerate a high percentage of mismatches and insertions or deletions in the EST relative to the genomic template. This feature allows use of non-cognate ESTs for gene structure prediction, including ESTs derived from duplicated genes and homologous genes from related species. The increased gene prediction sensitivity results in part from novel splice site prediction models that are also available as a stand-alone splice site prediction tool. We assessed GeneSeqer performance relative to a standard Arabidopsis thaliana gene set and demonstrate its utility for plant genome annotation. In particular, we propose that this method provides a timely tool for the annotation of the rice genome, using abundant ESTs from other cereals and plants. AVAILABILITY: The source code is available for download at http://bioinformatics.iastate.edu/bioinformatics2go/gs/download.html. Web servers for Arabidopsis and other plant species are accessible at http://www.plantgdb.org/cgi-bin/AtGeneSeqer.cgi and http://www.plantgdb.org/cgi-bin/GeneSeqer.cgi, respectively. For non-plant species, use http://bioinformatics.iastate.edu/cgi-bin/gs.cgi. The splice site prediction tool (SplicePredictor) is distributed with the GeneSeqer code. A SplicePredictor web server is available at http://bioinformatics.iastate.edu/cgi-bin/sp.cgi
+</abstract>
+
+</text>

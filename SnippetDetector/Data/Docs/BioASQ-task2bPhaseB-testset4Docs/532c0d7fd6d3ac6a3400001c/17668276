@@ -1,0 +1,11 @@
+<title>
+Generation of a homology model of the human histamine H(3) receptor for ligand docking and pharmacophore-based screening.
+</title>
+
+<text>
+
+<abstract>
+The human histamine H(3) receptor (hH(3)R) is a G-protein coupled receptor (GPCR), which modulates the release of various neurotransmitters in the central and peripheral nervous system and therefore is a potential target in the therapy of numerous diseases. Although ligands addressing this receptor are already known, the discovery of alternative lead structures represents an important goal in drug design. The goal of this work was to study the hH(3)R and its antagonists by means of molecular modelling tools. For this purpose, a strategy was pursued in which a homology model of the hH(3)R based on the crystal structure of bovine rhodopsin was generated and refined by molecular dynamics simulations in a dipalmitoylphosphatidylcholine (DPPC)/water membrane mimic before the resulting binding pocket was used for high-throughput docking using the program GOLD. Alternatively, a pharmacophore-based procedure was carried out where the alleged bioactive conformations of three different potent hH(3)R antagonists were used as templates for the generation of pharmacophore models. A pharmacophore-based screening was then carried out using the program Catalyst. Based upon a database of 418 validated hH(3)R antagonists both strategies could be validated in respect of their performance. Seven hits obtained during this screening procedure were commercially purchased, and experimentally tested in a [(3)H]N(alpha)-methylhistamine binding assay. The compounds tested showed affinities at hH(3)R with K ( i ) values ranging from 0.079 to 6.3 muM.
+</abstract>
+
+</text>

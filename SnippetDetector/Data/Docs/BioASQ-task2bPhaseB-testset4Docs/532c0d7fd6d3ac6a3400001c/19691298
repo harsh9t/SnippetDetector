@@ -1,0 +1,11 @@
+<title>
+Pharmacophore modeling, docking studies, and synthesis of novel dipeptide proteasome inhibitors containing boron atoms.
+</title>
+
+<text>
+
+<abstract>
+A 3D pharmacophore model had been generated for a series of dipeptide proteasome inhibitors containing boron atoms using Catalyst. A data set consisting of 24 inhibitors was selected on the basis of the information content of the structures and activity data as required by the Catalyst/HypoGen program. The built model was able to predict the activity of other known proteasome inhibitors not included in the model generation. Based on the analysis of the best hypotheses, some novel proteasome inhibitors were designed and predicted. Three dipeptide boronic acid inhibitors SMNT 1, SMNT 2, and SMNT 3, were synthesized and biologically assayed. It turned out that the three designed molecules were all more potent than the marketed MG341, and the experimental values were consistent with the predicted ones, indicating that the theoretical model was reliable enough to predict and design novel proteasome inhibitors. The covalent interaction mode between the boron atom of the inhibitor and O(gamma)-Thr1 residue of the 20S proteasome was studied for the first time by employing the most potent inhibitor SMNT 2 with the Insight II 2005/Affinity program. The docking results agreed well with the experimental ones.
+</abstract>
+
+</text>

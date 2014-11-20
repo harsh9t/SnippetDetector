@@ -1,0 +1,11 @@
+<title>
+Conserved regional 3' grouping of rare codons in the coding sequence of ocular prosecretory mitogen lacritin.
+</title>
+
+<text>
+
+<abstract>
+PURPOSE: Lacritin is a prosecretory mitogen in tears and, although a tear protein, it promotes basal tearing and lacrimal gland secretion. Since scale up is relevant to its potential use in the treatment of dry eye, we explored various mutagenic strategies to alter the stability, solubility, and translational efficiency of nascent lacritin, and discovered 3' clustering of rare human codons. METHODS: Site-directed mutagenesis of lacritin coding cDNA "pLAC" generated 24 different nonsynonymous and 13 synonymous mutations. Nonsynonymous mutations altered amino acids with nonpolar, basic or acidic side chains to serine. Synonymous mutation progressively optimized human codons that are rare or uncommon in Escherichia coli without changing the amino acid specified. These changes were validated by sequencing and protein production, and analyzed via the "rare codon calculator" (RCC). Nonhuman primate and nonprimate lacritin coding sequences were extracted from Ensembl, and analyzed via RCC using codon usage appropriate for each species. RESULTS: Superior yields were obtained by modification of individual hydrophobic residues or a predicted salt bridge, suggesting that production was limited by lacritin stability. Accordingly, elimination of rare codons increased yields less effectively. Importantly, RCC analysis of human, nonhuman primate (mouse lemur) and nonprimate (cat, tree shrew) lacritin coding sequences revealed remarkable 3' clustering of rare codons, unlike human lipocalin-1 and 21 other widely expressed human tear genes. CONCLUSIONS: Lacritin protein yields were improved primarily by hydrophobic or salt bridge mutagenesis and less so by elimination of rare codons. The 3' clustering of rare codons is conserved in all lacritin orthologs examined.
+</abstract>
+
+</text>

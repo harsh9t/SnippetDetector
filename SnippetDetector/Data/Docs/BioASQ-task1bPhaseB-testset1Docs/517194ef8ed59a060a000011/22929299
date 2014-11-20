@@ -1,0 +1,236 @@
+<title>
+An in vitro co-infection model to study Plasmodium falciparum-HIV-1 interactions in human primary monocyte-derived immune cells.
+</title>
+
+<text>
+
+<sections.0>
+Protocol
+
+ote: xperiments with -1 and lasmodium falciparum must be
+performed in the proper biosafety level laboratories (2 for parasites, and 3 for -1
+and co-infections) and special precaution must be taken when using potentially infected
+human blood.
+1. eripheral lood ononuclear ells () urification (ased on 8 and
+9)tart with fresh human blood from healthy donors (500 ml) treated with anticoagulants
+(heparin, citrate, acid citrate dextrose or citrate phosphate dextrose). se
+endotoxin-free reagents when purifying and isolating  and throughout the rest of
+the protocol.isinfect the blood bag, including the tube, with 70% ethanol, cut the tube and
+carefully transfer the blood into a 150 flask.repare 16 tubes with 15 ml ymphocytes eparation edium (icoll) per 50 ml conical
+tube (make sure that icoll has reached room temperature). arefully layer 30 ml of
+fresh blood on top.entrifuge at 400 x g for 30 min at 20 ° with breaks off.uring the centrifugation, prepare 8 x 50 ml conical tubes with 25 ml of room
+temperature ank's alanced alt olution () per tube.
+arefully transfer the cloudy cell ring at the interface (contains )
+to the 50 ml tube containing the  (pool 2 cell rings per tube). omplete volumes
+up to 50 ml with .entrifuge at 150 x g for 15 min at 20 ° with breaks on.uring centrifugation of the cloudy cell ring, collect the yellow upper layer from
+the icoll step, pool the plasma to fill up a 50 ml conical tube. nactivate
+complement in plasma by heating the 50 ml tube at 56 ° for 30 min and spin 10 min at
+1,800 x g. eep the supernatant (contains diluted autologous plasma that can be used
+as medium supplement at later steps).
+arefully remove the supernatant and resuspend the cell pellet from step
+1.7 in 25 ml of  and pool 2 pellets per 50 ml tube. pin at 300 x g for 8 min at
+20 °.emove the supernatant carefully and resuspend the pellets in 10 ml  and pool in
+one 50 ml tube.ake an aliquot, perform trypan blue exclusion to assess mortality and then count
+.omplete volume to 50 ml with  and spin 10 min at 300 x g. emove the supernatant
+and resuspend the cells in  1640 at 5x106 cells/ml (one should obtain
+around 400-500 x 106  from 500 ml of blood).2. onocytes-erived acrophages () ifferentiation (ased on 8 and
+9)eed approximately 1.25 x 108  in 15 cm dishes with  1640 (25
+ml/dish).et cells adhere for 1-2 hr at 37 ° with 5% 2 atmosphere.ransfer non-adhered cells in a new flask and wash plate with 15 ml endotoxin-free
+ twice (5 min, 300 x g). he adhered cells are isolated monocytes.o allow freshly isolated monocytes to differentiate into , add 20 ml of  1640
+medium supplemented with 5% autologous plasma (from step 1.8). dd human recombinant
+acrophage olony timulating actor (-, 25 ng/ml) and enicillin/treptomycin
+solution (, 100 /ml enicillin, 100 g/ml treptomycin). ncubate for 2 days,
+change medium and incubate 2-3 extra days at 37 ° in 5% 2
+atmosphere.emove old medium and wash with endotoxin-free  once, add the  gently and
+aspirate immediately. o detach fully differentiated , treat cells with ~7 ml
+ccutase (ccutase, a commercially available mix of proteases and collagenolytic
+activity that allow the detachment of cells from the plastic dish) for 15-20 min at 37
+° in a 5% 2 atmosphere, rock gently at mid-time.dd 3-5 ml autologous plasma (from step 1.8) in each plate (to help protect the cells
+while scraping).ently scrape cells making sure that medium covers the cells at all times and
+transfer/pool in a 50 ml tube.inse plates with endotoxin-free  to recover as many cells as possible.pin 5 min at 200 x g, discard supernatant.esuspend pellet in 5 ml  culture medium ( 1640 supplemented with 10%
+complement-inactivated etal ovine erum (i. FBS), PS, 25 mM HEPES) and count cells
+(MDM yield usually 2-8% of total PBMC). Note: an aliquot of MDM might be taken in this
+step to assess cell population purity by flow cytometry; usually 99% of obtained MDM
+express CD14.Seed 1x105 MDM in 600 ΞΌl of MDM culture medium per well in 24-well
+plates.Incubate overnight at 37 Β°C in a 5% CO2 atmosphere before infections.3. Production and Quantitation of HIV-1 Viral StocksProduce viral stocks using calcium phosphate transfection in HEK293T cells following
+the protocol of Fortin et al. 10.In order to obtain single cycle viruses containing the luciferase-encoding reporter
+gene, co-transfect HEK293T cells with either 20 ΞΌg of
+NL4.3Luc+Env-R+ and 10 ΞΌg of
+pHCMV-G, or 15 ΞΌg of
+NL4.3Luc+Env-R+ and 15 ΞΌg of
+pJRFLenv. Use 30 ΞΌg of
+NL4.3Luc+Env-R+ to generate
+control glycoprotein-deficient viruses. For the fully replicative virus, use 30 ΞΌg of
+NL4.3Balenv. The vectors pHCMV-G and pJRFLenv
+encode the envelope glycoproteins of vesicular stomatitis virus (VSV-G) and of a
+CXCR5-tropic HIV-1 (different than NL4.3Balenv), respectively.
+Additional information on the plasmids can be obtained from 8. Plasmids can
+be obtained through the NIH AIDS Research and Reference Program (NIAID, NIH).Quantify all viral stocks using ELISA for the HIV-1 p24 capsid protein11,
+and verify their infectious potential prior to use. We assess the infectivity of our
+virus stocks through the use of TZM-bl indicator cells12.4. Culture of Plasmodium falciparum Parasites (Based on
+13)4.1 General culture and maintenance of parasitesMaintain P. falciparum 3D7 asexual stage parasites in human
+erythrocytes (blood group O+) at a 4% hematocrit in RPMI 1640 (buffered with 25 mM
+HEPES and 25 mM NaHCO3) supplemented with 0.5% (w/v) Albumax II, 25 ΞΌg/ml
+Gentamicin and 370ΞΌM Hypoxanthine at 37 Β°C in a gas mixture of 1% oxygen/5% carbon
+dioxide in nitrogen.Parasitemia can be monitored by making a thin smear of the culture and staining with
+a 15% Giemsa solution.Always maintain an uninfected red blood cells (uRBC) culture dish in the same
+conditions as parasites to use as a control. To obtain late stage parasites
+(trophozoites/early schizonts), synchronize the parasites as follows:4.2 Parasite synchronizationIn the morning, harvest the parasite culture, spin 5 min at 300 x g and discard the
+supernatant.Resuspend pellet in 5 packed cell volumes with 5% (w/v) D-Sorbitol and incubate 5 min
+at 37 Β°C.Spin 5 min at 300 x g, discard supernatant, resuspend pellet in 30
+ml culture medium and put back in incubator.Approximately 8 hr later, repeat steps 4.2.1 to 4.2.3 in order to obtain tightly
+synchronized parasites. Late stage parasites (trophozoites/early schizonts) can then
+be harvested the following morning to perform the experiment. Prior to purification,
+perform Giemsa staining to confirm lifecycle stage.4.3 Plasmodium falciparum-infected red blood cells (iRBC)
+purificationSterilize the VarioMacs separator (stand and magnet) with 70% ethanol and place it
+under the biological hood.Fix the three-way stopcock to CS column bottom.Cut the end of the needle plastic protector with the Miltenyi special cutter and fix
+the needle to the stopcock bottom.Lock the column into the magnet carefully.Remove all air bubbles in the column by slowly injecting 10 ml of MDM culture medium
+with the kit-enclosed syringe screwed on the left side of the stopcock.Wash column with ~20 ml MDM culture medium.Harvest RBC from the culture plate, wash once with 10 ml MDM medium (300 x g, 5 min)
+and resuspend the RBC pellet in 12 ml MDM culture medium. Slowly add to column and let
+the suspension flow through (only infected red blood cells containing parasites in the
+trophozoite or schizont stage will be retained by the magnetic field due to the
+presence of hemozoin crystals).Wash once with 20 ml medium and stop liquid flow when it reaches the white disc on
+top of the column.Remove the column from the magnet and elute iRBC in a clean sterile tube with 12 ml
+MDM culture medium.Smear an aliquot of the recovered iRBC and perform Giemsa staining to confirm
+lifecycle stage.Count recovered iRBC using a haemocytometer (isolated RBC are 100% iRBC).Pellet cells (300 x g, 5 min), discard supernatant and treat cells with 500 ΞΌl fresh
+AB+ human serum (opsonisation step14).Incubate for 30 min at 37 Β°C in a 5% CO2 atmosphere.Wash once with 10 ml MDM culture medium (300 x g, 5 min), and
+resuspend iRBC to desired concentration. Usually, a 10% parasitemia 15 cm culture dish
+roughly gives ~0.5-1x108 tightly synchronized iRBC.5. Exposure of MDM to Plasmodium falciparumTo expose the MDM to uRBC or iRBC, cells must be resuspended in MDM culture medium in
+order to obtain a ratio of uRBC/iRBC:MDM of 75:1. In previously prepared 24-well
+plates containing MDM, add appropriate RBC suspension volume to each well. Perform all
+experiments in triplicate.Incubate co-cultures for 4 hr at 37 Β°C in a 5% CO2 atmosphere.Wash the cells with 600 ΞΌl of endotoxin-free PBS 3 times, add the PBS gently and
+aspirate immediately.To lyse the remaining RBC, wash the wells by adding 200 ΞΌl of ice-cold sterile water
+for 20 sec and aspirate.Add 600 ΞΌl MDM culture medium and incubate 24 hr at 37 Β°C in a 5% CO2
+atmosphere.6. Infection of MDM with a Fully Replicative HIV-1In order to assess the effect of P. falciparum on HIV-1 replication
+in MDM, add, according to the scheme outlined in Figure 1A, 10 ng of p24
+(in 300 ΞΌl of MDM media) of NL4.3Balenv viruses in the appropriate
+wells; add only MDM medium in control wells.Incubate 2 hr at 37 Β°C in a 5% CO2 atmosphere.Wash the cells with endotoxin-free PBS 3 times, add the PBS gently and aspirate
+immediately. Add 600 ΞΌl of fresh MDM medium per well.Incubate at 37 Β°C in a 5% CO2 atmosphere.At days 3, 6, 9 and 12 following the start of viral infection, harvest 200 ΞΌl of each
+supernatant, adding 200 ΞΌl of fresh MDM medium thereafter. Keep the harvested
+supernatants at -20 Β°C for quantitation of the major HIV-1 capsid p24 protein by ELISA
+following Fortin et al.10.7. Infection of MDM with Single Cycle Virus Encoding LuciferaseIn order to determine the parasite's impact on HIV-1 gene expression in MDM, add,
+according to the scheme outlined in Figure 1B, 10 ng p24 (in 300 ΞΌl of
+MDM medium) of either
+NL4.3Luc+Env-R+(VSV-G),
+NL4.3Luc+Env-R+(JRFLenv)
+or NL4.3Luc+Env-R+ viruses in the
+corresponding wells.Incubate 2 hr at 37 Β°C in a 5% CO2 atmosphere.Wash the cells with 600 ΞΌl of endotoxin-free PBS 3 times, add the PBS gently and
+aspirate immediately. Add 600 ΞΌl of fresh MDM medium per well.Incubate at 37 Β°C in a 5% CO2 atmosphere.Remove the medium 72 hr following infection and add 200 ΞΌl of lysis buffer 1X
+(supplied with the luciferase assay kit). Let the cells lyse at room temperature with
+gentle shaking. Store at -20 Β°C.Thaw the plate and transfer 40 ΞΌl of the lysate to a 96-well luminometer plate; add
+100 ΞΌl of luciferase substrate (supplied with the luciferase assay kit) and measure
+the luciferase (Firefly luciferase) activity in a luminometer following the
+manufacturer's instructions.8. Representative ResultsUsing our co-infection model, we show that exposure of P. falciparum to
+MDM decreases their susceptibility to HIV-1 infection. Indeed, a significant decrease
+(p<0.05; 2 way ANOVA, day 12) in the release of viral particles, as measured by HIV-1
+p24 capsid protein in the supernatant, is observed in MDM pretreated with parasites
+(Figure 2A). This observation is confirmed in cells infected by viruses
+encoding a luciferase-reporter gene. MDM infection with such viruses harboring either
+exogenous VSV-G or HIV-1 glycoproteins leads to significantly (p<0.05, Student's
+t-test) less luciferase production in cells exposed to P. falciparum
+(Figure 2B). It is noteworthy that VSV-G-pseudotyped viruses yielded much
+greater luciferase activity than their JRFLenv counterparts; this is due to the greater
+infection efficiency of VSV-G pseudotyped particles15. Given that parasite
+exposition to MDM impacts both types of viruses, this suggests that it influences some
+step in viral gene expression (Figure 2B). It is also important to mention
+that cell viability was not affected by MDM exposition to iRBC (data not shown),
+indicating that the inhibition observed is specific and not due to cell mortality.
+
+ Figure 1. A) Plate scheme for MDM infection with a fully replicative virus.
+Mock: uninfected cells. uRBC: cells exposed to uninfected red blood cells. iRBC:
+cells exposed to Plasmodium falciparum-infected red blood cells. Bal:
+cells infected with NL4.3Balenv. Bal/uRBC: cells exposed to uRBC and
+infected with NL4.3Balenv. Bal/iRBC: cells exposed to iRBC and infected
+with NL4.3Balenv. B) Plate scheme for MDM infection with single
+cycle luciferase-encoding virus. Mock: uninfected cells. uRBC: cells exposed to
+uninfected red blood cells. iRBC: cells exposed to Plasmodium
+falciparum-infected red blood cells. Ξ”env: cells infected with
+NL4.3Luc+Env-R+. JRFL: cells infected
+with
+NL4.3Luc+Env-R+(JRFLenv).
+vsv-g: cells infected with
+NL4.3Luc+Env-R+(vsv-g).
+Ξ”env/uRBC: cells exposed to uRBC and infected with
+NL4.3Luc+Env-R+. Ξ”env/iRBC: cells exposed to iRBC and
+infected with NL4.3Luc+Env-R+.
+JRFL/uRBC: cells exposed to uRBC and infected with
+NL4.3Luc+Env-R+(JRFLenv).
+JRFL/iRBC: cells exposed to iRBC and infected with
+NL4.3Luc+Env-R+(JRFLenv).
+vsv-g/uRBC: cells exposed to uRBC and infected with
+NL4.3Luc+Env-R+(vsv-g).
+vsv-g/iRBC: cells exposed to iRBC and infected with
+NL4.3Luc+Env-R+(vsv-g).
+
+ Figure 2. A) Effect of Plasmodium falciparum on HIV-1 viral
+production in MDM. MDM were exposed to uRBC or iRBC at a ratio 75:1
+(uRBC/iRBC:MDM) for 4 hr and extensively washed. Cells were infected with 10ng of
+NL4.3Balenv p24 for 2 hr. Viral production was
+monitored by ELISA for HIV-1 p24 in cell-free supernatant at different time points
+following initial viral infection. A representative experiment is shown. B) Effect
+of Plasmodium falciparum on HIV-1 viral transcription in MDM.
+MDM were infected with uRBC or iRBC at a ratio 75:1 (uRBC/iRBC:MDM). Cells were
+then infected with 10ng of p24 of single cycle virus (either
+NL4.3Luc+Env-R+,
+NL4.3Luc+Env-R+(JRFLenv)
+or NL4.3Luc+Env-R+(vsv-g)). Luciferase
+expression was evaluated in cell lysates 72 hr following initial virus infection. A
+representative experiment is shown.
+</sections.0>
+
+<sections.1>
+Discussion
+e have illustrated here two different approaches to analyze the impact of the malaria
+parasite on the -1 viral cycle, i.e. by analyzing either viral gene
+expression or progeny virus production and replication in monocyte-derived macrophages.
+imilar approaches have been used for other -1-parasite co-infections16.
+owever, these new data are a step forward in the investigation of malaria--1
+co-infections. ndeed, iou et al.8 studied the effect of
+hemozoin, not live parasites, on -1 replication; in agreement with our results, they
+observed that hemozoin was itself sufficient to inhibit viral production by , and not
+s.
+sing the described experimental layout, we observed that . falciparum
+exerts a clear detrimental effect on the -1 replicative cycle in macrophages: a
+significant inhibition of viral production is observed in macrophages pre-exposed to
+parasites (igure 2) and a specific impact of the parasite on viral
+transcription is illustrated in igure 2. owever, we cannot leave out any
+additional effects of the parasite on viral entry or fusion (decapsidation), or on
+post-integration mechanisms, such as protein synthesis or viral particle assembly and
+budding. urthermore, it is possible that a different impact on -1 replication would be
+obtained if the parasite were added either at the same time or following  infection with
+the virus.
+ur in vitro co-infection model provides a powerful tool to perform
+detailed investigations of -1/. falciparum interactions in the host
+cell. or example, the combination of this experimental layout with other techniques such as
+quantitative real time , which can target and quantify specific steps in viral
+retrotranscription and viral genome integration to the host cell genome, are quite feasible
+and should yield further insights into the mechanisms involved in co-infections. oreover,
+specific assays to evaluate early steps of the viral cycle (viral fusion, decapsidation,
+entry quantitation) can be applied to this basic protocol to further analyze the effect on
+viral replication. hese modifications show how flexible this protocol is concerning -1
+quantitation and detection: indeed, even standard -1 reverse transcriptase quantitation
+assays using tritium-labeled nucleotides could conceivably replace the  for -1 p24.
+n addition to , we expect our system to be adaptable to other cell types relevant for
+-1-malaria interactions, such as monocytes and dendritic cells. he fact that  are
+adherent cells facilitates their manipulation, allowing for easy washing out of i. RBC that
+have not been taken in, or that are in contact with MDM, without eliminating any
+macrophages. Such an advantage would not apply to dendritic cells and monocytes, which are
+cultured in suspension, complicating the separation of uRBC and free iRBC with such cells
+and we are currently addressing this issue. Our system could also be useful to study more
+complex interactions such as the effects of Plasmodium-exposed
+monocyte-derived cells on the HIV-1 viral cycle in other immune cells such as CD4-positive T
+cells in co-culture experiments. Finally, our protocol could be suitable for experiments
+looking at the effect of P. falciparum iRBCs on HIV-1 reactivation in PBMC
+for HIV-1 infected individuals.
+Ethics statementHuman PBMC were obtained from the blood of healthy donors, in accordance with the
+guidelines of the Bioethics Committee of the Centre Hospitalier de l'UniversitΓ© Laval
+Research Center. A written consent was obtained from all blood donors.
+</sections.1>
+
+<sections.2>
+Disclosures
+o conflicts of interest declared.Disclosures
+No conflicts of interest declared.
+</sections.2>
+
+</text>

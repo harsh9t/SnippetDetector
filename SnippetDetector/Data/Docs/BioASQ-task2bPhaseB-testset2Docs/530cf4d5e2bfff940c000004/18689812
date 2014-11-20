@@ -1,0 +1,11 @@
+<title>
+Comparison of vocabularies, representations and ranking algorithms for gene prioritization by text mining.
+</title>
+
+<text>
+
+<abstract>
+MOTIVATION: Computational gene prioritization methods are useful to help identify susceptibility genes potentially being involved in genetic disease. Recently, text mining techniques have been applied to extract prior knowledge from text-based genomic information sources and this knowledge can be used to improve the prioritization process. However, the effect of various vocabularies, representations and ranking algorithms on text mining for gene prioritization is still an issue that requires systematic and comparative studies. Therefore, a benchmark study about the vocabularies, representations and ranking algorithms in gene prioritization by text mining is discussed in this article. RESULTS: We investigated 5 different domain vocabularies, 2 text representation schemes and 27 linear ranking algorithms for disease gene prioritization by text mining. We indexed 288 177 MEDLINE titles and abstracts with the TXTGate text pro.ling system and adapted the benchmark dataset of the Endeavour gene prioritization system that consists of 618 disease-causing genes. Textual gene pro.les were created and their performance for prioritization were evaluated and discussed in a comparative manner. The results show that inverse document frequency-based representation of gene term vectors performs better than the term-frequency inverse document-frequency representation. The eVOC and MESH domain vocabularies perform better than Gene Ontology, Online Mendelian Inheritance in Man's and London Dysmorphology Database. The ranking algorithms based on 1-SVM, Standard Correlation and Ward linkage method provide the best performance. AVAILABILITY: The MATLAB code of the algorithm and benchmark datasets are available by request. SUPPLEMENTARY INFORMATION: Supplementary data are available at Bioinformatics online.
+</abstract>
+
+</text>

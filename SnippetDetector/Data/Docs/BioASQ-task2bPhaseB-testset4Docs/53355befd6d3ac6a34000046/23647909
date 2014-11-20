@@ -1,0 +1,11 @@
+<title>
+Computational identification of a new binding site in influenza virus hemagglutinin for membrane fusion inhibitors.
+</title>
+
+<text>
+
+<abstract>
+The influenza virus hemagglutinin is a potential drug target for antivirus treatment. A variety of membrane fusion inhibitors targeting hemagglutinin have been discovered, but the binding sites and modes, important for understanding membrane fusion and rational drug design, have not yet been elucidated. In this article, we investigated the possible hemagglutinin binding sites for the current membrane fusion inhibitors. Four possible binding pockets (Pocket A, B, C, and D) at the stalk region of hemagglutinin were detected and defined using the CAVITY program. Most of the current membrane fusion inhibitors were reported to bind to Pocket C by amino acid mutation experiments and molecular modeling simulation. However, our binding site prediction suggested that Pocket A is the best ligand binding site other than Pocket C. Using a specific computational protocol combining molecular docking, three-dimensional QSAR, and receptor mimicking, we further found that Pocket A is the putative binding site for a series of membrane fusion inhibitors (1-phenyl-cycloalkane carbamides). This is further proven by the antiviral spectrum of the inhibitors. This protocol for the identification of ligand binding sites in influenza hemagglutinin is also applicable for the analysis of other protein targets with no explicit binding information.
+</abstract>
+
+</text>

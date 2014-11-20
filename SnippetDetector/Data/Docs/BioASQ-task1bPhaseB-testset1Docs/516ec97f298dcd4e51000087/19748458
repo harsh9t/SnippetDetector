@@ -1,0 +1,11 @@
+<title>
+SuperTRI: A new approach based on branch support analyses of multiple independent data sets for assessing reliability of phylogenetic inferences.
+</title>
+
+<text>
+
+<abstract>
+Supermatrix and supertree are two methods for constructing a phylogenetic tree by using multiple data sets. However, these methods are not a panacea, as conflicting signals between data sets can lead to misinterpret the evolutionary history of taxa. In particular, the supermatrix approach is expected to be misleading if the species-tree signal is not dominant after the combination of the data sets. Moreover, most current supertree methods suffer from two limitations: (i) they ignore or misinterpret secondary (non-dominant) phylogenetic signals of the different data sets; and (ii) the logical basis of node robustness measures is unclear. To overcome these limitations, we propose a new approach, called SuperTRI, which is based on the branch support analyses of the independent data sets, and where the reliability of the nodes is assessed using three measures: the supertree Bootstrap percentage and two other values calculated from the separate analyses: the mean branch support (mean Bootstrap percentage or mean posterior probability) and the reproducibility index. The SuperTRI approach is tested on a data matrix including seven genes for 82 taxa of the family Bovidae (Mammalia, Ruminantia), and the results are compared to those found with the supermatrix approach. The phylogenetic analyses of the supermatrix and independent data sets were done using four methods of tree reconstruction: Bayesian inference, maximum likelihood, and unweighted and weighted maximum parsimony. The results indicate, firstly, that the SuperTRI approach shows less sensitivity to the four phylogenetic methods, secondly, that it is more accurate to interpret the relationships among taxa, and thirdly, that interesting conclusions on introgression and radiation can be drawn from the comparisons between SuperTRI and supermatrix analyses.
+</abstract>
+
+</text>

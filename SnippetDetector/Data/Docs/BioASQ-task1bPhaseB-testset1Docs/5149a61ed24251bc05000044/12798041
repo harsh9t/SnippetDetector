@@ -1,0 +1,11 @@
+<title>
+A HMM-based method to predict the transmembrane regions of beta-barrel membrane proteins.
+</title>
+
+<text>
+
+<abstract>
+A novel method is developed to model and predict the transmembrane regions of beta-barrel membrane proteins. It is based on a Hidden Markov model (HMM) with architecture obeying those proteins' construction principles. The HMM is trained and tested on a non-redundant set of 11 beta-barrel membrane proteins known to date at atomic resolution with a jack-knife procedure. As a result, the method correctly locates 97% of 172 transmembrane beta-strands. Out of the 11 proteins, the barrel size for ten proteins and the overall topology for seven proteins are correctly predicted. Additionally, it successfully assigns the entire topology for two new beta-barrel membrane proteins that have no significant sequence homology to the 11 proteins. Predicted topology for two candidates for beta-barrel structure of the outer mitochondrial membrane is also presented in the paper.
+</abstract>
+
+</text>

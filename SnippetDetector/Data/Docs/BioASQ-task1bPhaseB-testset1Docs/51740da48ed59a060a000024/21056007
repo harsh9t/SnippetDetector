@@ -1,0 +1,11 @@
+<title>
+Classification of splice-junction sequences via weighted position specific scoring approach.
+</title>
+
+<text>
+
+<abstract>
+The prediction of the complete structure of genes is one of the very important tasks of bioinformatics, especially in eukaryotes. A crucial part in the gene structure prediction is to determine the splice sites in the coding region. Identification of splice sites depends on the precise recognition of the boundaries between exons and introns of a given DNA sequence. This problem can be formulated as a classification of sequence elements into 'exon-intron' (EI), 'intron-exon' (IE) or 'None' (N) boundary classes. In this study we propose a new Weighted Position Specific Scoring Method (WPSSM) to recognize splice sites which uses a position-specific scoring matrix constructed by nucleotide base frequencies. A genetic algorithm is used in order to tune the weight and threshold parameters of the positions on. This method consists of two phases: learning phase and identification phase. The proposed WPSS method poses efficient results compared with the performance of many methods proposed in the literature. Computational experiments are performed on the DNA sequence datasets from 'UCI Repository of machine learning databases'.
+</abstract>
+
+</text>

@@ -1,0 +1,11 @@
+<title>
+An ensemble approach to microarray data-based gene prioritization after missing value imputation.
+</title>
+
+<text>
+
+<abstract>
+MOTIVATION: Microarrays have been widely used to discover novel disease related genes. Some types of microarray, such as cDNA arrays, usually contain a considerable portion of missing values. When missing value imputation and gene prioritization are sequentially conducted, it is necessary to consider the distribution space of prioritization scores due to the existence of missing values. We propose an ensemble approach to address this issue. A bootstrap procedure enables us to generate a resample multivariate distribution of the prioritization scores and then to obtain the expected prioritization scores. RESULTS: We used a published microarray two-sample data set to illustrate our approach. We focused on the following issues after missing value imputation: (i) concordance of gene prioritization and (ii) control of true and false positives. We compared our approach with the traditional non-ensemble approach to missing value imputation. We also evaluated the performance of non-imputation approach when the theoretical test distribution was available. The results showed that the ensemble imputation approach provided clearly improved performances in the concordance of gene prioritization and the control of true/false positives, especially when sample sizes were about 5-10 per group and missing rates were about 10-20%, which was a common situation for cDNA microarray studies. AVAILABILITY: The Matlab codes are freely available at http://home.gwu.edu/~ylai/research/Missing.
+</abstract>
+
+</text>

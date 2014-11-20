@@ -1,0 +1,11 @@
+<title>
+Genotator: a workbench for sequence annotation.
+</title>
+
+<text>
+
+<abstract>
+Sequencing centers such as the Human Genome Center at LBNL are producing an ever-increasing flood of genetic data. Annotation can greatly enhance the biological value of these sequences. Useful annotations include possible gene locations, homologies to known genes, and gene signal such as promoters and splice sites. Genotator is a workbench for automated sequence annotation and annotation browsing. The back end runs a series of sequence analysis tools on a DNA sequence, handling the various input and output formats required by the tools. Genotator currently runs five different gene-finding programs, three homology searches, and searches for promoters, splice sites, and ORFs. The results of the analyses run by Genotator can be viewed with the interactive graphical browser. The browser displays color-coded sequence annotations on a canvas that can be scrolled and zoomed, allowing the annotated sequence to be explored at multiple levels of detail. The user can view the actual DNA sequence in a separate window; when a region is selected in the map display, it is highlighted automatically in the sequence display, and vice versa. By displaying the output of all of the sequence analyses, Genotator provides an intuitive way to identify the significant regions (for example, probable exons) in a sequence. Users can interactively add personal annotations to label regions of interest. Additional capabilities of Genotator include primer design and pattern searching.
+</abstract>
+
+</text>

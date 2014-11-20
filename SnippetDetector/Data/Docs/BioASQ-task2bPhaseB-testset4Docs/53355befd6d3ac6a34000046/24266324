@@ -1,0 +1,11 @@
+<title>
+CSBB-ConeExclusion, adapting structure based solution virtual screening to libraries on solid support.
+</title>
+
+<text>
+
+<abstract>
+Combinatorial chemical libraries produced on solid support offer fast and cost-effective access to a large number of unique compounds. If such libraries are screened directly on-bead, the speed at which chemical space can be explored by chemists is much greater than that addressable using solution based synthesis and screening methods. Solution based screening has a large supporting body of software such as structure-based virtual screening tools which enable the prediction of protein-ligand complexes. Use of these techniques to predict the protein bound complexes of compounds synthesized on solid support neglects to take into account the conjugation site on the small molecule ligand. This may invalidate predicted binding modes, the linker may be clashing with protein atoms. We present CSBB-ConeExclusion, a methodology and computer program which provides a measure of the applicability of solution dockings to solid support. Output is given in the form of statistics for each docking pose, a unique 2D visualization method which can be used to determine applicability at a glance, and automatically generated PyMol scripts allowing visualization of protein atom incursion into a defined exclusion volume. CSBB-ConeExclusion is then exemplarically used to determine the optimum attachment point for a purine library targeting cyclin-dependent kinase 2 CDK2.
+</abstract>
+
+</text>

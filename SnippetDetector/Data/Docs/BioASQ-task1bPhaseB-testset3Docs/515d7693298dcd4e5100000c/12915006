@@ -1,0 +1,11 @@
+<title>
+Improved immunomatrix methods to detect protein:protein interactions.
+</title>
+
+<text>
+
+<abstract>
+Immunoprecipitation (IP) and coimmunoprecipitation (co-IP) are key techniques for studying protein-protein interactions. These methods utilize immobilized Protein A or Protein G to isolate antibody-bound target antigens. The main disadvantage of traditional IP and co-IP is that the conditions used to elute the precipitated antigen also release the antibody thus contaminating the antigen and destroying the antibody support. To overcome these problems, we describe two methods to generate a reusable antibody support by cross-linking the antibody to immobilized Protein A or Protein G, or by coupling it directly to the resin (see Scheme 1). Antibody cross-linking can be done in 1 h while antibody coupling requires 4 h. IP or co-IP is accomplished by incubating the antibody resin with the protein sample. Washes and elutions are carried out in a spin column to reduce resin loss and decrease assay time. Target proteins are eluted with 0.1 M glycine (pH 2.8) and the resin-bound antibody is re-equilibrated in phosphate-buffered saline (PBS) for reuse. Our studies have demonstrated that the immobilization efficiency for the antibody coupling method was similar for several species of antibody. Furthermore, we illustrate that using both methods of antibody immobilization yield IP and co-IP results similar to traditional protocols but eliminate the antibody heavy and light chain contamination.
+</abstract>
+
+</text>

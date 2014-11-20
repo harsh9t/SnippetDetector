@@ -1,0 +1,11 @@
+<title>
+NWE: Node-weighted expansion for protein complex prediction using random walk distances.
+</title>
+
+<text>
+
+<abstract>
+BACKGROUND: Protein complexes are important entities to organize various biological processes in the cell, like signal transduction, gene expression, and molecular transmission. In most cases, proteins perform their intrinsic tasks in association with their specific interacting partners, forming protein complexes. Therefore, an enriched catalog of protein complexes in a cell could accelerate further research to elucidate the mechanisms underlying many biological processes. However, known complexes are still limited. Thus, it is a challenging problem to computationally predict protein complexes from protein-protein interaction networks, and other genome-wide data sets. METHODS: Macropol et al. proposed a protein complex prediction algorithm, called RRW, which repeatedly expands a current cluster of proteins according to the stationary vector of a random walk with restarts with the cluster whose proteins are equally weighted. In the cluster expansion, all the proteins within the cluster have equal influences on determination of newly added protein to the cluster. In this paper, we extend the RRW algorithm by introducing a random walk with restarts with a cluster of proteins, each of which is weighted by the sum of the strengths of supporting evidence for the direct physical interactions involving the protein. The resulting algorithm is called NWE (Node-Weighted Expansion of clusters of proteins). Those interaction data are obtained from the WI-PHI database. RESULTS: We have validated the biological significance of the results using curated complexes in the CYC2008 database, and compared our method to RRW and MCL (Markov Clustering), a popular clustering-based method, and found that our algorithm outperforms the other algorithms. CONCLUSIONS: It turned out that it is an effective approach in protein complex prediction to expand a cluster of proteins, each of which is weighted by the sum of the strengths of supporting evidence for the direct physical interactions involving the protein.
+</abstract>
+
+</text>

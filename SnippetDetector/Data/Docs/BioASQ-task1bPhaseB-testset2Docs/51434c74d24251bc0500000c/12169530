@@ -1,0 +1,11 @@
+<title>
+A sequence-profile-based HMM for predicting and discriminating beta barrel membrane proteins.
+</title>
+
+<text>
+
+<abstract>
+MOTIVATION: Membrane proteins are an abundant and functionally relevant subset of proteins that putatively include from about 15 up to 30% of the proteome of organisms fully sequenced. These estimates are mainly computed on the basis of sequence comparison and membrane protein prediction. It is therefore urgent to develop methods capable of selecting membrane proteins especially in the case of outer membrane proteins, barely taken into consideration when proteome wide analysis is performed. This will also help protein annotation when no homologous sequence is found in the database. Outer membrane proteins solved so far at atomic resolution interact with the external membrane of bacteria with a characteristic beta barrel structure comprising different even numbers of beta strands (beta barrel membrane proteins). In this they differ from the membrane proteins of the cytoplasmic membrane endowed with alpha helix bundles (all alpha membrane proteins) and need specialised predictors. RESULTS: We develop a HMM model, which can predict the topology of beta barrel membrane proteins using, as input, evolutionary information. The model is cyclic with 6 types of states: two for the beta strand transmembrane core, one for the beta strand cap on either side of the membrane, one for the inner loop, one for the outer loop and one for the globular domain state in the middle of each loop. The development of a specific input for HMM based on multiple sequence alignment is novel. The accuracy per residue of the model is 83% when a jack knife procedure is adopted. With a model optimisation method using a dynamic programming algorithm seven topological models out of the twelve proteins included in the testing set are also correctly predicted. When used as a discriminator, the model is rather selective. At a fixed probability value, it retains 84% of a non-redundant set comprising 145 sequences of well-annotated outer membrane proteins. Concomitantly, it correctly rejects 90% of a set of globular proteins including about 1200 chains with low sequence identity (<30%) and 90% of a set of all alpha membrane proteins, including 188 chains.
+</abstract>
+
+</text>

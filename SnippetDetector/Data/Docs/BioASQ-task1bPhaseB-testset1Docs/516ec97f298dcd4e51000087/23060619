@@ -1,0 +1,11 @@
+<title>
+TIBA: a tool for phylogeny inference from rearrangement data with bootstrap analysis.
+</title>
+
+<text>
+
+<abstract>
+TIBA is a tool to reconstruct phylogenetic trees from rearrangement data that consist of ordered lists of synteny blocks (or genes), where each synteny block is shared with all of its homologues in the input genomes. The evolution of these synteny blocks, through rearrangement operations, is modelled by the uniform Double-Cut-and-Join model. Using a true distance estimate under this model and simple distance-based methods, TIBA reconstructs a phylogeny of the input genomes. Unlike any previous tool for inferring phylogenies from rearrangement data, TIBA uses novel methods of robustness estimation to provide support values for the edges in the inferred tree.
+</abstract>
+
+</text>

@@ -1,0 +1,11 @@
+<title>
+GalaxyDock: protein-ligand docking with flexible protein side-chains.
+</title>
+
+<text>
+
+<abstract>
+An important issue in developing protein-ligand docking methods is how to incorporate receptor flexibility. Consideration of receptor flexibility using an ensemble of precompiled receptor conformations or by employing an effectively enlarged binding pocket has been reported to be useful. However, direct consideration of receptor flexibility during energy optimization of the docked conformation has been less popular because of the large increase in computational complexity. In this paper, we present a new docking program called GalaxyDock that accounts for the flexibility of preselected receptor side-chains by global optimization of an AutoDock-based energy function trained for flexible side-chain docking. This method was tested on 3 sets of protein-ligand complexes (HIV-PR, LXRβ, cAPK) and a diverse set of 16 proteins that involve side-chain conformational changes upon ligand binding. The cross-docking tests show that the performance of GalaxyDock is higher or comparable to previous flexible docking methods tested on the same sets, increasing the binding conformation prediction accuracy by 10%-60% compared to rigid-receptor docking. This encouraging result suggests that this powerful global energy optimization method may be further extended to incorporate larger magnitudes of receptor flexibility in the future. The program is available at  http://galaxy.seoklab.org/softwares/galaxydock.html .
+</abstract>
+
+</text>

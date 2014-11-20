@@ -1,0 +1,11 @@
+<title>
+Biomedical hypothesis generation by text mining and gene prioritization.
+</title>
+
+<text>
+
+<abstract>
+Text mining methods can facilitate the generation of biomedical hypotheses by suggesting novel associations between diseases and genes. Previously, we developed a rare-term model called RaJoLink (Petric et al, J. Biomed. Inform. 42(2): 219-227, 2009) in which hypotheses are formulated on the basis of terms rarely associated with a target domain. Since many current medical hypotheses are formulated in terms of molecular entities and molecular mechanisms, here we extend the methodology to proteins and genes, using a standardized vocabulary as well as a gene/protein network model. The proposed enhanced RaJoLink rare-term model combines text mining and gene prioritization approaches. Its utility is illustrated by finding known as well as potential gene-disease associations in ovarian cancer using MEDLINE abstracts and the STRING database.
+</abstract>
+
+</text>

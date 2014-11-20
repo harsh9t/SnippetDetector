@@ -1,0 +1,11 @@
+<title>
+Binding affinity of substituted ureido-benzenesulfonamide ligands to the carbonic anhydrase receptor: a theoretical study of enzyme inhibition.
+</title>
+
+<text>
+
+<abstract>
+The binding properties of a series of benzenesulfonamide inhibitors (4-substituted-ureido-benzenesulfonamides, UBSAs) of human carbonic anhydrase II (hCA II) enzyme with active site residues have been studied using a hybrid quantum mechanical/molecular mechanical (QM/MM) model. To account for the important docking interactions between the UBSAs ligand and hCA II enzyme, a molecular docking program AutoDock Vina is used. The molecular docking results obtained by AutoDock Vina revealed that the docked conformer has root mean square deviation value less than 1.50 Å compared to X-ray crystal structures. The inhibitory activity of UBSA ligands against hCA II is found to be in good agreement with the experimental results. The thermodynamic parameters for inhibitor binding show that hydrogen bonding, hydrophilic, and hydrophobic interactions play a major role in explaining the diverse inhibitory range of these derivatives. Additionally, natural bond orbital analysis is performed to characterize the ligand-metal charge transfer stability. The insights gained from this study have great potential to design new hCA-II inhibitor, 4-[3-(1-p-Tolyl-4-trifluoromethyl-1H-pyrazol-3-yl)-ureido]-benzenesulfonamide, which belongs to the family of UBSA inhibitors and shows similar type of inhibitor potency with hCA II. This work also reveals that a QM/MM model and molecular docking method are computationally feasible and accurate for studying substrate-protein inhibition.
+</abstract>
+
+</text>

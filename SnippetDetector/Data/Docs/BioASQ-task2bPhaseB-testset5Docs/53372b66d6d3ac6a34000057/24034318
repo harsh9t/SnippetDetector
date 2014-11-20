@@ -1,0 +1,11 @@
+<title>
+Measurement of in vivo RNA synthesis rates.
+</title>
+
+<text>
+
+<abstract>
+A technique is described to directly measure ongoing transcription from individual genes in permeabilized cells of either the budding yeast Saccharomyces cerevisiae or the fission yeast Schizosaccharomyces pombe. Transcription run-on (TRO) analysis is used to compare the relative rates of synthesis for specific transcripts in cells grown under different environmental conditions or harvested at different stages of development. As the amount of an individual RNA species present at any given time is determined by its net rate of synthesis and degradation, an accurate picture of transcription per se can be obtained only by directly measuring de novo synthesis of RNA (if you are interested in RNA degradation, see Method for measuring mRNA decay rate in Saccharomyces cerevisiae). Most techniques employed to measure changes in the relative levels of individual transcripts present under different conditions, including Northern analysis (see Northern blotting), RT-PCR (see Reverse-transcription PCR (RT-PCR)), nuclease protection assays (see Explanatory Chapter: Nuclease Protection Assays), and genome-wide assays, such as microarray analysis and high throughput RNA sequencing, measure changes in the steady-state level of a transcript, which may or may not reflect the actual changes in transcription of the gene. Recent studies carried out in fission yeast have demonstrated that increases in the steady-state level (accumulation) of many individual mRNAs occur without any significant changes in transcription rates (McPheeters et al., 2009), highlighting the important role of regulated RNA stability in determining gene expression programs (Harigaya et al., 2006).
+</abstract>
+
+</text>

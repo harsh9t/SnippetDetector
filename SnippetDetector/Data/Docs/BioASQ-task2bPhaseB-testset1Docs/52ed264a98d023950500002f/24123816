@@ -1,0 +1,11 @@
+<title>
+SmbFT, a putative ABC transporter complex, confers protection against the lantibiotic Smb in Streptococci.
+</title>
+
+<text>
+
+<abstract>
+Streptococcus mutans, a dental pathogen, secretes different kinds of lantibiotic and nonlantibiotic bacteriocins. For self-protection, a bacteriocin producer strain must possess one or more cognate immunity mechanisms. We report here the identification of one such immunity complex in S. mutans strain GS-5 that confers protection against Smb, a two-component lantibiotic. The immunity complex that we identified is an ABC transporter composed of two proteins: SmbF (the ATPase component) and SmbT (the permease component). Both of the protein-encoding genes are located within the smb locus. We show that GS-5 becomes sensitized to Smb upon deletion of smbT, which makes the ABC transporter nonfunctional. To establish the role SmbFT in providing immunity, we heterologously expressed this ABC transporter complex in four different sensitive streptococcal species and demonstrated that it can confer resistance against Smb. To explore the specificity of SmbFT in conferring resistance, we tested mutacin IV (a nonlantibiotic), nisin (a single peptide lantibiotics), and three peptide antibiotics (bacitracin, polymyxin B, and vancomycin). We found that SmbFT does not recognize these structurally different peptides. We then tested whether SmbFT can confer protection against haloduracin, another two-component lantibiotic that is structurally similar to Smb; SmbFT indeed conferred protection against haloduracin. SmbFT can also confer protection against an uncharacterized but structurally similar lantibiotic produced by Streptococcus gallolyticus. Our data suggest that SmbFT truly displays immunity function and confer protection against Smb and structurally similar lantibiotics.
+</abstract>
+
+</text>

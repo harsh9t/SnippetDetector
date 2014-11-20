@@ -1,0 +1,11 @@
+<title>
+The beta-barrel finder (BBF) program, allowing identification of outer membrane beta-barrel proteins encoded within prokaryotic genomes.
+</title>
+
+<text>
+
+<abstract>
+Many outer membrane proteins (OMPs) in Gram-negative bacteria possess known beta-barrel three-dimensional (3D) structures. These proteins, including channel-forming transmembrane porins, are diverse in sequence but exhibit common structural features. We here report computational analyses of six outer membrane proteins of known 3D structures with respect to (1) secondary structure, (2) hydropathy, and (3) amphipathicity. Using these characteristics, as well as the presence of an N-terminal targeting sequence, a program was developed allowing prediction of integral membrane beta-barrel proteins encoded within any completely sequenced prokaryotic genome. This program, termed the beta-barrel finder (BBF) program, was used to analyze the proteins encoded within the Escherichia coli genome. Out of 4290 sequences examined, 118 (2.8%) were retrieved. Of these, almost all known outer membrane proteins with established beta-barrel structures as well as many probable outer membrane proteins were identified. This program should be useful for predicting the occurrence of outer membrane proteins in bacteria with completely sequenced genomes.
+</abstract>
+
+</text>

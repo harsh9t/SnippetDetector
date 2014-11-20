@@ -1,0 +1,11 @@
+<title>
+A combination of pharmacophore modeling, molecular docking and virtual screening for iNOS inhibitors from Chinese herbs.
+</title>
+
+<text>
+
+<abstract>
+Inducible Nitric Oxide Synthase (iNOS) has been involved in a variety of diseases, and thus it is interesting to discover new iNOS inhibitors. This study was performed to identify natural iNOS inhibitors from traditional Chinese herbs through a combination of pharmacophore modeling, molecular docking and virtual screening. First, the pharmacophore models were generated though six known iNOS inhibitors and validated by a test database. The pharmacophore model_017 showed good performance in external validation and was employed to screen Traditional Chinese Medicine Database (Version 2009), which resulting in a hit list of 498 compounds with matching score (QFIT) above 40. Then, the hits were subjected to molecular docking for further refinement. An empirical scoring function was used to evaluate the affinity of the compounds and the target protein. Parts of compounds with high docking scores have been reported to have the related pharmacological activity from the literatures. The results provide a set of useful guidelines for the rational discovery of natural iNOS inhibitors from Chinese herbs.
+</abstract>
+
+</text>

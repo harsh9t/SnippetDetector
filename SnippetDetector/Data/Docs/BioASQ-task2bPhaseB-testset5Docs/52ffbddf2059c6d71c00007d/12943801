@@ -1,0 +1,11 @@
+<title>
+Sequence-specific targeting of two bases on both DNA strands by the somatic hypermutation mechanism.
+</title>
+
+<text>
+
+<abstract>
+Somatic mutations within antibody genes alter the affinity and selectivity of antibody molecules and largely define the quality of the memory B cell repertoire in many vertebrate species. While some evidence supports the idea that there is a strand bias to the hypermutation mechanism, conflicting data suggest that somatic mutations are initially acquired on both strands of DNA. In this study, we utilized a previously defined trinucleotide target bias of hypermutation to address the question of target strand symmetry during mutation. Mutabilities of specific base positions within all triplets were compared between the two strands of DNA in three divergent databases of hypermutated sequences. Unexpectedly, we consistently observed strong correlations between mutabilities of triplet positions on the two DNA strands only for G and T in the first position of a triplet or for C and A in the last position. The most straightforward interpretation of this result is that the mutation mechanism targets either G and T or C and A on both strands of DNA with a frequency that depends upon the adjacent dinucleotide sequence. In view of published evidence that C is targeted by the hypermutation mechanism, we can extrapolate that C and A are specifically targeted at a frequency that depends upon the preceding 5' dinucleotide.
+</abstract>
+
+</text>

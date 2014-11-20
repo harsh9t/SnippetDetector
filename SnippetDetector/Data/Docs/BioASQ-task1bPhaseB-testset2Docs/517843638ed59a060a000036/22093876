@@ -1,0 +1,11 @@
+<title>
+Distribution of a marker of germline methylation differs between major families of transposon-derived repeats in the human genome.
+</title>
+
+<text>
+
+<abstract>
+A potential relationship between transposon-derived repeats (TDR) and human germline methylation is of biological importance since many genes are flanked by TDR and methylation could affect the expression of nearby genes. Furthermore, DNA methylation has been suggested as a global defense mechanism against genome instability threatened by TDR. We studied the correlation between the density of HapMap methyl-associated SNPs (mSNPs), a marker of germline methylation, and proportion of TDR. After correcting for confounding variables, we found a negative correlation between proportion of Alu repeats and mSNP density for 125-1000 kb windows. Similar results were found for the most active subgroup of repeats. In contrast, a negative correlation between proportion of L1 repeats and mSNP density was found only in the larger 1000 kb windows. Using methylation data on germ cells (sperm) from the Human Epigenome Project, we found a lower proportion of Alu repeats adjacent (3-15 kb) to hypermethylated amplicons. On the contrary, there was a higher proportion of L1 repeats in the 3-5 kb of sequence flanking hypermethylated amplicons but not in the 10-15 kb flanks. Our data indicate a differential response to the major repeat families and that DNA methylation is unlikely to be a uniform global defense system against all TDR. It appears to play a role for the L1 subgroup, with sequences adjacent to L1 repeats methylated in response to their proximity. In contrast, sequences adjacent to Alu repeats appear to be hypomethylated, arguing against a role of methylation in germline defense against those elements.
+</abstract>
+
+</text>

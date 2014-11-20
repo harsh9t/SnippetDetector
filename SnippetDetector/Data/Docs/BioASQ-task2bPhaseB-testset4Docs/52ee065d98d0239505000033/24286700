@@ -1,0 +1,11 @@
+<title>
+Machine learning on brain MRI data for differential diagnosis of Parkinson's disease and Progressive Supranuclear Palsy.
+</title>
+
+<text>
+
+<abstract>
+BACKGROUND: Supervised machine learning has been proposed as a revolutionary approach for identifying sensitive medical image biomarkers (or combination of them) allowing for automatic diagnosis of individual subjects. The aim of this work was to assess the feasibility of a supervised machine learning algorithm for the assisted diagnosis of patients with clinically diagnosed Parkinson's disease (PD) and Progressive Supranuclear Palsy (PSP). METHOD: Morphological T1-weighted Magnetic Resonance Images (MRIs) of PD patients (28), PSP patients (28) and healthy control subjects (28) were used by a supervised machine learning algorithm based on the combination of Principal Components Analysis as feature extraction technique and on Support Vector Machines as classification algorithm. The algorithm was able to obtain voxel-based morphological biomarkers of PD and PSP. RESULTS: The algorithm allowed individual diagnosis of PD versus controls, PSP versus controls and PSP versus PD with an Accuracy, Specificity and Sensitivity>90%. Voxels influencing classification between PD and PSP patients involved midbrain, pons, corpus callosum and thalamus, four critical regions known to be strongly involved in the pathophysiological mechanisms of PSP. COMPARISON WITH EXISTING METHODS: Classification accuracy of individual PSP patients was consistent with previous manual morphological metrics and with other supervised machine learning application to MRI data, whereas accuracy in the detection of individual PD patients was significantly higher with our classification method. CONCLUSIONS: The algorithm provides excellent discrimination of PD patients from PSP patients at an individual level, thus encouraging the application of computer-based diagnosis in clinical practice.
+</abstract>
+
+</text>

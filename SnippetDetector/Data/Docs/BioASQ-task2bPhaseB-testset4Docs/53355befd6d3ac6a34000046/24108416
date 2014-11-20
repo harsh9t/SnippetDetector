@@ -1,0 +1,11 @@
+<title>
+GalaxyDock2: protein-ligand docking using beta-complex and global optimization.
+</title>
+
+<text>
+
+<abstract>
+In this article, an enhanced version of GalaxyDock protein-ligand docking program is introduced. GalaxyDock performs conformational space annealing (CSA) global optimization to find the optimal binding pose of a ligand both in the rigid-receptor mode and the flexible-receptor mode. Binding pose prediction has been improved compared to the earlier version by the efficient generation of high-quality initial conformations for CSA using a predocking method based on a beta-complex derived from the Voronoi diagram of receptor atoms. Binding affinity prediction has also been enhanced by using the optimal combination of energy components, while taking into consideration the energy of the unbound ligand state. The new version has been tested in terms of binding mode prediction, binding affinity prediction, and virtual screening on several benchmark sets, showing improved performance over the previous version and AutoDock, on which the GalaxyDock energy function is based. GalaxyDock2 also performs better than or comparable to other state-of-the-art docking programs. GalaxyDock2 is freely available at http://galaxy.seoklab.org/softwares/galaxydock.html.
+</abstract>
+
+</text>

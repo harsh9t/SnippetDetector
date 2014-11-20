@@ -1,0 +1,11 @@
+<title>
+Highly expressed loci are vulnerable to misleading ChIP localization of multiple unrelated proteins.
+</title>
+
+<text>
+
+<abstract>
+Chromatin immunoprecipitation (ChIP) is the gold-standard technique for localizing nuclear proteins in the genome. We used ChIP, in combination with deep sequencing (Seq), to study the genome-wide distribution of the Silent information regulator (Sir) complex in Saccharomyces cerevisiae. We analyzed ChIP-Seq peaks of the Sir2, Sir3, and Sir4 silencing proteins and discovered 238 unexpected euchromatic loci that exhibited enrichment of all three. Surprisingly, published ChIP-Seq datasets for the Ste12 transcription factor and the centromeric Cse4 protein indicated that these proteins were also enriched in the same euchromatic regions with the high Sir protein levels. The 238 loci, termed "hyper-ChIPable", were in highly expressed regions with strong polymerase II and polymerase III enrichment signals, and the correlation between transcription level and ChIP enrichment was not limited to these 238 loci but extended genome-wide. The apparent enrichment of various proteins at hyper-ChIPable loci was not a consequence of artifacts associated with deep sequencing methods, as confirmed by ChIP-quantitative PCR. The localization of unrelated proteins, including the entire silencing complex, to the most highly transcribed genes was highly suggestive of a technical issue with the immunoprecipitations. ChIP-Seq on chromatin immunoprecipitated with a nuclear-localized GFP reproduced the above enrichment in an expression-dependent manner: induction of the GAL genes resulted in an increased ChIP signal of the GFP protein at these loci, with presumably no biological relevance. Whereas ChIP is a broadly valuable technique, some published conclusions based upon ChIP procedures may merit reevaluation in light of these findings.
+</abstract>
+
+</text>

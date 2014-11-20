@@ -1,0 +1,11 @@
+<title>
+Formalin-fixed paraffin-embedded (FFPE) proteome analysis using gel-free and gel-based proteomics.
+</title>
+
+<text>
+
+<abstract>
+Formalin-fixed paraffin-embedded (FFPE) tissue has recently gained interest as an alternative to fresh/frozen tissue for retrospective protein biomarker discovery. However, during the fixation process, proteins undergo degradation and cross-linking, making conventional protein analysis technologies problematic. In this study, we have compared several extraction and separation methods for the analysis of proteins in FFPE tissues. Incubation of tissue sections at high temperature with a novel extraction buffer (20 mM Tris-HCl, pH 8.8, 2% SDS, 1% beta-octylglucoside, 200 mM DTT, 200 mM glycine, and a mixture of protease inhibitors) resulted in improved protein recovery. Protein separation by 1-DE followed by LC-ESI MS/MS analysis was the most effective approach to identify proteins, based on the number of peptides reliably identified. Interestingly, a number of peptides were identified in regions of the 1DE not corresponding to their native molecular weights. This is an indication of the formation of protein-protein complexes by cross-linking, and of protein fragmentation due to prolonged sample storage. This study will facilitate the development of future proteomic analysis of FFPE tissue and provide a tool for the validation in archival samples of biomarkers of exposure, prognosis and disease.
+</abstract>
+
+</text>

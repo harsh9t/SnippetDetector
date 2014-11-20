@@ -1,0 +1,11 @@
+<title>
+Complex discovery from weighted PPI networks.
+</title>
+
+<text>
+
+<abstract>
+MOTIVATION: Protein complexes are important for understanding principles of cellular organization and function. High-throughput experimental techniques have produced a large amount of protein interactions, which makes it possible to predict protein complexes from protein-protein interaction (PPI) networks. However, protein interaction data produced by high-throughput experiments are often associated with high false positive and false negative rates, which makes it difficult to predict complexes accurately. RESULTS: We use an iterative scoring method to assign weight to protein pairs, and the weight of a protein pair indicates the reliability of the interaction between the two proteins. We develop an algorithm called CMC (clustering-based on maximal cliques) to discover complexes from the weighted PPI network. CMC first generates all the maximal cliques from the PPI networks, and then removes or merges highly overlapped clusters based on their interconnectivity. We studied the performance of CMC and the impact of our iterative scoring method on CMC. Our results show that: (i) the iterative scoring method can improve the performance of CMC considerably; (ii) the iterative scoring method can effectively reduce the impact of random noise on the performance of CMC; (iii) the iterative scoring method can also improve the performance of other protein complex prediction methods and reduce the impact of random noise on their performance; and (iv) CMC is an effective approach to protein complex prediction from protein interaction network. SUPPLEMENTARY INFORMATION: Supplementary data are available at Bioinformatics online.
+</abstract>
+
+</text>

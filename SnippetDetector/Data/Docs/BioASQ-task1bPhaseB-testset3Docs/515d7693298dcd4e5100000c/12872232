@@ -1,0 +1,11 @@
+<title>
+Unmatched masses in peptide mass fingerprints caused by cross-contamination: an updated statistical result.
+</title>
+
+<text>
+
+<abstract>
+Unmatched masses are often observed in the experimental peptide mass spectra when database searching is performed with the ProFound program. Comparison between theoretical and experimental mass spectra of standard proteins shows that contamination accounts for most of the unmatched masses. In this retrospective analysis, the top 100 most probable contaminating masses, as listed in order of their probability, are statistically filtered out from 118 different experimental peptide mass fingerprinting (PMF) maps. Most of the interfering masses originate from trypsin autolysis and human keratins. Subtraction of known contaminants from raw data and using cleaner masses for searching can enhance protein identification by PMF.
+</abstract>
+
+</text>

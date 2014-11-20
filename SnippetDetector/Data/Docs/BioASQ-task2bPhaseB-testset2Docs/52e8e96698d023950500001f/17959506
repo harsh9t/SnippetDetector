@@ -1,0 +1,11 @@
+<title>
+Unraveling the mechanisms of catecholaminergic polymorphic ventricular tachycardia.
+</title>
+
+<text>
+
+<abstract>
+Catecholaminergic polymorphic ventricular tachycardia (CPVT) is a heritable arrhythmia unmasked by exertion or stress, characterized by triggered activity and sudden cardiac death in affected patients. In this study we used a mathematical model to simulate two mutations linked toCPVT, in cardiac calsequestrin (CSQN2) and the ryanodine receptor (RyR2). The aim of the present study is to characterize the mutations responsible for CPVT and establish the mechanistic basis for spontaneous Ca2+ release events that lead to delayed afterdepolarizations (DADs) and triggered arrhythmias. Simulated calcium transients in the mutant CSQN2 model recapitulated the smaller amplitude and time to peak, as well as accelerated recovery from inactivation seen in experiments. When simulated CSQN2-mutant myocytes were paced in current-clamp mode, DADs were observed, suggesting that accelerated recovery of RyR2 induced by impaired luminal Ca2(+) sensing can lead to the triggered activity observed in the mutant CSQN2. Simulations of mutant RyR2 suggest that the hyperactive, "leaky" receptors characteristic of reduced FKBP12.6 function may be centrally involved in triggering DADs. These results provide plausible mechanisms by which defects in RyR2 gating may lead to the cellular triggers of CPVT, with implications for the development of targeted therapies.
+</abstract>
+
+</text>

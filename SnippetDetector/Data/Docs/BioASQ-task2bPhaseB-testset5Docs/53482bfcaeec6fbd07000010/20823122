@@ -1,0 +1,11 @@
+<title>
+Increased power for the analysis of label-free LC-MS/MS proteomics data by combining spectral counts and peptide peak attributes.
+</title>
+
+<text>
+
+<abstract>
+Liquid chromatography-tandem mass spectrometry (LC-MS/MS)-based proteomics provides a wealth of information about proteins present in biological samples. In bottom-up LC-MS/MS-based proteomics, proteins are enzymatically digested into peptides prior to query by LC-MS/MS. Thus, the information directly available from the LC-MS/MS data is at the peptide level. If a protein-level analysis is desired, the peptide-level information must be rolled up into protein-level information. We propose a principal component analysis-based statistical method, ProPCA, for efficiently estimating relative protein abundance from bottom-up label-free LC-MS/MS data that incorporates both spectral count information and LC-MS peptide ion peak attributes, such as peak area, volume, or height. ProPCA may be used effectively with a variety of quantification platforms and is easily implemented. We show that ProPCA outperformed existing quantitative methods for peptide-protein roll-up, including spectral counting methods and other methods for combining LC-MS peptide peak attributes. The performance of ProPCA was validated using a data set derived from the LC-MS/MS analysis of a mixture of protein standards (the UPS2 proteomic dynamic range standard introduced by The Association of Biomolecular Resource Facilities Proteomics Standards Research Group in 2006). Finally, we applied ProPCA to a comparative LC-MS/MS analysis of digested total cell lysates prepared for LC-MS/MS analysis by alternative lysis methods and show that ProPCA identified more differentially abundant proteins than competing methods.
+</abstract>
+
+</text>

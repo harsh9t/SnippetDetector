@@ -1,0 +1,11 @@
+<title>
+Primer-independent RNA sequencing with bacteriophage phi6 RNA polymerase and chain terminators.
+</title>
+
+<text>
+
+<abstract>
+Here we propose a new general method for directly determining RNA sequence based on the use of the RNA-dependent RNA polymerase from bacteriophage phi6 and the chain terminators (RdRP sequencing). The following properties of the polymerase render it appropriate for this application: (1) the phi6 polymerase can replicate a number of single-stranded RNA templates in vitro. (2) In contrast to the primer-dependent DNA polymerases utilized in the sequencing procedure by Sanger et al. (Proc Natl Acad Sci USA, 1977, 74:5463-5467), it initiates nascent strand synthesis without a primer, starting the polymerization on the very 3'-terminus of the template. (3) The polymerase can incorporate chain-terminating nucleotide analogs into the nascent RNA chain to produce a set of base-specific termination products. Consequently, 3' proximal or even complete sequence of many target RNA molecules can be rapidly deduced without prior sequence information. The new technique proved useful for sequencing several synthetic ssRNA templates. Furthermore, using genomic segments of the bluetongue virus we show that RdRP sequencing can also be applied to naturally occurring dsRNA templates. This suggests possible uses of the method in the RNA virus research and diagnostics.
+</abstract>
+
+</text>

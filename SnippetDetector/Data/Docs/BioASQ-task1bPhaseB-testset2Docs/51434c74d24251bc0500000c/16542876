@@ -1,0 +1,11 @@
+<title>
+Computational identification of beta-barrel outer-membrane proteins in Mycobacterium tuberculosis predicted proteomes as putative vaccine candidates.
+</title>
+
+<text>
+
+<abstract>
+Mycobacterial porins and other beta-barrel outer-membrane proteins are represented by the structure of Mycobacterium smegmatis porin MspA. On the basis of existing knowledge of beta-barrel outer-membrane proteins, several state of the art prediction methods, as well as a new in-house program (PROB) were employed for the systematic exploration of Mycobacterium tuberculosis predicted proteomes for potential beta-barrel structures. PROB allowed parameter optimization while functioning with an adaptive algorithm for the detection of outer-membrane beta-barrel proteins in highly divergent proteomes. As a result of the predictions, 114 proteins in total were predicted to be beta-barrel structures; of these, 40 were PE-PPE proteins, 8 Mce proteins, 24 hypothetical, 11 probable membrane proteins, 10 transporters, 4 lipoproteins, and 14 classified as other. The congruence among three of the predictors, PROB, TMB-Hunt, and BOMP, was low with only three proteins (MT0318, MT0356, and MT2423) predicted by the three. Overall, 79 new proteins for which no previous experimental work has been performed are reported. At least 10 of these have high potential of being not only surface-exposed but also served as putative vaccine candidates as determined by in silico predictions of CD4T cell MHC-II restricted epitopes.
+</abstract>
+
+</text>

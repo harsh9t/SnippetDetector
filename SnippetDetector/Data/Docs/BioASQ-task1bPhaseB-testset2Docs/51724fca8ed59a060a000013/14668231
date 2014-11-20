@@ -1,0 +1,11 @@
+<title>
+Assessing sequence comparison methods with the average precision criterion.
+</title>
+
+<text>
+
+<abstract>
+MOTIVATION: Comprehensive performance assessment is important for improving sequence database search methods. Sensitivity, selectivity and speed are three major yet usually conflicting evaluation criteria. The average precision (AP) measure aims to combine the sensitivity and selectivity features of a search algorithm. It can be easily visualized and extended to analyze results from a set of queries. Finally, the time-AP plot can clearly show the overall performance of different search methods. RESULTS: Experiments are performed based on the SCOP database. Popular sequence comparison algorithms, namely Smith-Waterman (SSEARCH), FASTA, BLAST and PSI-BLAST are evaluated. We find that (1) the low-complexity segment filtration procedure in BLAST actually harms its overall search quality; (2) AP scores of different search methods are approximately in proportion of the logarithm of search time; and (3) homologs in protein families with many members tend to be more obscure than those in small families. This measure may be helpful for developing new search algorithms and can guide researchers in selecting most suitable search methods. AVAILABILITY: Test sets and source code of this evaluation tool are available upon request.
+</abstract>
+
+</text>

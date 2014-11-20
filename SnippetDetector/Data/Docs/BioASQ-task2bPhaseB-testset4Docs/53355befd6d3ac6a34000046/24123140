@@ -1,0 +1,11 @@
+<title>
+Performance of ZDOCK in CAPRI rounds 20-26.
+</title>
+
+<text>
+
+<abstract>
+UNLABELLED: We report the performance of our approaches for protein-protein docking and interface analysis in CAPRI rounds 20-26. At the core of our pipeline was the ZDOCK program for rigid-body protein-protein docking. We then reranked the ZDOCK predictions using the ZRANK or IRAD scoring functions, pruned and analyzed energy landscapes using clustering, and analyzed the docking results using our interface prediction approach RCF. When possible, we used biological information from the literature to apply constraints to the search space during or after the ZDOCK runs. For approximately half of the standard docking challenges we made at least one prediction that was acceptable or better. For the scoring challenges we made acceptable or better predictions for all but one target. This indicates that our scoring functions are generally able to select the correct binding mode. © Proteins 2013;. © 2013 Wiley Periodicals, Inc.
+</abstract>
+
+</text>

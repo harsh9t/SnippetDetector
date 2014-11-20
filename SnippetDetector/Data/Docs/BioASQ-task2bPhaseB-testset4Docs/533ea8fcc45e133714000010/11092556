@@ -1,0 +1,11 @@
+<title>
+SBP, SECIS binding protein, binds to the RNA fragment upstream of the Sec UGA codon in glutathione peroxidase mRNA.
+</title>
+
+<text>
+
+<abstract>
+In mammals, most of the selenium contained in the body is present as an unusual amino acid, selenocysteine (Sec), whose codon is UGA. Because the UGA codon is typically recognized as a translation stop signal, it is intriguing how a cell recognizes and distinguishes a UGA Sec codon from a UGA stop codon. For eukaryotic selenoprotein mRNAs, it has been proposed that a conserved stem-loop structure designated the Sec insertion sequence (SECIS) in the 3'-untranslated (3'-UTR) region is required for recognition of UGA as a Sec codon. Some proteins which bind to SECIS (SBP) have been reported. However, it is not clear how the SECIS element in the 3'-UTR can mediate Sec insertion far at the in-frame UGA Sec codons. The idea that there must be a signal near the UGA Sec codon is still considered. Therefore, we searched for a protein which binds to an RNA sequence surrounding the UGA Sec codon on human glutathione peroxidase (GPx) mRNA. We found a protein which strongly bound to the RNA fragment upstream of the UGA Sec codon. However, this protein did not bind to the RNA sequence downstream of the UGA codon. This protein also bound to the SECIS sequence in the 3'-UTR of human GPx, and this binding to SECIS was competed with the RNA fragment upstream of the UGA Sec codon. Comparison of the RNA fragment with the SECIS fragment identified the conserved regions, which appeared in the region upstream of the in-frame UGA Sec codon of Se-protein mRNAs. Thus, this study proposes a novel model to understand the mechanisms of Sec incorporation at the UGA Sec codon, especially the regions upstream of the UGA codon of mRNAs of mammalian selenoproteins. This model explains that the stem-loop structure covering the UGA codon is recognized by SBP and how the UGA Sec codon escapes from attack by eRF of the peptide releasing factor.
+</abstract>
+
+</text>

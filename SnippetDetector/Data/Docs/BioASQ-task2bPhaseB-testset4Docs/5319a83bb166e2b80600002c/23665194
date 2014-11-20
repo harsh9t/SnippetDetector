@@ -1,0 +1,11 @@
+<title>
+The development of next-generation sequencing assays for the mitochondrial genome and 108 nuclear genes associated with mitochondrial disorders.
+</title>
+
+<text>
+
+<abstract>
+Sanger sequencing of multigenic disorders can be technically challenging, time consuming, and prohibitively expensive. High-throughput next-generation sequencing (NGS) can provide a cost-effective method for sequencing targeted genes associated with multigenic disorders. We have developed a NGS clinical targeted gene assay for the mitochondrial genome and for 108 selected nuclear genes associated with mitochondrial disorders. Mitochondrial disorders have a reported incidence of 1 in 5000 live births, encompass a broad range of phenotypes, and are attributed to mutations in the mitochondrial and nuclear genomes. Approximately 20% of mitochondrial disorders result from mutations in mtDNA, with the remaining 80% found in nuclear genes that affect mtDNA levels or mitochondrion protein assembly. In our NGS approach, the 16,569-bp mtDNA is enriched by long-range PCR and the 108 nuclear genes (which represent 1301 amplicons and 680 kb) are enriched by RainDance emulsion PCR. Sequencing is performed on Illumina HiSeq 2000 or MiSeq platforms, and bioinformatics analysis is performed using commercial and in-house developed bioinformatics pipelines. A total of 16 validation and 13 clinical samples were examined. All previously reported variants associated with mitochondrial disorders were found in validation samples, and 5 of the 13 clinical samples were found to have mutations associated with mitochondrial disorders in either the mitochondrial genome or the 108 nuclear genes. All variants were confirmed by Sanger sequencing.
+</abstract>
+
+</text>

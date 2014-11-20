@@ -1,0 +1,11 @@
+<title>
+Predicting Protein-Ligand Binding Sites using Support Vector Machine with Protein Properties.
+</title>
+
+<text>
+
+<abstract>
+UNLABELLED: Identification of protein-ligand binding site is an important task in structure-based drug design and docking algorithms. In the past two decades, different approaches have been developed to predict the binding site, such as the geometric, energetic and sequence-based methods. When scores are calculated from these methods, the algorithm for doing classification becomes very important and can affect the prediction results greatly. In this paper, the Support Vector Machine (SVM) is used to cluster the pockets that are most likely to bind ligands with the attributes of geometric characteristics, interaction potential, offset from protein, conservation score and properties surrounding the pockets. Our approach is compared to LIGSITE, LIGSITEcsc, SURFNET, Fpocket, PocketFinder, Q-SiteFinder, ConCavity, and MetaPocket on the dataset LigASite and 198 drug-target protein complexes. The results show that our approach improves the success rate from 60% to 80% at AUC measure and from 61% to 66% at top-1 prediction. Our method also provides more comprehensive results than the others.
+</abstract>
+
+</text>

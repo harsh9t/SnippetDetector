@@ -1,0 +1,11 @@
+<title>
+Predicting transmembrane beta-barrels and interstrand residue interactions from sequence.
+</title>
+
+<text>
+
+<abstract>
+Transmembrane beta-barrel (TMB) proteins are embedded in the outer membrane of Gram-negative bacteria, mitochondria, and chloroplasts. The cellular location and functional diversity of beta-barrel outer membrane proteins (omps) makes them an important protein class. At the present time, very few nonhomologous TMB structures have been determined by X-ray diffraction because of the experimental difficulty encountered in crystallizing transmembrane proteins. A novel method using pairwise interstrand residue statistical potentials derived from globular (nonouter membrane) proteins is introduced to predict the supersecondary structure of transmembrane beta-barrel proteins. The algorithm transFold employs a generalized hidden Markov model (i.e., multitape S-attribute grammar) to describe potential beta-barrel supersecondary structures and then computes by dynamic programming the minimum free energy beta-barrel structure. Hence, the approach can be viewed as a "wrapping" component that may capture folding processes with an initiation stage followed by progressive interaction of the sequence with the already-formed motifs. This approach differs significantly from others, which use traditional machine learning to solve this problem, because it does not require a training phase on known TMB structures and is the first to explicitly capture and predict long-range interactions. TransFold outperforms previous programs for predicting TMBs on smaller (<or=200 residues) proteins and matches their performance for straightforward recognition of longer proteins. An exception is for multimeric porins where the algorithm does perform well when an important functional motif in loops is initially identified. We verify our simulations of the folding process by comparing them with experimental data on the functional folding of TMBs. A Web server running transFold is available and outputs contact predictions and locations for sequences predicted to form TMBs.
+</abstract>
+
+</text>

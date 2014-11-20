@@ -1,0 +1,11 @@
+<title>
+Construction and bootstrap analysis of DNA fingerprinting-based phylogenetic trees with the freeware program FreeTree: application to trichomonad parasites.
+</title>
+
+<text>
+
+<abstract>
+The Win95/98/NT program FreeTree for computation of distance matrices and construction of phylogenetic or phenetic trees on the basis of random amplified polymorphic DNA (RAPD), RFLP and allozyme data is presented. In contrast to other similar software, the program FreeTree (available at http://www.natur.cuni.cz/~flegr/programs/freetree or http://ijs.sgmjournals.org/content/vol51/issue3/) can also assess the robustness of the tree topology by bootstrap, jackknife or operational taxonomic unit-jackknife analysis. Moreover, the program can be also used for the analysis of data obtained in several independent experiments performed with non-identical subsets of taxa. The function of the program was demonstrated by an analysis of RAPD data from 42 strains of 10 species of trichomonads. On the phylogenetic tree constructed using FreeTree, the high bootstrap values and short terminal branches for the Tritrichomonas foetus/suis 14-strain branch suggested relatively recent and probably clonal radiation of this species. At the same time, the relatively lower bootstrap values and long terminal branches for the Trichomonas vaginalis 20-strain branch suggested more ancient radiation of this species and the possible existence of genetic recombination (sexual reproduction) in this human pathogen. The low bootstrap values and the star-like topology of the whole Trichomonadidae tree confirm that the RAPD method is not suitable for phylogenetic analysis of protozoa at the level of higher taxa. It is proposed that the repeated bootstrap analysis should be an obligatory part of any RAPD study. It makes it possible to assess the reliability of the tree obtained and to adjust the amount of collected data (the number of random primers) to the amount of phylogenetic signals in the RAPD data of the taxon analysed. The FreeTree program makes such analysis possible.
+</abstract>
+
+</text>

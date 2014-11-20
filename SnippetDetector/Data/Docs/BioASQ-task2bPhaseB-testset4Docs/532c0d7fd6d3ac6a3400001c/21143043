@@ -1,0 +1,11 @@
+<title>
+Discovery of potential pancreatic cholesterol esterase inhibitors using pharmacophore modelling, virtual screening, and optimization studies.
+</title>
+
+<text>
+
+<abstract>
+Pancreatic cholesterol esterase (CEase) is a serine hydrolase involved in the hydrolysis of variety of lipids and transport of free cholesterol. In this study, pharmacophore hypotheses based on known inhibitors were generated using common feature pharmacophore generation protocol available in Discovery Studio program. The best pharmacophore model containing two hydrogen bond acceptor and three hydrophobic features was selected and validated. It was further used in screening three diverse chemical databases. Hit compounds were subjected to drug-likeness and molecular docking studies. Four hits, namely SEW00846, NCI0040784, GK03167, and CD10645, were selected based on the GOLD fitness score and interaction with active site amino acids. All hit compounds were further optimized to improve their binding in the active site. The optimized compounds were found to have improved binding at the active site. Strongly binding optimized hits at the active site can act as virtual leads in potent CEase inhibitor designing.
+</abstract>
+
+</text>

@@ -1,0 +1,11 @@
+<title>
+Glioblastoma brain tumours: estimating the time from brain tumour initiation and resolution of a patient survival anomaly after similar treatment protocols.
+</title>
+
+<text>
+
+<abstract>
+A practical mathematical model for glioblastomas (brain tumours), which incorporates the two key parameters of tumour growth, namely the cancer cell diffusion and the cell proliferation rate, has been shown to be clinically useful and predictive. Previous studies explain why multifocal recurrence is inevitable and show how various treatment scenarios have been incorporated in the model. In most tumours, it is not known when the cancer started. Based on patient in vivo parameters, obtained from two brain scans, it is shown how to estimate the time, after initial detection, when the tumour started. This is an input of potential importance in any future controlled clinical study of any connection between cell phone radiation and brain tumour incidence. It is also used to estimate more accurately survival times from detection. Finally, based on patient parameters, the solution of the model equation of the tumour growth helps to explain why certain patients live longer than others after similar treatment protocols specifically surgical resection (removal) and irradiation.
+</abstract>
+
+</text>

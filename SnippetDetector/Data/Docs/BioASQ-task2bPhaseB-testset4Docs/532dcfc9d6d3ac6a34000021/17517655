@@ -1,0 +1,11 @@
+<title>
+Mechanism of histone methylation catalyzed by protein lysine methyltransferase SET7/9 and origin of product specificity.
+</title>
+
+<text>
+
+<abstract>
+Methylation of certain lysine residues in the N-terminal tails of core histone proteins in nucleosome is of fundamental importance in the regulation of chromatin structure and gene expression. Such histone modification is catalyzed by protein lysine methyltransferases (PKMTs). PKMTs contain a conserved SET domain in almost all of the cases and may transfer one to three methyl groups from S-adenosyl-L-methionine (AdoMet) to the epsilon-amino group of the target lysine residue. Here, quantum mechanical/molecular mechanical molecular dynamics and free-energy simulations are performed on human PKMT SET7/9 and its mutants to understand two outstanding questions for the reaction catalyzed by PKMTs: the mechanism for deprotonation of positively charged methyl lysine (lysine) and origin of product specificity. The results of the simulations suggest that Tyr-335 (an absolute conserved residue in PKMTs) may play the role as the general base for the deprotonation after dissociation of AdoHcy (S-adenosyl-L-homocysteine) and before binding of AdoMet. It is shown that conformational changes could bring Y335 to the target methyl lysine (lysine) for proton abstraction. This mechanism provides an explanation why methyl transfers could be catalyzed by PKMTs processively. The free-energy profiles for methyl transfers are reported and analyzed for wild type and certain mutants (Y305F and Y335F) and the active-site interactions that are of importance for the enzyme's function are discussed. The results of the simulations provide important insights into the catalytic process and lead to a better understanding of experimental observations concerning the origin of product specificity for PKMTs.
+</abstract>
+
+</text>

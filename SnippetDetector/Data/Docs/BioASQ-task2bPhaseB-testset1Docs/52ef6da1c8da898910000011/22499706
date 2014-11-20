@@ -1,0 +1,11 @@
+<title>
+Normalization, bias correction, and peak calling for ChIP-seq.
+</title>
+
+<text>
+
+<abstract>
+Next-generation sequencing is rapidly transforming our ability to profile the transcriptional, genetic, and epigenetic states of a cell. In particular, sequencing DNA from the immunoprecipitation of protein-DNA complexes (ChIP-seq) and methylated DNA (MeDIP-seq) can reveal the locations of protein binding sites and epigenetic modifications. These approaches contain numerous biases which may significantly influence the interpretation of the resulting data. Rigorous computational methods for detecting and removing such biases are still lacking. Also, multi-sample normalization still remains an important open problem. This theoretical paper systematically characterizes the biases and properties of ChIP-seq data by comparing 62 separate publicly available datasets, using rigorous statistical models and signal processing techniques. Statistical methods for separating ChIP-seq signal from background noise, as well as correcting enrichment test statistics for sequence-dependent and sonication biases, are presented. Our method effectively separates reads into signal and background components prior to normalization, improving the signal-to-noise ratio. Moreover, most peak callers currently use a generic null model which suffers from low specificity at the sensitivity level requisite for detecting subtle, but true, ChIP enrichment. The proposed method of determining a cell type-specific null model, which accounts for cell type-specific biases, is shown to be capable of achieving a lower false discovery rate at a given significance threshold than current methods.
+</abstract>
+
+</text>

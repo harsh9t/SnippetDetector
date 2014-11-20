@@ -1,0 +1,11 @@
+<title>
+Predicting weakly stable regions, oligomerization state, and protein-protein interfaces in transmembrane domains of outer membrane proteins.
+</title>
+
+<text>
+
+<abstract>
+Although the structures of many beta-barrel membrane proteins are available, our knowledge of the principles that govern their energetics and oligomerization states is incomplete. Here we describe a computational method to study the transmembrane (TM) domains of beta-barrel membrane proteins. Our method is based on a physical interaction model, a simplified conformational space for efficient enumeration, and an empirical potential function from a detailed combinatorial analysis. Using this method, we can identify weakly stable regions in the TM domain, which are found to be important structural determinants for beta-barrel membrane proteins. By calculating the melting temperatures of the TM strands, our method can also assess the stability of beta-barrel membrane proteins. Predictions on membrane enzyme PagP are consistent with recent experimental NMR and mutant studies. We have also discovered that out-clamps, in-plugs, and oligomerization are 3 general mechanisms for stabilizing weakly stable TM regions. In addition, we have found that extended and contiguous weakly stable regions often signal the existence of an oligomer and that strands located in the interfaces of protein-protein interactions are considerably less stable. Based on these observations, we can predict oligomerization states and can identify the interfaces of protein-protein interactions for beta-barrel membrane proteins by using either structure or sequence information. In a set of 25 nonhomologous proteins with known structures, our method successfully predicted whether a protein forms a monomer or an oligomer with 91% accuracy; in addition, our method identified with 82% accuracy the protein-protein interaction interfaces by using sequence information only when correct strands are given.
+</abstract>
+
+</text>

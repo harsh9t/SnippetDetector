@@ -1,0 +1,11 @@
+<title>
+Detecting protein complexes in a PPI network: a gene ontology based multi-objective evolutionary approach.
+</title>
+
+<text>
+
+<abstract>
+Protein complexes play an important role in cellular mechanism. Identification of protein complexes in protein-protein interaction (PPI) networks is the first step in understanding the organization and dynamics of cell function. Several high-throughput experimental techniques produce a large amount of protein interactions, which can be used to predict protein complexes in a PPI network. We have developed an algorithm PROCOMOSS (Protein Complex Detection using Multi-objective Evolutionary Approach based on Semantic Similarity) for partitioning the whole PPI network into clusters, which serve as predicted protein complexes. We consider both graphical properties of a PPI network as well as biological properties based on GO semantic similarity measure as objective functions. Here three different semantic similarity measures are used for grouping functionally similar proteins in the same clusters. We have applied the PROCOMOSS algorithm on two different datasets of Saccharomyces cerevisiae to find and predict protein complexes. A real-life application of the PROCOMOSS is also shown here by applying it in the human PPI network consisting of differentially expressed genes affected by gastric cancer. Gene ontology and pathway based analyses are also performed to investigate the biological importance of the extracted gene modules.
+</abstract>
+
+</text>

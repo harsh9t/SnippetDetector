@@ -1,0 +1,11 @@
+<title>
+YACOP: Enhanced gene prediction obtained by a combination of existing methods.
+</title>
+
+<text>
+
+<abstract>
+The performance of gene-predicting tools varies considerably if evaluated with respect to the parameters sensitivity and specificity or their capability to identify the correct start codon. We were interested to validate tools for gene prediction and to implement a metatool named YACOP, which combines existing tools and has a higher performance. YACOP parses and combines the output of the three gene-predicting systems Criticia, Glimmer and ZCURVE. It outperforms each of the programs tested with its high sensitivity and specificity values combined with a larger number of correctly predicted gene starts. Performance of YACOP and the gene-finding programs was tested by comparing their output with a carefully selected set of annotated genomes. We found that the problem of identifying genes in prokaryotic genomes by means of computational analysis was solved satisfactorily. In contrast, the correct localization of the start codon still appeared to be a problem, as in all cases under test at least 7.8% and up to 32.3% of the positions given in the annotations differed from the locus predicted by any of the programs tested. YACOP can be downloaded from http://www.g2l.bio.uni-goettingen.de.
+</abstract>
+
+</text>

@@ -1,0 +1,11 @@
+<title>
+Novel proteomic approach (PUNCH-P) reveals cell cycle-specific fluctuations in mRNA translation.
+</title>
+
+<text>
+
+<abstract>
+Monitoring protein synthesis is essential to our understanding of gene expression regulation, as protein abundance is thought to be predominantly controlled at the level of translation. Mass-spectrometric and RNA sequencing methods have been recently developed for investigating mRNA translation at a global level, but these still involve technical limitations and are not widely applicable. In this study, we describe a novel system-wide proteomic approach for direct monitoring of translation, termed puromycin-associated nascent chain proteomics (PUNCH-P), which is based on incorporation of biotinylated puromycin into newly synthesized proteins under cell-free conditions followed by streptavidin affinity purification and liquid chromatography-tandem mass spectrometry analysis. Using PUNCH-P, we measured cell cycle-specific fluctuations in synthesis for >5000 proteins in mammalian cells, identified proteins not previously implicated in cell cycle processes, and generated the first translational profile of a whole mouse brain. This simple and economical technique is broadly applicable to any cell type and tissue, enabling the identification and quantification of rapid proteome responses under various biological conditions.
+</abstract>
+
+</text>

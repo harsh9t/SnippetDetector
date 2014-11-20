@@ -1,0 +1,11 @@
+<title>
+Identification and analysis of chromodomain-containing proteins encoded in the mouse transcriptome.
+</title>
+
+<text>
+
+<abstract>
+The chromodomain is 40-50 amino acids in length and is conserved in a wide range of chromatic and regulatory proteins involved in chromatin remodeling. Chromodomain-containing proteins can be classified into families based on their broader characteristics, in particular the presence of other types of domains, and which correlate with different subclasses of the chromodomains themselves. Hidden Markov model (HMM)-generated profiles of different subclasses of chromodomains were used here to identify sequences encoding chromodomain-containing proteins in the mouse transcriptome and genome. A total of 36 different loci encoding proteins containing chromodomains, including 17 novel loci, were identified. Six of these loci (including three apparent pseudogenes, a novel HP1 ortholog, and two novel Msl-3 transcription factor-like proteins) are not present in the human genome, whereas the human genome contains four loci (two CDY orthologs and two apparent CDY pseudogenes) that are not present in mouse. A number of these loci exhibit alternative splicing to produce different isoforms, including 43 novel variants, some of which lack the chromodomain. The likely functions of these proteins are discussed in relation to the known functions of other chromodomain-containing proteins within the same family.
+</abstract>
+
+</text>

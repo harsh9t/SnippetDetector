@@ -1,0 +1,11 @@
+<title>
+MicroRNAs modulate the chemosensitivity of tumor cells.
+</title>
+
+<text>
+
+<abstract>
+MicroRNAs are strongly implicated in such processes as development, carcinogenesis, cell survival, and apoptosis. It is likely, therefore, that they can also modulate sensitivity and resistance to anticancer drugs in substantial ways. To test this hypothesis, we studied the pharmacologic roles of three microRNAs previously implicated in cancer biology (let-7i, mir-16, and mir-21) and also used in silico methods to test pharmacologic microRNA effects more broadly. In the experimental system, we increased the expression of individual microRNAs by transfecting their precursors (which are active) or suppressed the expression by transfection of antisense oligomers. In three NCI-60 human cancer cell lines, a panel of 60 lines used for anticancer drug discovery, we assessed the growth-inhibitory potencies of 14 structurally diverse compounds with known anticancer activities. Changing the cellular levels of let-7i, mir-16, and mir-21 affected the potencies of a number of the anticancer agents by up to 4-fold. The effect was most prominent with mir-21, with 10 of 28 cell-compound pairs showing significant shifts in growth-inhibitory activity. Varying mir-21 levels changed potencies in opposite directions depending on compound class; indicating that different mechanisms determine toxic and protective effects. In silico comparison of drug potencies with microRNA expression profiles across the entire NCI-60 panel revealed that approximately 30 microRNAs, including mir-21, show highly significant correlations with numerous anticancer agents. Ten of those microRNAs have already been implicated in cancer biology. Our results support a substantial role for microRNAs in anticancer drug response, suggesting novel potential approaches to the improvement of chemotherapy.
+</abstract>
+
+</text>

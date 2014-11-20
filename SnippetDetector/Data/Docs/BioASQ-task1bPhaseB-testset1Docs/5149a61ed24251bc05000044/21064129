@@ -1,0 +1,11 @@
+<title>
+Improved identification of outer membrane beta barrel proteins using primary sequence, predicted secondary structure, and evolutionary information.
+</title>
+
+<text>
+
+<abstract>
+Membrane proteins (MPs) are difficult to identify in genomes and to crystallize, making it hard to determine their tertiary structures. MPs could be categorized into α-helical (AMP) and outer membrane proteins which mostly include beta barrel folds (OMBBs). The AMPs are relatively easy to predict from a protein sequence because they usually include several long membrane-spanning hydrophobic α-helices. The OMBBs play important roles in cell biology, they are targeted by multiple drugs, and they are more challenging to identify as they have shorter membrane-spanning regions which lack a folding pattern, that is, as consistent as in the case of the AMPs. Hence, accurate in silico methods for prediction of OMBBs from their primary sequences are needed. We present an accurate sequence-based predictor of OMBBs, called OMBBpred, which utilizes a Support Vector Machine classifier and a custom-designed set of 34 novel numerical descriptors derived from predicted secondary structures, hydrophobicity, and evolutionary information. Our method outperforms modern existing OMBB predictors and achieves accuracy of above 98% when tested on two existing benchmark datasets and 96% on a new large dataset. OMBBpred reduces the error rates of the second best method, depending on the dataset used, by between 13 and 65%, and generates predictions with high specificity of above 96%. Our solution is a useful tool for high-throughput discovery of the OMBBs on a genome scale and can be found at http://biomine.ece. ualberta.ca/OMBBpred/OMBBpred.htm.
+</abstract>
+
+</text>

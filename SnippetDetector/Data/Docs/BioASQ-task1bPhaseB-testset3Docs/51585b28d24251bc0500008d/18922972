@@ -1,0 +1,11 @@
+<title>
+Genome-wide analysis in a murine Dnmt1 knockdown model identifies epigenetically silenced genes in primary human pituitary tumors.
+</title>
+
+<text>
+
+<abstract>
+DNA methylation at promoter CpG islands (CGI) is an epigenetic modification associated with inappropriate gene silencing in multiple tumor types. In the absence of a human pituitary tumor cell line, small interfering RNA-mediated knockdown of the maintenance methyltransferase DNA methyltransferase (cytosine 5)-1 (Dnmt1) was used in the murine pituitary adenoma cell line AtT-20. Sustained knockdown induced reexpression of the fully methylated and normally imprinted gene neuronatin (Nnat) in a time-dependent manner. Combined bisulfite restriction analysis (COBRA) revealed that reexpression of Nnat was associated with partial CGI demethylation, which was also observed at the H19 differentially methylated region. Subsequent genome-wide microarray analysis identified 91 genes that were significantly differentially expressed in Dnmt1 knockdown cells (10% false discovery rate). The analysis showed that genes associated with the induction of apoptosis, signal transduction, and developmental processes were significantly overrepresented in this list (P < 0.05). Following validation by reverse transcription-PCR and detection of inappropriate CGI methylation by COBRA, four genes (ICAM1, NNAT, RUNX1, and S100A10) were analyzed in primary human pituitary tumors, each displaying significantly reduced mRNA levels relative to normal pituitary (P < 0.05). For two of these genes, NNAT and S100A10, decreased expression was associated with increased promoter CGI methylation. Induced expression of Nnat in stable transfected AtT-20 cells inhibited cell proliferation. To our knowledge, this is the first report of array-based "epigenetic unmasking" in combination with Dnmt1 knockdown and reveals the potential of this strategy toward identifying genes silenced by epigenetic mechanisms across species boundaries.
+</abstract>
+
+</text>

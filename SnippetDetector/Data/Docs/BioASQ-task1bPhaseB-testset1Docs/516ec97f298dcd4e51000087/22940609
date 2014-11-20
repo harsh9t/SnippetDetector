@@ -1,0 +1,11 @@
+<title>
+Robust classifying of prokaryotic genomes.
+</title>
+
+<text>
+
+<abstract>
+In this paper, we propose a method to classify prokaryotic genomes using the agglomerative information bottleneck method for unsupervised clustering. Although the method we present here is closely related to a group of methods based on detecting the presence or absence of genes, our method is different because it uses gene lengths as well. We show that this amended method is reliable. For robustness evaluation, we apply bootstrap and jackknife techniques to input data. As a result, we are able to propose an approach to determine the stability level of a cladogram. We demonstrate that the genome tree produced for a selected small group of genomes looks a lot like a phylogenetic tree of this group.
+</abstract>
+
+</text>

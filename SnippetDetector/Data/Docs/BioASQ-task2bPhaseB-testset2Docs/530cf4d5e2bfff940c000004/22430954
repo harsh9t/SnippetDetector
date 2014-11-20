@@ -1,0 +1,11 @@
+<title>
+GPEC: a Cytoscape plug-in for random walk-based gene prioritization and biomedical evidence collection.
+</title>
+
+<text>
+
+<abstract>
+Finding genes associated with a disease is an important issue in the biomedical area and many gene prioritization methods have been proposed for this goal. Among these, network-based approaches are recently proposed and outperformed functional annotation-based ones. Here, we introduce a novel Cytoscape plug-in, GPEC, to help identify putative genes likely to be associated with specific diseases or pathways. In the plug-in, gene prioritization is performed through a random walk with restart algorithm, a state-of-the art network-based method, along with a gene/protein relationship network. The plug-in also allows users efficiently collect biomedical evidence for highly ranked candidate genes. A set of known genes, candidate genes and a gene/protein relationship network can be provided in a flexible way.
+</abstract>
+
+</text>

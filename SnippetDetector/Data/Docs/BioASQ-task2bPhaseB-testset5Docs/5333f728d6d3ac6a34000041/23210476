@@ -1,0 +1,11 @@
+<title>
+Identifying complexes from protein interaction networks according to different types of neighborhood density.
+</title>
+
+<text>
+
+<abstract>
+To facilitate the realization of biological functions, proteins are often organized into complexes. While computational techniques are used to predict these complexes, detailed understanding of their organization remains inadequate. Apart from complexes that reside in very dense regions of a protein interaction network in which most algorithms are able to identify, we observe that many other complexes, while not residing in very dense regions, reside in regions with low neighborhood density. We develop an algorithm for identifying protein complexes by considering these two types of complexes separately. We test our algorithm on a few yeast protein interaction networks, and show that our algorithm is able to identify complexes more accurately than existing algorithms. A software program NDComplex for implementing the algorithm is available at http://faculty.cse.tamu.edu/shsze/ndcomplex.
+</abstract>
+
+</text>

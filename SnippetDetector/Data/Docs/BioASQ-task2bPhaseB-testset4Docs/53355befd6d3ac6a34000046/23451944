@@ -1,0 +1,11 @@
+<title>
+Automated docking with protein flexibility in the design of femtomolar "click chemistry" inhibitors of acetylcholinesterase.
+</title>
+
+<text>
+
+<abstract>
+The use of computer-aided structure-based drug design prior to synthesis has proven to be generally valuable in suggesting improved binding analogues of existing ligands. Here we describe the application of the program AutoDock to the design of a focused library that was used in the "click chemistry in-situ" generation of the most potent noncovalent inhibitor of the native enzyme acetylcholinesterase (AChE) yet developed (K(d) = ~100 fM). AutoDock version 3.0.5 has been widely distributed and successfully used to predict bound conformations of flexible ligands. Here, we also used a version of AutoDock which permits additional conformational flexibility in selected amino acid side chains of the target protein.
+</abstract>
+
+</text>

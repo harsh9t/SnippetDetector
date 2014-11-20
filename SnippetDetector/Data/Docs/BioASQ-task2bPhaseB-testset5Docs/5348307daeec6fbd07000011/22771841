@@ -1,0 +1,11 @@
+<title>
+Comparison and applications of label-free absolute proteome quantification methods on Escherichia coli.
+</title>
+
+<text>
+
+<abstract>
+Three different label-free proteome quantification methods--APEX, emPAI and iBAQ--were evaluated to measure proteome-wide protein concentrations in the cell. All the methods were applied to a sample from Escherichia coli chemostat culture. A Pearson squared correlation of approximately 0.6 among the three quantification methods was demonstrated. Importantly, the sum of quantified proteins by iBAQ and emPAI corresponded with the Lowry total protein quantification, demonstrating applicability of label-free methods for an accurate calculation of protein concentrations at the proteome level. The iBAQ method showed the best correlation between biological replicates, a normal distribution among all protein abundances, and the lowest variation among ribosomal protein abundances, which are expected to have equal amounts. Absolute quantitative proteome data enabled us to evaluate metabolic cost for protein synthesis and apparent catalytic activities of enzymes by integration with flux analysis. All the methods demonstrated similar ATP costs for protein synthesis for different cellular processes and that costs for expressing biomass synthesis related proteins were higher than those for energy generation. Importantly, catalytic activities of energy metabolism enzymes were an order or two higher than those of monomer synthesis. Interestingly, a staircase-like protein expression was demonstrated for most of the transcription units.
+</abstract>
+
+</text>

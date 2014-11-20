@@ -1,0 +1,11 @@
+<title>
+Estimation and optimization of the peak capacity of one-dimensional gradient high performance liquid chromatography using a long monolithic silica capillary column.
+</title>
+
+<text>
+
+<abstract>
+An estimation of the performance and optimization of gradient HPLC conditions using various columns for maximum total peak capacity was studied for "one-shot proteomics" which involves one-dimensional gradient HPLC, connected to an electrospray ionization (ESI)-mass spectrometry (MS), using a monolithic silica-C₁₈ capillary column (350 cm long and 100 μm internal diameter) and an over 40 h shallow gradient elution with one injection. Optimization of such special one-dimensional HPLC has been a tedious task if carried out with a trial-and-error approach due to the extremely long analysis time for each run. Here, the optimized separation conditions including the column type, either particle-packed or monolithic, and the column length with a fixed gradient time are proposed by calculating the peak capacity obtainable using a long column and a long gradient time that may promote the "one-shot proteomics" approach. For instance, conventional conditions at less than 20 MPa can be adapted for a 40 h gradient elution for the proteomics experiment, and a ca. 3 m long monolithic silica-C₁₈ capillary column was identified as the optimized medium indicated by our model with peak capacity theory. To verify this model experimentally, the numbers of identified peptides and proteins were investigated with a nano LC/MS/MS system coupled with a 3m monolithic silica-C₁₈ capillary column by using various elution times. The experimental results showed that the numbers of identified peptides and proteins were maximized and reached a plateau with a gradient time of several tens of hours, which indicated that our model to optimize one dimensional HPLC conditions with a long column could be verified and useful.
+</abstract>
+
+</text>

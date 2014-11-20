@@ -1,0 +1,11 @@
+<title>
+Analysis of CpG dinucleotide frequency in relationship to translational reading frame suggests a class of genes in which mutation of this dinucleotide is asymmetric with respect to DNA strand.
+</title>
+
+<text>
+
+<abstract>
+Results are described from application of a computer program that compares the expected and actual incidence of CpG dinucleotides in relation to the codon reading frame of genes, assuming a conserved amino acid sequence and normalizing for the third-position incidences of C and G in the remainder of the sequence. Sequences encoding certain proteins showed a pronounced bias in favour of CpG in the (3,1) compared with the (2,3) codon position; whereas sequences encoding related proteins expressed to a similar extent or in the same tissue did not. We propose that the cases exhibiting this bias reflect a difference between the two strands of the DNA duplex in their susceptibility to loss of CpG dinucleotides by mutation. Although in vertebrates this loss of CpG dinucleotides from the sense strand might reflect strand-asymmetry in deamination of 5-methylcytosine residues, the fact that a similar CpG codon bias is found in some invertebrates indicates that other factor(s) must also be involved.
+</abstract>
+
+</text>

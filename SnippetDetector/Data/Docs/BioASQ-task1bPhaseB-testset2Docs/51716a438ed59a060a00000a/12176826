@@ -1,0 +1,11 @@
+<title>
+Improving gene recognition accuracy by combining predictions from two gene-finding programs.
+</title>
+
+<text>
+
+<abstract>
+MOTIVATION: Despite constant improvements in prediction accuracy, gene-finding programs are still unable to provide automatic gene discovery with desired correctness. The current programs can identify up to 75% of exons correctly and less than 50% of predicted gene structures correspond to actual genes. New approaches to computational gene-finding are clearly needed. RESULTS: In this paper we have explored the benefits of combining predictions from already existing gene prediction programs. We have introduced three novel methods for combining predictions from programs Genscan and HMMgene. The methods primarily aim to improve exon level accuracy of gene-finding by identifying more probable exon boundaries and by eliminating false positive exon predictions. This approach results in improved accuracy at both the nucleotide and exon level, especially the latter, where the average improvement on the newly assembled dataset is 7.9% compared to the best result obtained by Genscan and HMMgene. When tested on a long genomic multi-gene sequence, our method that maintains reading frame consistency improved nucleotide level specificity by 21.0% and exon level specificity by 32.5% compared to the best result obtained by either of the two programs individually. AVAILABILITY: The scripts implementing our methods are available from http://www.cs.ubc.ca/labs/beta/genefinding/
+</abstract>
+
+</text>

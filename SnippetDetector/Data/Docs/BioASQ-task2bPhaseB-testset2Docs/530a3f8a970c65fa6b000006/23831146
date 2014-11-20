@@ -1,0 +1,11 @@
+<title>
+Which metaproteome? The impact of protein extraction bias on metaproteomic analyses.
+</title>
+
+<text>
+
+<abstract>
+Culture-independent techniques such as LC-MS/MS-based metaproteomic analyses are being increasingly utilized for the study of microbial composition and function in complex environmental samples. Although several studies have documented the many challenges and sources of bias that must be considered in these types of analyses, none have systematically characterized the effect of protein extraction bias on the biological interpretation of true environmental biofilm metaproteomes. In this study, we compared three protein extraction methods commonly used in the analyses of environmental samples [guanidine hydrochloride (GuHCl), B-PER, sequential citrate-phenol (SCP)] using nano-LC-MS/MS and an environmental marine biofilm to determine the unique biases introduced by each method and their effect on the interpretation of the derived metaproteomes. While the protein extraction efficiencies of the three methods ranged from 2.0 to 4.3%, there was little overlap in the sequence (1.9%), function (8.3% of total assigned protein families) and origin of the identified proteins from each extract. Each extraction method enriched for different protein families (GuHCl - photosynthesis, carbohydrate metabolism; B-PER - membrane transport, oxidative stress; SCP - calcium binding, structural) while 23.7-45.4% of the identified proteins lacked SwissProt annotations. Taken together, the results demonstrated that even the most basic interpretations of this complex microbial assemblage (species composition, ratio of prokaryotic to eukaryotic proteins, predominant functions) varied with little overlap based on the protein extraction method employed. These findings demonstrate the heavy influence of protein extraction on biofilm metaproteomics and provide caveats for the interpretation of such data sets when utilizing single protein extraction methods for the description of complex microbial assemblages.
+</abstract>
+
+</text>

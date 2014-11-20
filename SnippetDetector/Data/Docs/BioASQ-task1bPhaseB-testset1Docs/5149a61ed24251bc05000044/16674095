@@ -1,0 +1,11 @@
+<title>
+Predicting the solvent accessibility of transmembrane residues from protein sequence.
+</title>
+
+<text>
+
+<abstract>
+In this study, we propose a novel method to predict the solvent accessible surface areas of transmembrane residues. For both transmembrane alpha-helix and beta-barrel residues, the correlation coefficients between the predicted and observed accessible surface areas are around 0.65. On the basis of predicted accessible surface areas, residues exposed to the lipid environment or buried inside a protein can be identified by using certain cutoff thresholds. We have extensively examined our approach based on different definitions of accessible surface areas and a variety of sets of control parameters. Given that experimentally determining the structures of membrane proteins is very difficult and membrane proteins are actually abundant in nature, our approach is useful for theoretically modeling membrane protein tertiary structures, particularly for modeling the assembly of transmembrane domains. This approach can be used to annotate the membrane proteins in proteomes to provide extra structural and functional information.
+</abstract>
+
+</text>

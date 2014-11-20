@@ -1,0 +1,11 @@
+<title>
+Scoring hidden Markov models to discriminate beta-barrel membrane proteins.
+</title>
+
+<text>
+
+<abstract>
+A new method is presented for identification of beta-barrel membrane proteins. It is based on a hidden Markov model (HMM) with an architecture obeying these proteins' construction principles. Once the HMM is trained, log-odds score relative to a null model is used to discriminate beta-barrel membrane proteins from other proteins. The method achieves only 10% false positive and false negative rates in a six-fold cross-validation procedure. The results compare favorably with existing methods. This method is proposed to be a valuable tool to quickly scan proteomes of entirely sequenced organisms for beta-barrel membrane proteins.
+</abstract>
+
+</text>

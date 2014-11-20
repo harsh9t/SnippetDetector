@@ -1,0 +1,11 @@
+<title>
+New wearable system for the step counting based on the codivilla-spring for daily activity monitoring in stroke rehabilitation.
+</title>
+
+<text>
+
+<abstract>
+Remote therapy, involved in a tele-rehabilitation program, should monitor daily motion activity. Furthermore, patients should have all possible means to improve rehabilitation care at their disposal, such as suitable prostheses and biofeedback tools. During stroke rehabilitation at home, the most used equipment is the AFO prosthesis, which is also called codivilla-spring, as it is used in cases of both bilateral and mono-lateral damage. A new codivilla-spring prosthesis with sensors for telemonitoring / telerehabilitation has been designed and constructed. It provides step counting. It is based on a couple of force sensing resistors affixed in the plantar area of the prosthesis, and a wearable unit with a micro-processor microP PIC 16F877 (Microchip, USA). The data exchange is assured by the Aurel-XTR-434H telemetric system. While ambulating, FSRs detect the pressure of the foot-tip and heel. The PIC on the basis of an algorithm furnishes the step-counting. The proposed sensorized-codivilla-spring (SECOSP) was tested as a step-counter on three subjects after stroke-rehabilitation with mono-lateral damage at Level 2 of the Tinetti test of unbalance. These subjects performed 100 steps with two different instructions (fast, slow). The mean error was lower than 0.6 %. The next phase will be the optimization of SECOSP for long term medical application in a patient's home.
+</abstract>
+
+</text>

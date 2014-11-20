@@ -1,0 +1,11 @@
+<title>
+Development and validation of a machine learning algorithm and hybrid system to predict the need for life-saving interventions in trauma patients.
+</title>
+
+<text>
+
+<abstract>
+Accurate and effective diagnosis of actual injury severity can be problematic in trauma patients. Inherent physiologic compensatory mechanisms may prevent accurate diagnosis and mask true severity in many circumstances. The objective of this project was the development and validation of a multiparameter machine learning algorithm and system capable of predicting the need for life-saving interventions (LSIs) in trauma patients. Statistics based on means, slopes, and maxima of various vital sign measurements corresponding to 79 trauma patient records generated over 110,000 feature sets, which were used to develop, train, and implement the system. Comparisons among several machine learning models proved that a multilayer perceptron would best implement the algorithm in a hybrid system consisting of a machine learning component and basic detection rules. Additionally, 295,994 feature sets from 82 h of trauma patient data showed that the system can obtain 89.8 % accuracy within 5 min of recorded LSIs. Use of machine learning technologies combined with basic detection rules provides a potential approach for accurately assessing the need for LSIs in trauma patients. The performance of this system demonstrates that machine learning technology can be implemented in a real-time fashion and potentially used in a critical care environment.
+</abstract>
+
+</text>

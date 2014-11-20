@@ -1,0 +1,11 @@
+<title>
+GIBA: a clustering tool for detecting protein complexes.
+</title>
+
+<text>
+
+<abstract>
+BACKGROUND: During the last years, high throughput experimental methods have been developed which generate large datasets of protein - protein interactions (PPIs). However, due to the experimental methodologies these datasets contain errors mainly in terms of false positive data sets and reducing therefore the quality of any derived information. Typically these datasets can be modeled as graphs, where vertices represent proteins and edges the pairwise PPIs, making it easy to apply automated clustering methods to detect protein complexes or other biological significant functional groupings. METHODS: In this paper, a clustering tool, called GIBA (named by the first characters of its developers' nicknames), is presented. GIBA implements a two step procedure to a given dataset of protein-protein interaction data. First, a clustering algorithm is applied to the interaction data, which is then followed by a filtering step to generate the final candidate list of predicted complexes. RESULTS: The efficiency of GIBA is demonstrated through the analysis of 6 different yeast protein interaction datasets in comparison to four other available algorithms. We compared the results of the different methods by applying five different performance measurement metrices. Moreover, the parameters of the methods that constitute the filter have been checked on how they affect the final results. CONCLUSION: GIBA is an effective and easy to use tool for the detection of protein complexes out of experimentally measured protein - protein interaction networks. The results show that GIBA has superior prediction accuracy than previously published methods.
+</abstract>
+
+</text>

@@ -1,0 +1,11 @@
+<title>
+A new approach to sequence comparison: normalized sequence alignment.
+</title>
+
+<text>
+
+<abstract>
+The Smith-Waterman algorithm for local sequence alignment is one of the most important techniques in computational molecular biology. This ingenious dynamic programming approach was designed to reveal the highly conserved fragments by discarding poorly conserved initial and terminal segments. However, the existing notion of local similarity has a serious flaw: it does not discard poorly conserved intermediate segments. The Smith-Waterman algorithm finds the local alignment with maximal score but it is unable to find local alignment with maximum degree of similarity (e.g. maximal percent of matches). Moreover, there is still no efficient algorithm that answers the following natural question: do two sequences share a (sufficiently long) fragment with more than 70% of similarity? As a result, the local alignment sometimes produces a mosaic of well-conserved fragments artificially connected by poorly-conserved or even unrelated fragments. This may lead to problems in comparison of long genomic sequences and comparative gene prediction as recently pointed out by Zhang et al. (Bioinformatics, 15, 1012-1019, 1999). In this paper we propose a new sequence comparison algorithm (normalized local alignment ) that reports the regions with maximum degree of similarity. The algorithm is based on fractional programming and its running time is O(n2log n). In practice, normalized local alignment is only 3-5 times slower than the standard Smith-Waterman algorithm.
+</abstract>
+
+</text>

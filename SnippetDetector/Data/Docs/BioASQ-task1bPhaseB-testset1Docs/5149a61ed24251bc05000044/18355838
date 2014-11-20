@@ -1,0 +1,11 @@
+<title>
+The modified Mahalanobis Discriminant for predicting outer membrane proteins by using Chou's pseudo amino acid composition.
+</title>
+
+<text>
+
+<abstract>
+The outer membrane proteins (OMPs) are beta-barrel membrane proteins that performed lots of biology functions. The discriminating OMPs from other non-OMPs is a very important task for understanding some biochemical process. In this study, a method that combines increment of diversity with modified Mahalanobis Discriminant, called IDQD, is presented to predict 208 OMPs, 206 transmembrane helical proteins (TMHPs) and 673 globular proteins (GPs) by using Chou's pseudo amino acid compositions as parameters. The overall accuracy of jackknife cross-validation is 93.2% and 96.1%, respectively, for three datasets (OMPs, TMHPs and GPs) and two datasets (OMPs and non-OMPs). These predicted results suggest that the method can be effectively applied to discriminate OMPs, TMHPs and GPs. And it also indicates that the pseudo amino acid composition can better reflect the core feature of membrane proteins than the classical amino acid composition.
+</abstract>
+
+</text>

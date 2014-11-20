@@ -1,0 +1,11 @@
+<title>
+Multi-LZerD: multiple protein docking for asymmetric complexes.
+</title>
+
+<text>
+
+<abstract>
+The tertiary structures of protein complexes provide a crucial insight about the molecular mechanisms that regulate their functions and assembly. However, solving protein complex structures by experimental methods is often more difficult than single protein structures. Here, we have developed a novel computational multiple protein docking algorithm, Multi-LZerD, that builds models of multimeric complexes by effectively reusing pairwise docking predictions of component proteins. A genetic algorithm is applied to explore the conformational space followed by a structure refinement procedure. Benchmark on eleven hetero-multimeric complexes resulted in near-native conformations for all but one of them (a root mean square deviation smaller than 2.5Å). We also show that our method copes with unbound docking cases well, outperforming the methodology that can be directly compared with our approach. Multi-LZerD was able to predict near-native structures for multimeric complexes of various topologies.
+</abstract>
+
+</text>

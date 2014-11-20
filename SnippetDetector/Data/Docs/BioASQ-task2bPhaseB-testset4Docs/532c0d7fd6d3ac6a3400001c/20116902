@@ -1,0 +1,11 @@
+<title>
+Discovery of new cholesteryl ester transfer protein inhibitors via ligand-based pharmacophore modeling and QSAR analysis followed by synthetic exploration.
+</title>
+
+<text>
+
+<abstract>
+Cholesteryl ester transfer protein (CETP) is involved in trafficking lipoprotein particles and neutral lipids between HDL and LDL and therefore is considered a valid target for treating dyslipidemic conditions and complications. Pharmacophore modeling and quantitative structure-activity relationship (QSAR) analysis were combined to explore the structural requirements for potent CETP inhibitors. Two pharmacophores emerged in the optimal QSAR equation (r(2)=0.800, n=96, F=72.1, r(2)(LOO) =0.775, r(2)(PRESS) against 22 external test inhibitors=0.707) suggesting the existence of at least two distinct binding modes accessible to ligands within CETP binding pocket. The successful pharmacophores were complemented with strict shape constraints in an attempt to optimize their receiver-operating characteristic (ROC) curve profiles. The validity of our modeling approach was experimentally established by the identification of several CETP inhibitory leads retrieved via in silico screening of the National Cancer Institute (NCI) list of compounds and an in house built database of drugs and agrochemicals. Two hits illustrated low micromolar IC(50) values: NSC 40331 (IC(50)=6.5 microM) and NSC 89508 (IC(50)=1.9 microM). Active hits were then used to guide synthetic exploration of a new series of CETP inhibitors.
+</abstract>
+
+</text>

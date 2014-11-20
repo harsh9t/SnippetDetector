@@ -1,0 +1,11 @@
+<title>
+TreeDock: a tool for protein docking based on minimizing van der Waals energies.
+</title>
+
+<text>
+
+<abstract>
+Predicting protein-protein and protein-ligand docking remains one of the challenging topics of structural biology. The main problems are (i) to reliably estimate the binding free energies of docked states, (ii) to enumerate possible docking orientations at a high resolution, and (iii) to consider mobility of the docking surfaces and structural rearrangements upon interaction. Here we present a novel algorithm, TreeDock, that addresses the enumeration problem in a rigid-body docking search. By representing molecules as multidimensional binary search trees and by exploring a sufficient number of docking orientations such that two chosen atoms, one from each molecule, are always in contact, TreeDock is able to explore all clash-free orientations at very fine resolution in a reasonable amount of time. Due to the speed of the program, many contact pairs can be examined to search partial or complete surface areas. The deterministic systematic search of TreeDock is in contrast to most other docking programs that use stochastic searches such as Monte Carlo or simulated annealing methods. At this point, we have used the Lennard-Jones potential as the only scoring function and show that this can predict the correct docked conformation for a number of protein-protein and protein-ligand complexes. The program is most powerful if some information is known about the location of binding faces from NMR chemical-shift perturbation studies, orientation information from residual dipolar coupling, or mutational screening. The approach has the potential to include docking-site mobility by performing molecular dynamics or other randomization methods of the docking site and docking families to families of structures. The performance of the algorithm is demonstrated by docking three complexes of immunoglobulin superfamily domains, CD2 to CD58, the V(alpha) domain of a T-cell receptor to its V(beta) domain, and a T-cell receptor to a pMHC complex as well as a small molecule inhibitor to a phosphatase.
+</abstract>
+
+</text>

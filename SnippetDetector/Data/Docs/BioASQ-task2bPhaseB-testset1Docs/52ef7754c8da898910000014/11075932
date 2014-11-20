@@ -1,0 +1,11 @@
+<title>
+Identification of a substrate for Pkn2, a protein Ser/Thr kinase from Myxococcus xanthus by a novel method for substrate identification.
+</title>
+
+<text>
+
+<abstract>
+Eukaryotic cells contain a large number of protein Ser/ Thr kinases, which play important roles in signal transduction required for cell proliferation, differentiation, and stress response and adaptation. It is also known that some prokaryotes contain a family of protein Ser/Thr kinases. A major challenge in the characterization of these kinases is how to identify their specific substrates. Here we developed such a method using a protein Ser/Thr kinase, Pkn2 from Myxococcus xanthus, a Gram-negative soil bacterium. When Pkn2 is inducibly expressed in E. coli, cells are unable to form colonies on agar plates. This lethal effect of Pkn2 was eliminated in an inactive Pkn2 mutant in which the highly conserved Lys residue was changed to Asn, indicating that phosphorylation of a cellular protein(s) in E. coli resulted in growth arrest. Several clones from an E. coli genomic library were found to suppress the lethal effect when co-expressed with pkn2. Four out of seven multi-copy suppressors were identified to encode HU, (3 for HUalpha and 1 for HUB) a histone-like DNA binding protein. Purified HUalpha was found to be specifically phosphorylated by Pkn2 at Thr-59, and the phosphorylated HUalpha became unable to bind to DNA, suggesting that the phosphorylation of endogenous HU proteins by Pkn2 contributed at least in part to the lethal effect in E. coli. The present method termed the STEK method (Suppressors of Toxic Effects of Kinases) may be widely used for the substrate identification not only for prokaryotic protein Ser/Thr kinases but also for eukaryotic kinases.
+</abstract>
+
+</text>

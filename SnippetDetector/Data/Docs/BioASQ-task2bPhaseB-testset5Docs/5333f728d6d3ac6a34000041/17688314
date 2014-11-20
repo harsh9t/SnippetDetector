@@ -1,0 +1,11 @@
+<title>
+A hidden Markov model for predicting protein interfaces.
+</title>
+
+<text>
+
+<abstract>
+Protein-protein interactions play a defining role in protein function. Identifying the sites of interaction in a protein is a critical problem for understanding its functional mechanisms, as well as for drug design. To predict sites within a protein chain that participate in protein complexes, we have developed a novel method based on the Hidden Markov Model, which combines several biological characteristics of the sequences neighboring a target residue: structural information, accessible surface area, and transition probability among amino acids. We have evaluated the method using 5-fold cross-validation on 139 unique proteins and demonstrated precision of 66% and recall of 61% in identifying interfaces. These results are better than those achieved by other methods used for identification of interfaces.
+</abstract>
+
+</text>

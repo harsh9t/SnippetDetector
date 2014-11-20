@@ -1,0 +1,11 @@
+<title>
+A special-purpose processor for gene sequence analysis.
+</title>
+
+<text>
+
+<abstract>
+Advances in computational biology have occurred primarily in the areas of software and algorithm development; new designs of hardware to support biological computing are extremely scarce. This is due, we believe, to the presence of a non-trivial knowledge gap between molecular biologists and computer designers. The existence of this gap is unfortunate, as it has long been known that for certain problems, special-purpose computers can achieve significant cost/performance gains over general-purpose machines. We describe one such computer here: a custom accelerator for gene sequence analysis. The accelerator implements a version of the Needleman-Wunsch algorithm for nucleotide sequence alignment. Sequence lengths are constrained only by available memory; the product of sequence lengths in the current implementation can be up to 2(22). The machine is implemented as two NuBus boards connected to a Mac IIf/x, using a mixture of TTL and FPGA technology clocked at 10 MHz. The boards are completely functional, and yield a 15-fold performance improvement over an unassisted host.
+</abstract>
+
+</text>

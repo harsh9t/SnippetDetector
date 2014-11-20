@@ -1,0 +1,11 @@
+<title>
+Readthrough of nonsense mutation W822X in the SCN5A gene can effectively restore expression of cardiac Na+ channels.
+</title>
+
+<text>
+
+<abstract>
+AIMS: Nonsense mutations in the SCN5A gene result in truncated, non-functional derivatives of the cardiac Na+ channel and thus cause arrhythmias. Studies of other genes suggest that pathogenic phenotypes of nonsense mutations may be alleviated by enhancing readthrough, which enables ribosomes to ignore premature termination codons and produce full-length proteins. Thus, we studied the functional restoration of nonsense-mutated SCN5A. METHODS AND RESULTS: HEK293 cells were transfected with SCN5A cDNA or its mutant carrying W822X, a nonsense mutation associated with Brugada syndrome and sudden cardiac death. The effects of readthrough-enhancing reagents on Na+ channel expression and function were examined in the transfected cells. W822X robustly reduced Na+ current, decreasing maximal Na+ current to <3% of the wild-type level, and inhibited the expression of full-length Na+ channels. When readthrough was enhanced by either reducing translational fidelity with aminoglycosides or decreasing translation termination efficiency with small-interfering RNA against eukaryotic release factor eRF3a, Na+ current of the mutant was restored to approximately 30% of the wild-type level; western blot and immunochemical staining analyses showed the increased expression of full-length channels. When the wild-type and mutant cDNAs were co-transfected, readthrough-enhancing reagents increased Na+ current from 56% to 74% of the wild-type level. Analysis of Na+ channel kinetics showed that the channels expressed from the mutant cDNA under readthrough-enhancing conditions retained the functions of wild-type channels. CONCLUSION: Readthrough-enhancing reagents can effectively suppress SCN5A nonsense mutations and may restore the expression of full-length Na+ channels with normal functions, which might prevent sudden cardiac death in mutation carriers.
+</abstract>
+
+</text>

@@ -1,0 +1,11 @@
+<title>
+CHIP participates in protein triage decisions by preferentially ubiquitinating Hsp70-bound substrates.
+</title>
+
+<text>
+
+<abstract>
+The E3 ubiquitin ligase CHIP (C-terminus of Hsc70-interacting protein) is believed to be a central player in the cellular triage decision, as it links the molecular chaperones Hsp70/Hsc70 and Hsp90 to the ubiquitin proteasomal degradation pathway. To better understand the decision process, we determined the affinity of CHIP for Hsp70 and Hsp90 using isothermal titration calorimetry. We analyzed the influence of CHIP on the ATPase cycles of both chaperones in the presence of co-chaperones and a substrate, and determined the ubiquitination efficacy of CHIP in the presence of the chaperones. We found that CHIP has a sixfold higher affinity for Hsp90 compared with Hsc70. CHIP had no influence on ADP dissociation or ATP association, but reduced the Hsp70 cochaperone Hdj1-stimulated single-turnover ATPase rates of Hsc70 and Hsp70. CHIP did not influence the ATPase cycle of Hsp90 in the absence of co-chaperones or in the presence of the Hsp90 cochaperones Aha1 or p23. Polyubiquitination of heat-denatured luciferase and the native substrate p53 was much more efficient in the presence of Hsc70 and Hdj1 than in the presence of Hsp90, indicating that CHIP preferentially ubiquitinates Hsp70-bound substrates.
+</abstract>
+
+</text>

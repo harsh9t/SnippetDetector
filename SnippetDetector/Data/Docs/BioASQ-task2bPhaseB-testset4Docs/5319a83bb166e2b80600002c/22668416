@@ -1,0 +1,11 @@
+<title>
+Creation and application of immortalized bait libraries for targeted enrichment and next-generation sequencing.
+</title>
+
+<text>
+
+<abstract>
+Since the introduction of next-generation sequencing, several techniques have been developed to selectively enrich and sequence specific parts of the genome at high coverage. These techniques include enzymatic methods employing molecular inversion probes, PCR based approaches, hybrid capture, and in-solution capture. In-solution capture employs RNA probes transcribed from a pool of DNA template oligos designed to match regions of interest to specifically bind and enrich genomic DNA fragments. This method is highly efficient, especially if genomic target regions are large in size or quantity. Diverse in-solution capture kits are available, but are costly when large sample numbers need to be analyzed. Here we present a cost-effective strategy for the design of custom DNA libraries, their transcription into RNA libraries, and application for in-solution capture. We show the efficacy by comparing the method to a commercial kit and further demonstrate that emulsion PCR can be used for bias free amplification and virtual immortalization of DNA template libraries.
+</abstract>
+
+</text>

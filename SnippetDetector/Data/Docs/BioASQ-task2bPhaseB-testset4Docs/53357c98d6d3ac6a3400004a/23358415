@@ -1,0 +1,11 @@
+<title>
+γH2A-binding protein Brc1 affects centromere function in fission yeast.
+</title>
+
+<text>
+
+<abstract>
+The coordinated replication and transcription of pericentromeric repeats enable RNA interference (RNAi)-mediated transmission of pericentromeric heterochromatin in fission yeast, which is essential for the proper function of centromeres. Rad3/ATR kinase phosphorylates histone H2A on serine-128/-129 to create γH2A in pericentromeric heterochromatin during S phase, which recruits Brc1 through its breast cancer gene 1 protein (BRCA1) C-terminal (BRCT) domains. Brc1 prevents the collapse of stalled replication forks; however, it is unknown whether this activity influences centromere function. Here, we show that Brc1 localizes in pericentromeric heterochromatin during S phase, where it enhances Clr4/Suv39-mediated H3 lysine-9 dimethylation (H3K9me2) and gene silencing. Loss of Brc1 increases sensitivity to the microtubule-destabilizing drug thiabendazole (TBZ) and increases chromosome missegregation in the presence of TBZ. Brc1 retains significant function even when it cannot bind γH2A. However, elimination of the serine-121 site on histone H2A, a target of Bub1 spindle assembly checkpoint kinase, sensitizes γH2A-deficient and brc1Δ cells to replication stress and microtubule destabilization. Collective results suggest that Brc1-mediated stabilization of stalled replication forks is necessary for fully efficient transmission of pericentromeric heterochromatin, which is required for accurate chromosome segregation during mitosis.
+</abstract>
+
+</text>

@@ -1,0 +1,11 @@
+<title>
+Evolution of circular permutations in multidomain proteins.
+</title>
+
+<text>
+
+<abstract>
+Modular rearrangements play an important role in protein evolution. Functional modules, often tantamount to structural domains or smaller fragments, are in many cases well conserved but reoccur in a different order and across many protein families. The underlying genetic mechanisms are gene duplication, fusion, and loss of sequence fragments. As a consequence, the sequential order of domains can be inverted, leading to what is known as circularly permutated proteins. Using a recently developed algorithm, we have identified a large number of such rearrangements and analyzed their evolutionary history. We searched for examples which have arisen by one of the three postulated mechanisms: independent fusion/fission, "duplication/deletion," and plasmid-mediated "cut and paste." We conclude that all three mechanisms can be observed, with the independent fusion/fission being the most frequent. This can be partly attributed to highly mobile domains. Duplication/deletion has been found in modular proteins such as peptide synthases.
+</abstract>
+
+</text>

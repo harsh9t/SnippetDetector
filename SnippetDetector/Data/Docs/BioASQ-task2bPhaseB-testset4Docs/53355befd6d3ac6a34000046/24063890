@@ -1,0 +1,11 @@
+<title>
+Structural insights into the interaction of human S100B and basic fibroblast growth factor (FGF2): Effects on FGFR1 receptor signaling.
+</title>
+
+<text>
+
+<abstract>
+S100B is a calcium sensing protein belonging to the S100 protein family with intracellular and extracellular roles. It is one of the EF hand homodimeric proteins, which is known to interact with various protein targets to regulate varied biological functions. Extracellular S100B has been recently reported to interact with FGF2 in a RAGE-independent manner. However, the recognition mechanism of S100B-FGF2 interaction at the molecular level remains unclear. In this study, the critical residues on S100B-FGF2 interface were mapped by combined information derived from NMR spectroscopy and site directed mutagenesis experiments. Utilizing NMR titration data, we generated the structural models of S100B-FGF2 complex from the computational docking program, HADDOCK which were further proved stable during 15ns unrestrained molecular dynamics (MD) simulations. Isothermal titration calorimetry studies indicated S100B interaction with FGF2 is an entropically favored process implying dominant role of hydrophobic contacts at the protein-protein interface. Residue level information of S100B interaction with FGF2 was useful to understand the varied target recognition ability of S100B and further explained its role in effecting extracellular signaling diversity. Mechanistic insights into the S100B-FGF2 complex interface and cell-based assay studies involving mutants led us to conclude the novel role of S100B in FGF2 mediated FGFR1 receptor inactivation.
+</abstract>
+
+</text>

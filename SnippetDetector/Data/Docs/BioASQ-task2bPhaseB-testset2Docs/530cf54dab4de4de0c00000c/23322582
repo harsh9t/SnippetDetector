@@ -1,0 +1,11 @@
+<title>
+Quantitative measurements of N-linked glycoproteins in human plasma by SWATH-MS.
+</title>
+
+<text>
+
+<abstract>
+SWATH-MS is a data-independent acquisition method that generates, in a single measurement, a complete recording of the fragment ion spectra of all the analytes in a biological sample for which the precursor ions are within a predetermined m/z versus retention time window. To assess the performance and suitability of SWATH-MS-based protein quantification for clinical use, we compared SWATH-MS and SRM-MS-based quantification of N-linked glycoproteins in human plasma, a commonly used sample for biomarker discovery. Using dilution series of isotopically labeled heavy peptides representing biomarker candidates, the LOQ of SWATH-MS was determined to reach 0.0456 fmol at peptide level by targeted data analysis, which corresponds to a concentration of 5-10 ng protein/mL in plasma, while SRM reached a peptide LOQ of 0.0152 fmol. Moreover, the quantification of endogenous glycoproteins using SWATH-MS showed a high degree of reproducibility, with the mean CV of 14.90%, correlating well with SRM results (R(2) = 0.9784). Overall, SWATH-MS measurements showed a slightly lower sensitivity and a comparable reproducibility to state-of-the-art SRM measurements for targeted quantification of the N-glycosites in human blood. However, a significantly larger number of peptides can be quantified per analysis. We suggest that SWATH-MS analysis combined with N-glycoproteome enrichment in plasma samples is a promising integrative proteomic approach for biomarker discovery and verification.
+</abstract>
+
+</text>

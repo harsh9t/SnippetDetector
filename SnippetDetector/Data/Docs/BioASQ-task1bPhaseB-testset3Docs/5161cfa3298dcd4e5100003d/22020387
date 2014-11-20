@@ -1,0 +1,11 @@
+<title>
+Efficient targeted resequencing of human germline and cancer genomes by oligonucleotide-selective sequencing.
+</title>
+
+<text>
+
+<abstract>
+We describe an approach for targeted genome resequencing, called oligonucleotide-selective sequencing (OS-Seq), in which we modify the immobilized lawn of oligonucleotide primers of a next-generation DNA sequencer to function as both a capture and sequencing substrate. We apply OS-Seq to resequence the exons of either 10 or 344 cancer genes from human DNA samples. In our assessment of capture performance, >87% of the captured sequence originated from the intended target region with sequencing coverage falling within a tenfold range for a majority of all targets. Single nucleotide variants (SNVs) called from OS-Seq data agreed with >95% of variants obtained from whole-genome sequencing of the same individual. We also demonstrate mutation discovery from a colorectal cancer tumor sample matched with normal tissue. Overall, we show the robust performance and utility of OS-Seq for the resequencing analysis of human germline and cancer genomes.
+</abstract>
+
+</text>

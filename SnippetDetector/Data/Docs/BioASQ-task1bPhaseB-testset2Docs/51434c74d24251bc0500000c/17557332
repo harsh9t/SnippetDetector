@@ -1,0 +1,11 @@
+<title>
+A consensus algorithm to screen genomes for novel families of transmembrane beta barrel proteins.
+</title>
+
+<text>
+
+<abstract>
+The ability to search sequence datasets for membrane spanning proteins is an important requirement for genome annotation. However, the development of algorithms to identify novel types of transmembrane beta-barrel (TMB) protein has proven substantially harder than for transmembrane helical proteins, owing to a shorter TM domain in which only alternate residues are hydrophobic. Although recent reports have described important improvements in the development of such algorithms, there is still concern over their ability to confidently screen genomes. Here we describe a new algorithm combining composition and hidden Markov model topology based classifiers (called TMB-Hunt2), which achieves a crossvalidation accuracy of >95%, with 96.7% precision and 94.2% recall. An overview is given of the algorithm design, with a thorough assessment of performance and application to a number of genomes. Of particular note is that TMB/extracellular protein discrimination is significantly more difficult than TMB/cytoplasmic protein discrimination, with the predictor correctly rejecting just 74% of extracellular proteins, in comparison to 98% of cytoplasmic proteins. Focus is given to directions for further improvements in TMB/non-TMB protein discrimination, with a call for the development of standardized tests and assessments of such algorithms. Tools and datasets are made available through a website called TMB-Web (http://www.bioinformatics.leeds.ac.uk/TMB-Web/TMB-Hunt2).
+</abstract>
+
+</text>

@@ -1,0 +1,11 @@
+<title>
+Using indirect protein-protein interactions for protein complex prediction.
+</title>
+
+<text>
+
+<abstract>
+Protein complexes are fundamental for understanding principles of cellular organizations. As the sizes of protein-protein interaction (PPI) networks are increasing, accurate and fast protein complex prediction from these PPI networks can serve as a guide for biological experiments to discover novel protein complexes. However, it is not easy to predict protein complexes from PPI networks, especially in situations where the PPI network is noisy and still incomplete. Here, we study the use of indirect interactions between level-2 neighbors (level-2 interactions) for protein complex prediction. We know from previous work that proteins which do not interact but share interaction partners (level-2 neighbors) often share biological functions. We have proposed a method in which all direct and indirect interactions are first weighted using topological weight (FS-Weight), which estimates the strength of functional association. Interactions with low weight are removed from the network, while level-2 interactions with high weight are introduced into the interaction network. Existing clustering algorithms can then be applied to this modified network. We have also proposed a novel algorithm that searches for cliques in the modified network, and merge cliques to form clusters using a "partial clique merging" method. Experiments show that (1) the use of indirect interactions and topological weight to augment protein-protein interactions can be used to improve the precision of clusters predicted by various existing clustering algorithms; and (2) our complex-finding algorithm performs very well on interaction networks modified in this way. Since no other information except the original PPI network is used, our approach would be very useful for protein complex prediction, especially for prediction of novel protein complexes.
+</abstract>
+
+</text>

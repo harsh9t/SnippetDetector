@@ -1,0 +1,11 @@
+<title>
+dbRIP: a highly integrated database of retrotransposon insertion polymorphisms in humans.
+</title>
+
+<text>
+
+<abstract>
+Retrotransposons constitute over 40% of the human genome and play important roles in the evolution of the genome. Since certain types of retrotransposons, particularly members of the Alu, L1, and SVA families, are still active, their recent and ongoing propagation generates a unique and important class of human genomic diversity/polymorphism (for the presence and absence of an insertion) with some elements known to cause genetic diseases. So far, over 2,300, 500, and 80 Alu, L1, and SVA insertions, respectively, have been reported to be polymorphic and many more are yet to be discovered. We present here the Database of Retrotransposon Insertion Polymorphisms (dbRIP; http://falcon.roswellpark.org:9090), a highly integrated and interactive database of human retrotransposon insertion polymorphisms (RIPs). dbRIP currently contains a nonredundant list of 1,625, 407, and 63 polymorphic Alu, L1, and SVA elements, respectively, or a total of 2,095 RIPs. In dbRIP, we deploy the utilities and annotated data of the genome browser developed at the University of California at Santa Cruz (UCSC) for user-friendly queries and integrative browsing of RIPs along with all other genome annotation information. Users can query the database by a variety of means and have access to the detailed information related to a RIP, including detailed insertion sequences and genotype data. dbRIP represents the first database providing comprehensive, integrative, and interactive compilation of RIP data, and it will be a useful resource for researchers working in the area of human genetics.
+</abstract>
+
+</text>

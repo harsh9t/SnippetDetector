@@ -1,0 +1,11 @@
+<title>
+Molecular modeling and molecular dynamics studies of hydralazine with human DNA methyltransferase 1.
+</title>
+
+<text>
+
+<abstract>
+DNA methyltransferases (DNMTs) are a family of enzymes that methylate DNA at the C5 position of cytosine residues, and their inhibition is a promising strategy for the treatment of various developmental and proliferative diseases, particularly cancers. In the present study, a binding model for hydralazine, with a validated homology model of human DNMT, was developed by the use of automated molecular docking and molecular dynamics simulations. The docking protocol was validated by predicting the binding mode of 2'-deoxycytidine, 5-azacytidine, and 5-aza-2'-deoxycytidine. The inhibitory activity of hydralazine toward DNMT may be rationalized at the molecular level by similar interactions within the binding pocket (e.g., by a similar pharmacophore) as established by substrate-like deoxycytidine analogues. These interactions involve a complex network of hydrogen bonds with arginine and glutamic acid residues that also play a major role in the mechanism of DNA methylation. Despite the different scaffolds of other non-nucleoside DNMT inhibitors such as procaine and procainamide, the current modeling work reveals that these drugs exhibit similar interactions within the DNMT1 binding site. These findings are valuable in guiding the rational design and virtual screening of novel DNMT inhibitors.
+</abstract>
+
+</text>

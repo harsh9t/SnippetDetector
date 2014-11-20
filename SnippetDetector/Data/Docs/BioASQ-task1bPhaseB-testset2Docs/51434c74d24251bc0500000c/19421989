@@ -1,0 +1,11 @@
+<title>
+Prediction of membrane spanning segments and topology in beta-barrel membrane proteins at better accuracy.
+</title>
+
+<text>
+
+<abstract>
+Prediction of membrane spanning segments in beta-barrel outer membrane proteins (OMP) and their topology is an important problem in structural and functional genomics. In this work, we propose a method based on radial basis networks for predicting the number of beta-strands in OMPs and identifying their membrane spanning segments. Our method showed a leave-one-out cross validation accuracy of 96% in a set of 28 OMPs, which have the range of 8-22 beta-strand segments. The beta-strand segments in OMPs and the residues in membrane spanning segments are correctly predicted with the accuracy of 96% and 87%, respectively. We have developed a web server, TMBETAPRED-RBF for predicting the transmembrane beta-strands from amino acid sequence and it is available at http://rbf.bioinfo.tw/~sachen/tmrbf.html. We suggest that our method could be an effective tool for predicting the membrane spanning regions and topology of beta-barrel membrane proteins.
+</abstract>
+
+</text>

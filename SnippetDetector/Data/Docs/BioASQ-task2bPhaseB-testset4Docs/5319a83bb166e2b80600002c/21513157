@@ -1,0 +1,11 @@
+<title>
+[Establishment of target genomic DNA capturing system for next generation sequencing].
+</title>
+
+<text>
+
+<abstract>
+The motivation of this research is to establish a system of target genomic DNA capture and enrichment, which could be used in deep sequencing of target regions with next-generation sequencing. To design the 120 bp capture probes (baits) and prepare the SureSelect reagents, 2,414,977 bp human genomic sequence of 11,824 exons in 1250 genes were submitted to the Agilent eArray platform and manufactured by Agilent. Two human genomic DNA samples were used and conducted the successive experiments for sequencing library construction: shearing fragmentation by sonication, blunt-ending and phosphorylation, adaptor ligation, 150-200 bp fragments size selection, followed by hybridization with the baits, hybrid selection with magnetic beads, and PCR amplification. Prior to SOLiD sequencing reaction, the libraries were amplified with emulsion PCR and enriched with the P2 enrichment beads. The library samples were loaded to sequencing Chip for Work Flow Analysis (WFA) or sequencing running with default parameters. The results displayed that 46 509 baits were designed and synthesized for 11,147 gene regions, and SureSelect capture probe regent was prepared. Real-time PCR showed the target enrichment efficiency up to 2(9) times with the SureSelect system. WFA revealed that the libraries were suitable for SOLiD Sequencing. The sequencing data revealed that 70% of the unique mapped sequence tags matched the target regions, and the average coverage of the target regions were above 200-fold. All these demonstrated the feasibility of the established system of target genome sequence capture for next generation DNA sequencing.
+</abstract>
+
+</text>

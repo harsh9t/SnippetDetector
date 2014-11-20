@@ -1,0 +1,11 @@
+<title>
+CEGMA: a pipeline to accurately annotate core genes in eukaryotic genomes.
+</title>
+
+<text>
+
+<abstract>
+MOTIVATION: The numbers of finished and ongoing genome projects are increasing at a rapid rate, and providing the catalog of genes for these new genomes is a key challenge. Obtaining a set of well-characterized genes is a basic requirement in the initial steps of any genome annotation process. An accurate set of genes is needed in order to learn about species-specific properties, to train gene-finding programs, and to validate automatic predictions. Unfortunately, many new genome projects lack comprehensive experimental data to derive a reliable initial set of genes. RESULTS: In this study, we report a computational method, CEGMA (Core Eukaryotic Genes Mapping Approach), for building a highly reliable set of gene annotations in the absence of experimental data. We define a set of conserved protein families that occur in a wide range of eukaryotes, and present a mapping procedure that accurately identifies their exon-intron structures in a novel genomic sequence. CEGMA includes the use of profile-hidden Markov models to ensure the reliability of the gene structures. Our procedure allows one to build an initial set of reliable gene annotations in potentially any eukaryotic genome, even those in draft stages. AVAILABILITY: Software and data sets are available online at http://korflab.ucdavis.edu/Datasets.
+</abstract>
+
+</text>

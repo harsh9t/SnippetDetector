@@ -1,0 +1,11 @@
+<title>
+Topology prediction of Brucella abortus Omp2b and Omp2a porins after critical assessment of transmembrane beta strands prediction by several secondary structure prediction methods.
+</title>
+
+<text>
+
+<abstract>
+In order to propose a reliable model for Brucella porin topology, several structure prediction methods were evaluated in their ability to predict porin topology. Four porins of known structure were selected as test-cases and their secondary structure delineated. The specificity and sensitivity of 11 methods were separately evaluated. Our critical assessment shows that some secondary structure prediction methods (PHD, Dsc, Sopma) originally designed to predict globular protein structure are useful on porin topology prediction. The overall best prediction is obtained by combining these three "generalist" methods with a transmembrane beta strand prediction technique. This "consensus" method was applied to Brucella porins Omp2b and Omp2a, sharing no sequence homology with any other porin. The predicted topology is a 16-stranded antiparallel beta barrel with Omp2a showing a higher number of negatively charged residue in the exposed loops than Omp2b. Experiments are in progress to validate the proposed topology and the functional hypotheses. The ability of the proposed consensus method to predict topology of complex outer membrane protein is briefly discussed.
+</abstract>
+
+</text>

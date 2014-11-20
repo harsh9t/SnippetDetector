@@ -1,0 +1,11 @@
+<title>
+PIPER: an FFT-based protein docking program with pairwise potentials.
+</title>
+
+<text>
+
+<abstract>
+The Fast Fourier Transform (FFT) correlation approach to protein-protein docking can evaluate the energies of billions of docked conformations on a grid if the energy is described in the form of a correlation function. Here, this restriction is removed, and the approach is efficiently used with pairwise interaction potentials that substantially improve the docking results. The basic idea is approximating the interaction matrix by its eigenvectors corresponding to the few dominant eigenvalues, resulting in an energy expression written as the sum of a few correlation functions, and solving the problem by repeated FFT calculations. In addition to describing how the method is implemented, we present a novel class of structure-based pairwise intermolecular potentials. The DARS (Decoys As the Reference State) potentials are extracted from structures of protein-protein complexes and use large sets of docked conformations as decoys to derive atom pair distributions in the reference state. The current version of the DARS potential works well for enzyme-inhibitor complexes. With the new FFT-based program, DARS provides much better docking results than the earlier approaches, in many cases generating 50% more near-native docked conformations. Although the potential is far from optimal for antibody-antigen pairs, the results are still slightly better than those given by an earlier FFT method. The docking program PIPER is freely available for noncommercial applications.
+</abstract>
+
+</text>

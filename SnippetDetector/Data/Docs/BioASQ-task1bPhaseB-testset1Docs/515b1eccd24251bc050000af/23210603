@@ -1,0 +1,11 @@
+<title>
+Rapid and deep profiling of human induced pluripotent stem cell proteome by one-shot NanoLC-MS/MS analysis with meter-scale monolithic silica columns.
+</title>
+
+<text>
+
+<abstract>
+Proteome analyses of human induced pluripotent stem cells (iPSC) were carried out on a liquid chromatography-tandem mass spectrometry system using meter-scale monolithic silica-C18 capillary columns without prefractionation. Tryptic peptides from five different iPSC lysates and three different fibroblast lysates (4 μg each) were directly injected onto a 200 cm long, 100 μm i.d. monolithic silica-C18 column and an 8-h gradient was applied at 500 nL/min at less than 20 MPa. We identified 98,977 nonredundant tryptic peptides from 9510 proteins (corresponding to 8712 genes), including low-abundance protein groups (such as 329 protein kinases) from triplicate measurements within 10 days. The obtained proteome profiles of the eight cell lysates were categorized into two groups, iPSC and fibroblast, by hierarchical cluster analysis. Further quantitative analysis based on an exponentially modified protein abundance index approach combined with UniProt keyword enrichment analysis revealed that the iPSC group contains more "transcription regulation"-related proteins, while the fibroblast group contained more "transport"-related proteins. Our results indicate that this simplified one-shot proteomics approach with long monolithic columns is advantageous for rapid, deep, sensitive, and reproducible proteome analysis.
+</abstract>
+
+</text>

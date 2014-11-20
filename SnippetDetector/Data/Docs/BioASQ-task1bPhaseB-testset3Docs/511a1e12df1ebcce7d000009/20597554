@@ -1,0 +1,11 @@
+<title>
+Citric acid antigen retrieval (CAAR) for tryptic peptide imaging directly on archived formalin-fixed paraffin-embedded tissue.
+</title>
+
+<text>
+
+<abstract>
+Imaging mass spectrometry (IMS) is a powerful technology for mapping distributions of biological molecules like proteins and peptides within tissue sections. It is therefore potentially extremely useful for the analysis of pathological conditions such as neoplastic diseases. The use of IMS is typically limited to fresh frozen tissue specimens. However, there is a high interest in the possibility of being able to analyze the tissue proteome of formalin-fixed paraffin-embedded (FFPE) specimens that have been stored together with the clinicopathological information of patients in huge archives over many decades. We have therefore developed an antigen-retrieval protocol using a high temperature citric acid buffer to allow partial reversal of FFPE protein cross-linking. Coupled with automated deposition of trypsin and matrix, our method allows the generation of meaningful peptide ion distribution images. In situ peptide fragmentation provided identification of high abundance proteins such as Actin and Collagen. Furthermore, downstream application of three different HPLC-MS strategies allowed identification of a maximum of 106 proteins, 67 of which were mass correlated to ions from IMS analysis of archived FFPE ovarian tissue. The CAAR method presented here complements previously described antigen-retrieval protocols and is an important step in being able to fully analyze the proteome of archived FFPE tissue.
+</abstract>
+
+</text>

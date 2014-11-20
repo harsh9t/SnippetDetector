@@ -1,0 +1,11 @@
+<title>
+New strategy for receptor-based pharmacophore query construction: a case study for 5-HT₇ receptor ligands.
+</title>
+
+<text>
+
+<abstract>
+In this paper, a new approach for generating receptor-based 3D pharmacophore models for rapid in silico virtual screening is presented. The method combines information from docking poses of known ligands of different structures and further ligand-receptor complexes analyses using structural interaction fingerprints (SIFts). Next, the best linear combination of three-, four-, and five-feature pharmacophores in terms of selected performance parameter (i.e., recall, F-score, and MCC) is constructed. The resultant queries showed significantly better VS performance and new scaffold recognition when compared with the known ligand- and receptor-based pharmacophore models. The approach was developed and validated on 5-HT₇ receptor homology models created on available crystal structure templates. The efficiency of the obtained linear combinations exhibited only a minor dependence on the template selection.
+</abstract>
+
+</text>

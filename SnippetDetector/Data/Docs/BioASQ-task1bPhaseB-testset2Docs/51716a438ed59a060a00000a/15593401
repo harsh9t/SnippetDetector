@@ -1,0 +1,11 @@
+<title>
+GFPE: gene-finding program evaluation.
+</title>
+
+<text>
+
+<abstract>
+Gene-finding program evaluation (GFPE) is a set of Java classes for evaluating gene-finding programs. A command-line interface is also provided. Inputs to the program include the sequence data (in FASTA format), annotations of "actual" sequence features, and annotations of "predicted" sequence features. Annotation files are in the General Feature Format promoted by the Sanger center. GFPE calculates a number of metrics of accuracy of predictions at three levels:the coding level, the exon level, and the protein level.
+</abstract>
+
+</text>

@@ -1,0 +1,11 @@
+<title>
+In-house construction of a UHPLC system enabling the identification of over 4000 protein groups in a single analysis.
+</title>
+
+<text>
+
+<abstract>
+Here, we describe an in-house built ultra-high pressure liquid chromatography (UHPLC) system, with little complexity in design and high separation power combined with convenience in operation. This system enables the use of long columns of 40 cm packed with 1.8 μm particles generating pressures below 1000 bar. Furthermore, the system could be operated at flow rates between 50 and 200 nL min(-1) while maintaining its separation power. Several gradients were optimized ranging from 23 to 458 minutes. With the longest gradient we identified over 4500 protein groups and more than 26,000 unique peptides from 1 μg of a human cancer cell lysate in a single run using an Orbitrap Velos - a level of performance often seen solely using multidimensional separation strategies. Further experiments using a mass spectrometer with faster sequencing speeds, like the TripleTOF 5600, enabled us to identify over 1400 protein groups in a 23 min gradient. The TripleTOF 5600 performed especially well, compared to the Orbitrap Velos, for the shorter gradients used. Our data demonstrate that the combination of UHPLC with high resolution mass spectrometry at increased sequencing speeds enables extensive proteome analysis in single runs.
+</abstract>
+
+</text>

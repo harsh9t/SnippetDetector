@@ -1,0 +1,11 @@
+<title>
+BRD4 coordinates recruitment of pause release factor P-TEFb and the pausing complex NELF/DSIF to regulate transcription elongation of interferon-stimulated genes.
+</title>
+
+<text>
+
+<abstract>
+RNA polymerase II (Pol II) and the pausing complex, NELF and DSIF, are detected near the transcription start site (TSS) of many active and silent genes. Active transcription starts when the pause release factor P-TEFb is recruited to initiate productive elongation. However, the mechanism of P-TEFb recruitment and regulation of NELF/DSIF during transcription is not fully understood. We investigated this question in interferon (IFN)-stimulated transcription, focusing on BRD4, a BET family protein that interacts with P-TEFb. Besides P-TEFb, BRD4 binds to acetylated histones through the bromodomain. We found that BRD4 and P-TEFb, although not present prior to IFN treatment, were robustly recruited to IFN-stimulated genes (ISGs) after stimulation. Likewise, NELF and DSIF prior to stimulation were hardly detectable on ISGs, which were strongly recruited after IFN treatment. A shRNA-based knockdown assay of NELF revealed that it negatively regulates the passage of Pol II and DSIF across the ISGs during elongation, reducing total ISG transcript output. Analyses with a BRD4 small-molecule inhibitor showed that IFN-induced recruitment of P-TEFb and NELF/DSIF was under the control of BRD4. We suggest a model where BRD4 coordinates both positive and negative regulation of ISG elongation.
+</abstract>
+
+</text>

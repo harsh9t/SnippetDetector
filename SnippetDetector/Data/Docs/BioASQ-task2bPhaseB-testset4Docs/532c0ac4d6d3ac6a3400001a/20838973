@@ -1,0 +1,11 @@
+<title>
+Pharmacophore-based virtual screening.
+</title>
+
+<text>
+
+<abstract>
+This chapter is a review of the most recent developments in the field of pharmacophore modeling, covering both methodology and application. Pharmacophore-based virtual screening is nowadays a mature technology, very well accepted in the medicinal chemistry laboratory. Nevertheless, like any empirical approach, it has specific limitations and efforts to improve the methodology are still ongoing. Fundamentally, the core idea of "stripping" functional groups of their actual chemical nature in order to classify them into very few pharmacophore types, according to their dominant physico-chemical features, is both the main advantage and the main drawback of pharmacophore modeling. The advantage is the one of simplicity - the complex nature of noncovalent ligand binding interactions is rendered intuitive and comprehensible by the human mind. Although computers are much better suited for comparisons of pharmacophore patterns, a chemist's intuition is primarily scaffold-oriented. Its underlying simplifications render pharmacophore modeling unable to provide perfect predictions of ligand binding propensities - not even if all its subsisting technical problems would be solved. Each step in pharmacophore modeling and exploitation has specific drawbacks: from insufficient or inaccurate conformational sampling to ambiguities in pharmacophore typing (mainly due to uncertainty regarding the tautomeric/protonation status of compounds), to computer time limitations in complex molecular overlay calculations, and to the choice of inappropriate anchoring points in active sites when ligand cocrystals structures are not available. Yet, imperfections notwithstanding, the approach is accurate enough in order to be practically useful and actually is the most used virtual screening technique in medicinal chemistry - notably for "scaffold hopping" approaches, allowing the discovery of new chemical classes carriers of a desired biological activity.
+</abstract>
+
+</text>

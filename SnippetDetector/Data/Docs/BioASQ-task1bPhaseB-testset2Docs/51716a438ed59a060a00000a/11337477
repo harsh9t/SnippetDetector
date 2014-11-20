@@ -1,0 +1,11 @@
+<title>
+Evaluation of gene-finding programs on mammalian sequences.
+</title>
+
+<text>
+
+<abstract>
+We present an independent comparative analysis of seven recently developed gene-finding programs: FGENES, GeneMark.hmm, Genie, Genescan, HMMgene, Morgan, and MZEF. For evaluation purposes we developed a new, thoroughly filtered, and biologically validated dataset of mammalian genomic sequences that does not overlap with the training sets of the programs analyzed. Our analysis shows that the new generation of programs has substantially better results than the programs analyzed in previous studies. The accuracy of the programs was also examined as a function of various sequence and prediction features, such as G + C content of the sequence, length and type of exons, signal type, and score of the exon prediction. This approach pinpoints the strengths and weaknesses of each individual program as well as those of computational gene-finding in general. The dataset used in this analysis (HMR195) as well as the tables with the complete results are available at http://www.cs.ubc.ca/~rogic/evaluation/.
+</abstract>
+
+</text>

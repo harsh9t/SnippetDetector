@@ -1,0 +1,11 @@
+<title>
+Prediction of transcription factor binding sites using ChIP-chip and phylogenetic footprinting data.
+</title>
+
+<text>
+
+<abstract>
+We present an algorithm for predicting transcription factor binding sites based on ChIP-chip and phylogenetic footprinting data. Our algorithm is robust against low promoter sequence similarity and motif rearrangements, because it does not depend on multiple sequence alignments. This, in turn, allows us to incorporate information from more distant species. Representative random data sets are used to estimate the score significance. Our algorithm is fully automatic, and does not require human intervention. On a recent S. cerevisiae data set, it achieves higher accuracy than the previously best algorithms. Adaptive ChIP-chip threshold and the modular positional bias score are two general features of our algorithm that increase motif prediction accuracy and could be implemented in other algorithms as well. In addition, since our algorithm works partly orthogonally to other algorithms, combining several algorithms can increase prediction accuracy even further. Specifically, our method finds 6 motifs not found by the 2nd best algorithm.
+</abstract>
+
+</text>

@@ -1,0 +1,11 @@
+<title>
+Flavitrack: an annotated database of flavivirus sequences.
+</title>
+
+<text>
+
+<abstract>
+MOTIVATION: Properly annotated sequence data for flaviviruses, which cause diseases, such as tick-borne encephalitis (TBE), dengue fever (DF), West Nile (WN) and yellow fever (YF), can aid in the design of antiviral drugs and vaccines to prevent their spread. Flavitrack was designed to help identify conserved sequence motifs, interpret mutational and structural data and track evolution of phenotypic properties. SUMMARY: Flavitrack contains over 590 complete flavivirus genome/protein sequences and information on known mutations and literature references. Each sequence has been manually annotated according to its date and place of isolation, phenotype and lethality. Internal tools are provided to rapidly determine relationships between viruses in Flavitrack and sequences provided by the user.
+</abstract>
+
+</text>

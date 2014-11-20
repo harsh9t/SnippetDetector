@@ -1,0 +1,11 @@
+<title>
+Identifying protein complexes from interactome based on essential proteins and local fitness method.
+</title>
+
+<text>
+
+<abstract>
+High-throughput experimental technologies, along with computational predictions, have promoted the emergence of large-scale interactome for numerous organisms. Identification of protein complexes from these interactome networks is crucial to understand principles of cellular organization and predict protein functions. Protein complexes are generally considered as dense subgraphs. However, the real protein complexes do not always have highly connected topologies. In this paper, a novel protein complex identifying method, named EPOF, is proposed, using essential proteins and the local metric of vertex fitness. In EPOF, cliques in the subnetwork which is consisted by the essential proteins are firstly considered as seeds, which are ordered according to their size and the number of their neighbors. A protein complex is extended from a seed based on the evaluation of its neighbors' fitness value. Then, the similar procedure is applied to the cliques identified in the subnetwork which is consisted by the proteins which is not clustered in the first step. When EPOF identifies complexes by expanding essential protein cliques, the essential proteins have higher priority and lower threshold. When it identifies complexes by expanding nonessential protein cliques, the nonessential proteins have higher priority and lower threshold. Finally, the last step, we output the identified complexes set. The proposed algorithm EPOF is applied to the unweighted and weighted interaction networks of S. cerevisiae and detects many well known protein complexes. We compare the performances of EPOF to other ten previous algorithms, including EAGLE, NFC, MCODE, DPClus, IPCA, CPM, MCL, CMC, SPICi, and Core-Attachment. Experimental results show that EPOF outperforms other previous competing algorithms in terms of matching with known complexes, sensitivity, specificity,   f-measure, function enrichment and accuracy. The program and related files available on https://github.com/gangchen/epof.
+</abstract>
+
+</text>

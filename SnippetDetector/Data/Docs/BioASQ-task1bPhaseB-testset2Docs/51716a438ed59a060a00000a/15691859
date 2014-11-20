@@ -1,0 +1,11 @@
+<title>
+Efficient implementation of a generalized pair hidden Markov model for comparative gene finding.
+</title>
+
+<text>
+
+<abstract>
+MOTIVATION: The increased availability of genome sequences of closely related organisms has generated much interest in utilizing homology to improve the accuracy of gene prediction programs. Generalized pair hidden Markov models (GPHMMs) have been proposed as one means to address this need. However, all GPHMM implementations currently available are either closed-source or the details of their operation are not fully described in the literature, leaving a significant hurdle for others wishing to advance the state of the art in GPHMM design. RESULTS: We have developed an open-source GPHMM gene finder, TWAIN, which performs very well on two related Aspergillus species, A.fumigatus and A.nidulans, finding 89% of the exons and predicting 74% of the gene models exactly correctly in a test set of 147 conserved gene pairs. We describe the implementation of this GPHMM and we explicitly address the assumptions and limitations of the system. We suggest possible ways of relaxing those assumptions to improve the utility of the system without sacrificing efficiency beyond what is practical. AVAILABILITY: Available at http://www.tigr.org/software/pirate/twain/twain.html under the open-source Artistic License.
+</abstract>
+
+</text>

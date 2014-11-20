@@ -1,0 +1,11 @@
+<title>
+Statistical analysis and exposure status classification of transmembrane beta barrel residues.
+</title>
+
+<text>
+
+<abstract>
+Several computational methods exist for the identification of transmembrane beta barrel proteins (TMBs) from sequence. Some of these methods also provide the transmembrane (TM) boundaries of the putative TMBs. The aim of this study is to (1) derive the propensities of the TM residues to be exposed to the lipid bilayer and (2) to predict the exposure status (i.e. exposed to the bilayer or hidden in protein structure) of TMB residues. Three novel propensity scales namely, BTMC, BTMI and HTMI were derived for the TMB residues at the hydrophobic core region of the outer membrane (OM), the lipid-water interface regions of the OM, and for the helical membrane proteins (HMPs) residues at the lipid-water interface regions of the inner membrane (IM), respectively. Separate propensity scales were derived for monomeric and functionally oligomeric TMBs. The derived propensities reflect differing physico-chemical properties of the respective membrane bilayer regions and were employed in a computational method for the prediction of the exposure status of TMB residues. Based on the these propensities, the conservation indices and the frequency profile of the residues, the transmembrane residues were classified into buried/exposed with an accuracy of 77.91% and 80.42% for the residues at the membrane core and the interface regions, respectively. The correlation of the derived scales with different physico-chemical properties obtained from the AAIndex database are also discussed. Knowledge about the residue propensities and burial status will be useful in annotating putative TMBs with unknown structure.
+</abstract>
+
+</text>

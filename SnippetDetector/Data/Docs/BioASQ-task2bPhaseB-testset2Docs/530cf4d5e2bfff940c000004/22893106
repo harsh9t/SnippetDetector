@@ -1,0 +1,11 @@
+<title>
+Candidate gene prioritization.
+</title>
+
+<text>
+
+<abstract>
+Candidate gene identification is typically labour intensive, involving laboratory experiments required to corroborate or disprove any hypothesis for a nominated candidate gene being considered the causative gene. The traditional approach to reduce the number of candidate genes entails fine-mapping studies using markers and pedigrees. Gene prioritization establishes the ranking of candidate genes based on their relevance to the biological process of interest, from which the most promising genes can be selected for further analysis. To date, many computational methods have focused on the prediction of candidate genes by analysis of their inherent sequence characteristics and similarity with respect to known disease genes, as well as their functional annotation. In the last decade, several computational tools for prioritizing candidate genes have been proposed. A large number of them are web-based tools, while others are standalone applications that install and run locally. This review attempts to take a close look at gene prioritization criteria, as well as candidate gene prioritization algorithms, and thus provide a comprehensive synopsis of the subject matter.
+</abstract>
+
+</text>

@@ -1,0 +1,11 @@
+<title>
+Pharmacogenomic predictor discovery in phase II clinical trials for breast cancer.
+</title>
+
+<text>
+
+<abstract>
+PURPOSE: We examined if supervised analysis of gene expression data from phase II studies could identify HER-2 overexpression as a predictor of response to trastuzumab. EXPERIMENTAL DESIGN: Gene expression data from 132 newly diagnosed breast cancers were used to simulate 50,000 single-agent phase II trastuzumab studies. True HER-2 amplification was assessed by fluorescence in situ hybridization. RESULTS: Only 3.67% of the simulated studies yielded HER-2 as the top predictor, >96% of the individual "studies" picked a different gene as the most predictive of trastuzumab response. HER-2 was included in the top 10 gene list 9.73% of the time. When HER-2 was a priori defined as a potential predictor, 99.6% of the simulated studies confirmed overexpression among responders. Candidate marker testing may be more efficient than de novo predictor discovery in phase II trials. We describe a tandem, two-step phase II trial design for rapid marker assessment that combines two optimal two-stage phase II trials into a single study. In the first stage, unselected patients are treated, and if insufficient responses are seen, the trial remains open for marker-positive patients only and a second two-stage trial commences. CONCLUSIONS: The probability of successful discovery of drug-specific pharmacogenomic response markers in a typical phase II study is small. The evaluation of predefined predictors using tandem two-step phase II design has the advantages of estimating response rates in both unselected and marker-selected patient populations and allows for simultaneous screening of multiple different predictors for the same drug and several distinct predictor-drug pairs in a single, parallel multiarm trial.
+</abstract>
+
+</text>

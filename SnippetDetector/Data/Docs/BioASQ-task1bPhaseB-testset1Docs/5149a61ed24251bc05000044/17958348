@@ -1,0 +1,11 @@
+<title>
+TMB finding pipeline: novel approach for detecting beta-barrel membrane proteins in genomic sequences.
+</title>
+
+<text>
+
+<abstract>
+We have developed a novel approach for dissecting transmembrane beta-barrel proteins (TMBs) in genomic sequences. The features include (i) the identification of TMBs using the preference of residue pairs in globular, transmembrane helical (TMH) and TMBs, (ii) elimination of globular/TMH proteins that show sequence identity of more than 70% for the coverage of 80% residues with known structures, (iii) elimination of globular/TMH proteins that have sequence identity of more than 60% with known sequences in SWISS-PROT, and (iv) exclusion of TMH proteins using SOSUI, a prediction system for TMH proteins. Our approach picked up 7% TMBs in all the considered genomes. The comparison between the identified TMBs in E. coli genome and available experimental data demonstrated that the new approach could correctly identify all the 11 known TMBs, whose crystal structures are available. Further, it revealed the presence of 19 TMBs, homology with known structures, 60 TMBs similar to well annotated sequences, and 54 TMBs that have high sequence similarity with Escherichia coli beta-barrel proteins deposited in Transport Classification Database (TCDB). Interestingly, the present approach identified TMBs from all 15 families in TCDB. In human genome, the occurrence of TMBs varies from 0 to 3% in different chromosomes. We suggest that our approach could lead to a step forward in the advancement of structural and functional genomics.
+</abstract>
+
+</text>

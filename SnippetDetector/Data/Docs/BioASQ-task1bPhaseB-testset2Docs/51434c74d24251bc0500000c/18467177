@@ -1,0 +1,11 @@
+<title>
+A method for discovering transmembrane beta-barrel proteins in Gram-negative bacterial proteomes.
+</title>
+
+<text>
+
+<abstract>
+Transmembrane beta-barrel (TMB) proteins play pivotal roles in many aspects of bacterial functions. This paper presents a k-nearest neighbor (K-NN) method for discriminating TMB and non-TMB proteins. We start with a method that makes predictions based on a distance computed from residue composition and gradually improve the prediction performance by including homologous sequences and searching for a set of residues and di-peptides for calculating the distance. The final method achieves an accuracy of 97.1%, with 0.876 MCC, 86.4% sensitivity and 98.8% specificity. A web server based on the proposed method is available at http://yanbioinformatics.cs.usu.edu:8080/TMBKNNsubmit.
+</abstract>
+
+</text>

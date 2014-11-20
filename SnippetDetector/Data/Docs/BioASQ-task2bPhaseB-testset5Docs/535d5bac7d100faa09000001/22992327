@@ -1,0 +1,11 @@
+<title>
+Sample size and power considerations in network meta-analysis.
+</title>
+
+<text>
+
+<abstract>
+UNLABELLED:  BACKGROUND: Network meta-analysis is becoming increasingly popular for establishing comparative effectiveness among multiple interventions for the same disease. Network meta-analysis inherits all methodological challenges of standard pairwise meta-analysis, but with increased complexity due to the multitude of intervention comparisons. One issue that is now widely recognized in pairwise meta-analysis is the issue of sample size and statistical power. This issue, however, has so far only received little attention in network meta-analysis. To date, no approaches have been proposed for evaluating the adequacy of the sample size, and thus power, in a treatment network. FINDINGS: In this article, we develop easy-to-use flexible methods for estimating the 'effective sample size' in indirect comparison meta-analysis and network meta-analysis. The effective sample size for a particular treatment comparison can be interpreted as the number of patients in a pairwise meta-analysis that would provide the same degree and strength of evidence as that which is provided in the indirect comparison or network meta-analysis. We further develop methods for retrospectively estimating the statistical power for each comparison in a network meta-analysis. We illustrate the performance of the proposed methods for estimating effective sample size and statistical power using data from a network meta-analysis on interventions for smoking cessation including over 100 trials. CONCLUSION: The proposed methods are easy to use and will be of high value to regulatory agencies and decision makers who must assess the strength of the evidence supporting comparative effectiveness estimates.
+</abstract>
+
+</text>

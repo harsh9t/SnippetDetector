@@ -1,0 +1,11 @@
+<title>
+S phase-dependent interaction with DNMT1 dictates the role of UHRF1 but not UHRF2 in DNA methylation maintenance.
+</title>
+
+<text>
+
+<abstract>
+Recent studies demonstrate that UHRF1 is required for DNA methylation maintenance by targeting DNMT1 to DNA replication foci, presumably through its unique hemi-methylated DNA-binding activity and interaction with DNMT1. UHRF2, another member of the UHRF family proteins, is highly similar to UHRF1 in both sequence and structure, raising questions about its role in DNA methylation. In this study, we demonstrate that, like UHRF1, UHRF2 also binds preferentially to methylated histone H3 lysine 9 (H3K9) through its conserved tudor domain and hemi-methylated DNA through the SET and Ring associated domain. Like UHRF1, UHRF2 is enriched in pericentric heterochromatin. The heterochromatin localization depends to large extent on its methylated H3K9-binding activity and to less extent on its methylated DNA-binding activity. Coimmunoprecipitation experiments demonstrate that both UHRF1 and UHRF2 interact with DNMT1, DNMT3a, DNMT3b and G9a. Despite all these conserved functions, we find that UHRF2 is not able to rescue the DNA methylation defect in Uhrf1 null mouse embryonic stem cells. This can be attributed to the inability for UHRF2 to recruit DNMT1 to replication foci during S phase of the cell cycle. Indeed, we find that while UHRF1 interacts with DNMT1 in an S phase-dependent manner in cells, UHRF2 does not. Thus, our study demonstrates that UHRF2 and UHRF1 are not functionally redundant in DNA methylation maintenance and reveals the cell-cycle-dependent interaction between UHRF1 and DNMT1 as a key regulatory mechanism targeting DNMT1 for DNA methylation.
+</abstract>
+
+</text>

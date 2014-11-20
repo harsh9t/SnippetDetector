@@ -1,0 +1,11 @@
+<title>
+Sop-GPU: accelerating biomolecular simulations in the centisecond timescale using graphics processors.
+</title>
+
+<text>
+
+<abstract>
+Theoretical exploration of fundamental biological processes involving the forced unraveling of multimeric proteins, the sliding motion in protein fibers and the mechanical deformation of biomolecular assemblies under physiological force loads is challenging even for distributed computing systems. Using a C(α)-based coarse-grained self organized polymer (SOP) model, we implemented the Langevin simulations of proteins on graphics processing units (SOP-GPU program). We assessed the computational performance of an end-to-end application of the program, where all the steps of the algorithm are running on a GPU, by profiling the simulation time and memory usage for a number of test systems. The ∼90-fold computational speedup on a GPU, compared with an optimized central processing unit program, enabled us to follow the dynamics in the centisecond timescale, and to obtain the force-extension profiles using experimental pulling speeds (v(f) = 1-10 μm/s) employed in atomic force microscopy and in optical tweezers-based dynamic force spectroscopy. We found that the mechanical molecular response critically depends on the conditions of force application and that the kinetics and pathways for unfolding change drastically even upon a modest 10-fold increase in v(f). This implies that, to resolve accurately the free energy landscape and to relate the results of single-molecule experiments in vitro and in silico, molecular simulations should be carried out under the experimentally relevant force loads. This can be accomplished in reasonable wall-clock time for biomolecules of size as large as 10(5) residues using the SOP-GPU package.
+</abstract>
+
+</text>

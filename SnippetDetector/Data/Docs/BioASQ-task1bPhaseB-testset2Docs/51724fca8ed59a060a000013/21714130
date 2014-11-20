@@ -1,0 +1,11 @@
+<title>
+Optimal pairwise alignment of fixed protein structures in subquadratic time.
+</title>
+
+<text>
+
+<abstract>
+The problem of finding an optimal structural alignment for a pair of superimposed proteins is often amenable to the Smith-Waterman dynamic programming algorithm, which runs in time proportional to the product of lengths of the sequences being aligned. While the quadratic running time is acceptable for computing a single alignment of two fixed protein structures, the time complexity becomes a bottleneck when running the Smith-Waterman routine multiple times in order to find a globally optimal superposition and alignment of the input proteins. We present a subquadratic running time algorithm capable of computing an alignment that optimizes one of the most widely used measures of protein structure similarity, defined as the number of pairs of residues in two proteins that can be superimposed under a predefined distance cutoff. The algorithm presented in this article can be used to significantly improve the speed-accuracy tradeoff in a number of popular protein structure alignment methods.
+</abstract>
+
+</text>

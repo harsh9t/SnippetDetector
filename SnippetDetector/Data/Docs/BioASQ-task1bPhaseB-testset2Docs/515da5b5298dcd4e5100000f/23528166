@@ -1,0 +1,11 @@
+<title>
+DNA cytosine methylation: structural and thermodynamic characterization of the epigenetic marking mechanism.
+</title>
+
+<text>
+
+<abstract>
+DNA cytosine methyltransferases regulate the expression of the genome through the precise epigenetic marking of certain cytosines with a methyl group, and aberrant methylation is a hallmark of human diseases including cancer. Targeting these enzymes for drug design is currently a high priority. We have utilized ab initio quantum mechanical/molecular mechanical (QM/MM) molecular dynamics (MD) simulations to investigate extensively the reaction mechanism of the representative DNA methyltransferase HhaI (M.HhaI) from prokaryotes, whose overall mechanism is shared with the mammalian enzymes. We obtain for the first time full free energy profiles for the complete reaction, together with reaction dynamics in atomistic detail. Our results show an energetically preferred mechanism in which nucleophilic attack of cytosine C5 on the S-adenosyl-L-methionine (AdoMet) methyl group is concerted with formation of the Michael adduct between a conserved Cys in the active site with cytosine C6. Spontaneous and reversible proton transfer between a conserved Glu in the active site and cytosine N3 at the transition state was observed in our simulations, revealing the chemical participation of this Glu residue in the catalytic mechanism. Subsequently, the β-elimination of the C5 proton utilizes as base an OH(-) derived from a conserved crystal water that is part of a proton wire water channel, and this syn β-elimination reaction is the rate-limiting step. Design of novel cytosine methylation inhibitors would be advanced by our structural and thermodynamic characterization of the reaction mechanism.
+</abstract>
+
+</text>

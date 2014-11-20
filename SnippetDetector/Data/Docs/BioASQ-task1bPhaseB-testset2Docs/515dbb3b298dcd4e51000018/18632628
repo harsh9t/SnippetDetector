@@ -1,0 +1,11 @@
+<title>
+Defining a chromatin pattern that characterizes DNA-hypermethylated genes in colon cancer cells.
+</title>
+
+<text>
+
+<abstract>
+Epigenetic gene regulation is a key determinant of heritable gene expression patterns and is critical for normal cellular function. Dysregulation of epigenetic transcriptional control is a fundamental feature of cancer, particularly manifesting as increased promoter DNA methylation with associated aberrant gene silencing, which plays a significant role in tumor progression. We now globally map key chromatin parameters for genes with promoter CpG island DNA hypermethylation in colon cancer cells by combining microarray gene expression analyses with chromatin immunoprecipitation-on-chip technology. We first show that the silent state of such genes universally correlates with a broad distribution of a low but distinct level of the PcG-mediated histone modification, methylation of lysine 27 of histone 3 (H3K27me), and a very low level of the active mark H3K4me2. This chromatin pattern, and particularly H3K4me2 levels, crisply separates DNA-hypermethylated genes from those where histone deacetylation is responsible for transcriptional silencing. Moreover, the chromatin pattern can markedly enhance identification of truly silent and DNA-hypermethylated genes. We additionally find that when DNA-hypermethylated genes are demethylated and reexpressed, they adopt a bivalent chromatin pattern, which is associated with the poised gene expression state of a large group of embryonic stem cell genes and is characterized by an increase in levels of both the H3K27me3 and H3K4me2 marks. Our data have great relevance for the increasing interest in reexpression of DNA-hypermethylated genes for the treatment of cancer.
+</abstract>
+
+</text>

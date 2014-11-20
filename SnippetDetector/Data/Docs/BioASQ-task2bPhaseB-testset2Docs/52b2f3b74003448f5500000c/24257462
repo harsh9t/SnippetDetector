@@ -1,0 +1,11 @@
+<title>
+Imaging Ca2+ nanosparks in heart with a new targeted biosensor.
+</title>
+
+<text>
+
+<abstract>
+RATIONALE: In cardiac dyads, junctional Ca2+ directly controls the gating of the ryanodine receptors (RyRs), and is itself dominated by RyR-mediated Ca2+ release from the sarcoplasmic reticulum. Existing probes do not report such local Ca2+ signals because of probe diffusion, so a junction-targeted Ca2+ sensor should reveal new information on cardiac excitation-contraction coupling and its modification in disease states. OBJECTIVE: To investigate Ca2+ signaling in the nanoscopic space of cardiac dyads by targeting a new sensitive Ca2+ biosensor (GCaMP6f) to the junctional space. METHODS AND RESULTS: By fusing GCaMP6f to the N terminus of triadin 1 or junctin, GCaMP6f-triadin 1/junctin was targeted to dyadic junctions, where it colocalized with t-tubules and RyRs after adenovirus-mediated gene transfer. This membrane protein-tagged biosensor displayed ≈4× faster kinetics than native GCaMP6f. Confocal imaging revealed junctional Ca2+ transients (Ca2+ nanosparks) that were ≈50× smaller in volume than conventional Ca2+ sparks (measured with diffusible indicators). The presence of the biosensor did not disrupt normal Ca2+ signaling. Because no indicator diffusion occurred, the amplitude and timing of release measurements were improved, despite the small recording volume. We could also visualize coactivation of subclusters of RyRs within a single junctional region, as well as quarky Ca2+ release events. CONCLUSIONS: This new, targeted biosensor allows selective visualization and measurement of nanodomain Ca2+ dynamics in intact cells and can be used to give mechanistic insights into dyad RyR operation in health and in disease states such as when RyRs become orphaned.
+</abstract>
+
+</text>

@@ -1,0 +1,11 @@
+<title>
+Next-generation sequencing for high-throughput molecular ecology: a step-by-step protocol for targeted multilocus genotyping by pyrosequencing.
+</title>
+
+<text>
+
+<abstract>
+Next-generation sequencing technology can now provide population biologists and phylogeographers with information at the genomic scale; however, many pertinent questions in population genetics and phylogeography can be answered effectively with modest levels of genomic information. For the past two decades, most population-level studies have lacked nuclear DNA (nDNA) sequence data due to the complications and cost of amplifying and sequencing diploid loci. However, pyrosequencing of emulsion PCR reactions, amplifying from only one molecule at a time, can generate megabases of clonally amplified loci at high coverage, thereby greatly simplifying allelic sequence determination. Here, we present a step-by-step methodology for utilizing the 454 GS FLX Titanium pyrosequencing platform to simultaneously sequence 16 populations (at 20 individuals per population) at 10 different nDNA loci (3,200 loci in total) in one plate of sequencing for less than the cost of traditional Sanger sequencing.
+</abstract>
+
+</text>

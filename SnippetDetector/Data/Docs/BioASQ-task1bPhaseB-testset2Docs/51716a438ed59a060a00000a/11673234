@@ -1,0 +1,11 @@
+<title>
+An analysis of gene-finding programs for Neurospora crassa.
+</title>
+
+<text>
+
+<abstract>
+MOTIVATION: Computational gene identification plays an important role in genome projects. The approaches used in gene identification programs are often tuned to one particular organism, and accuracy for one organism or class of organism does not necessarily translate to accurate predictions for other organisms. In this paper we evaluate five computer programs on their ability to locate coding regions and to predict gene structure in Neurospora crassa. One of these programs (FFG) was designed specifically for gene-finding in N.crassa, but the model parameters have not yet been fully 'tuned', and the program should thus be viewed as an initial prototype. The other four programs were neither designed nor tuned for N.crassa. RESULTS: We describe the data sets on which the experiments were performed, the approaches employed by the five algorithms: GenScan, HMMGene, GeneMark, Pombe and FFG, the methodology of our evaluation, and the results of the experiments. Our results show that, while none of the programs consistently performs well, overall the GenScan program has the best performance on sensitivity and Missing Exons (ME) while the HMMGene and FFG programs have good performance in locating the exons roughly. Additional work motivated by this study includes the creation of a tool for the automated evaluation of gene-finding programs, the collection of larger and more reliable data sets for N.crassa, parameterization of the model used in FFG to produce a more accurate gene-finding program for this species, and a more in-depth evaluation of the reasons that existing programs generally fail for N.crassa. AVAILABILITY: Data sets, the FFG program source code, and links to the other programs analyzed are available at http://jerry.cs.uga.edu/~wang/genefind.html. CONTACT: eileen@cs.uga.edu.
+</abstract>
+
+</text>

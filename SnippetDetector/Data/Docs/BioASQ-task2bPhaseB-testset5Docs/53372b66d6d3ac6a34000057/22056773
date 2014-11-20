@@ -1,0 +1,11 @@
+<title>
+Total RNA sequencing reveals nascent transcription and widespread co-transcriptional splicing in the human brain.
+</title>
+
+<text>
+
+<abstract>
+Transcriptome sequencing allows for analysis of mature RNAs at base pair resolution. Here we show that RNA-seq can also be used for studying nascent RNAs undergoing transcription. We sequenced total RNA from human brain and liver and found a large fraction of reads (up to 40%) within introns. Intronic RNAs were abundant in brain tissue, particularly for genes involved in axonal growth and synaptic transmission. Moreover, we detected significant differences in intronic RNA levels between fetal and adult brains. We show that the pattern of intronic sequence read coverage is explained by nascent transcription in combination with co-transcriptional splicing. Further analysis of co-transcriptional splicing indicates a correlation between slowly removed introns and alternative splicing. Our data show that sequencing of total RNA provides unique insight into the transcriptional processes in the cell, with particular importance for normal brain development.
+</abstract>
+
+</text>

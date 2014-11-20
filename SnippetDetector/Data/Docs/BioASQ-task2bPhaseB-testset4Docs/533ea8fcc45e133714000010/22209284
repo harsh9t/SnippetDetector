@@ -1,0 +1,11 @@
+<title>
+A luciferase reporter assay to investigate the differential selenium-dependent stability of selenoprotein mRNAs.
+</title>
+
+<text>
+
+<abstract>
+The mechanisms regulating the differential selenium (Se)-dependent stability of selenoprotein mRNAs are partially characterized. To further study the Se-dependent regulation of selenoproteins, we developed a novel chemiluminescent reporter to monitor the steady-state mRNA level of an artificial selenoprotein. Our reporter is a fusion of the Renilla luciferase gene and of the β-globin gene, but contains features required for incorporation of selenocysteine (SEC), namely, a UGA-SEC codon and a 3' untranslated region RNA stem loop called a SEC incorporation sequence (SECIS). At various levels of Se, the activity of reporters containing GPX1 or GPX4 SECIS elements is proportional to the steady-state mRNA level of the reporter construct and reflects the level of the corresponding endogenous mRNA. In a reporter containing a UGA codon and a functional GPX1 SECIS, Se-dependent nonsense-mediated decay (NMD) occurred in the cytoplasm, as opposed to the more typical nuclear location. To validate the reporter system, we used genetic and pharmacologic approaches to inhibit or promote NMD. Modulation of UPF1 by siRNA, overexpression, or by inhibition of SMG1 altered NMD in this system. Our reporter is derived from a Renilla luciferase reporter gene fused to an intron containing B-globin gene and is subject to degradation by NMD when a stop codon is inserted before the second intron.
+</abstract>
+
+</text>

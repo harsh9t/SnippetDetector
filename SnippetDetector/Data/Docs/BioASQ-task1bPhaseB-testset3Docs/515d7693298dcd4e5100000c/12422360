@@ -1,0 +1,11 @@
+<title>
+FindPept, a tool to identify unmatched masses in peptide mass fingerprinting protein identification.
+</title>
+
+<text>
+
+<abstract>
+FindPept (http://www.expasy.org/tools/findpept.html) is a software tool designed to identify the origin of peptide masses obtained by peptide mass fingerprinting which are not matched by existing protein identification tools. It identifies masses resulting from unspecific proteolytic cleavage, missed cleavage, protease autolysis or keratin contaminants. It also takes into account post-translational modifications derived from the annotation of the SWISS-PROT database or supplied by the user, and chemical modifications of peptides. Based on a number of experimental examples, we show that the commonly held rules for the specificity of tryptic cleavage are an oversimplification, mainly because of effects of neighboring residues, experimental conditions, and contaminants present in the enzyme sample.
+</abstract>
+
+</text>

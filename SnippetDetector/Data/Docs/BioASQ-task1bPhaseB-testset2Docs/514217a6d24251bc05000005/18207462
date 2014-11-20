@@ -1,0 +1,11 @@
+<title>
+Extracting interactions between proteins from the literature.
+</title>
+
+<text>
+
+<abstract>
+During the last decade, biomedicine has witnessed a tremendous development. Large amounts of experimental and computational biomedical data have been generated along with new discoveries, which are accompanied by an exponential increase in the number of biomedical publications describing these discoveries. In the meantime, there has been a great interest with scientific communities in text mining tools to find knowledge such as protein-protein interactions, which is most relevant and useful for specific analysis tasks. This paper provides a outline of the various information extraction methods in biomedical domain, especially for discovery of protein-protein interactions. It surveys methodologies involved in plain texts analyzing and processing, categorizes current work in biomedical information extraction, and provides examples of these methods. Challenges in the field are also presented and possible solutions are discussed.
+</abstract>
+
+</text>

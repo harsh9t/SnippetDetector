@@ -1,0 +1,11 @@
+<title>
+Supersecondary structure prediction of transmembrane beta-barrel proteins.
+</title>
+
+<text>
+
+<abstract>
+We introduce a graph-theoretic model for predicting the supersecondary structure of transmembrane β-barrel proteins--a particular class of proteins that performs diverse important functions but it is difficult to determine their structure with experimental methods. This ab initio model resolves the protein folding problem based on pseudo-energy minimization with the aid of a simple probabilistic filter. It also allows for determining structures whose barrel follows a given permutation on the arrangement of β-strands, and allows for rapidly discriminating the transmembrane β-barrels from other kinds of proteins. The model is fairly accurate, robust and can be run very efficiently on PC-like computers, thus proving useful for genome screening.
+</abstract>
+
+</text>

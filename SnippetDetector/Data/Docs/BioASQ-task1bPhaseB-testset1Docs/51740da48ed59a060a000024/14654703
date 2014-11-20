@@ -1,0 +1,11 @@
+<title>
+Gene structure prediction in syntenic DNA segments.
+</title>
+
+<text>
+
+<abstract>
+The accurate prediction of higher eukaryotic gene structures and regulatory elements directly from genomic sequences is an important early step in the understanding of newly assembled contigs and finished genomes. As more new genomes are sequenced, comparative approaches are becoming increasingly practical and valuable for predicting genes and regulatory elements. We demonstrate the effectiveness of a comparative method called pattern filtering; it utilizes synteny between two or more genomic segments for the annotation of genomic sequences. Pattern filtering optimally detects the signatures of conserved functional elements despite the stochastic noise inherent in evolutionary processes, allowing more accurate annotation of gene models. We anticipate that pattern filtering will facilitate sequence annotation and the discovery of new functional elements by the genetics and genomics communities.
+</abstract>
+
+</text>

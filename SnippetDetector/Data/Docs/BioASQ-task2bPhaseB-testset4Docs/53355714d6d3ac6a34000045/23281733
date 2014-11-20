@@ -1,0 +1,11 @@
+<title>
+Use of general purpose graphics processing units with MODFLOW.
+</title>
+
+<text>
+
+<abstract>
+To evaluate the use of general-purpose graphics processing units (GPGPUs) to improve the performance of MODFLOW, an unstructured preconditioned conjugate gradient (UPCG) solver has been developed. The UPCG solver uses a compressed sparse row storage scheme and includes Jacobi, zero fill-in incomplete, and modified-incomplete lower-upper (LU) factorization, and generalized least-squares polynomial preconditioners. The UPCG solver also includes options for sequential and parallel solution on the central processing unit (CPU) using OpenMP. For simulations utilizing the GPGPU, all basic linear algebra operations are performed on the GPGPU; memory copies between the central processing unit CPU and GPCPU occur prior to the first iteration of the UPCG solver and after satisfying head and flow criteria or exceeding a maximum number of iterations. The efficiency of the UPCG solver for GPGPU and CPU solutions is benchmarked using simulations of a synthetic, heterogeneous unconfined aquifer with tens of thousands to millions of active grid cells. Testing indicates GPGPU speedups on the order of 2 to 8, relative to the standard MODFLOW preconditioned conjugate gradient (PCG) solver, can be achieved when (1) memory copies between the CPU and GPGPU are optimized, (2) the percentage of time performing memory copies between the CPU and GPGPU is small relative to the calculation time, (3) high-performance GPGPU cards are utilized, and (4) CPU-GPGPU combinations are used to execute sequential operations that are difficult to parallelize. Furthermore, UPCG solver testing indicates GPGPU speedups exceed parallel CPU speedups achieved using OpenMP on multicore CPUs for preconditioners that can be easily parallelized.
+</abstract>
+
+</text>

@@ -1,0 +1,11 @@
+<title>
+Identifying protein complexes from interaction networks based on clique percolation and distance restriction.
+</title>
+
+<text>
+
+<abstract>
+BACKGROUND: Identification of protein complexes in large interaction networks is crucial to understand principles of cellular organization and predict protein functions, which is one of the most important issues in the post-genomic era. Each protein might be subordinate multiple protein complexes in the real protein-protein interaction networks. Identifying overlapping protein complexes from protein-protein interaction networks is a considerable research topic. RESULT: As an effective algorithm in identifying overlapping module structures, clique percolation method (CPM) has a wide range of application in social networks and biological networks. However, the recognition accuracy of algorithm CPM is lowly. Furthermore, algorithm CPM is unfit to identifying protein complexes with meso-scale when it applied in protein-protein interaction networks. In this paper, we propose a new topological model by extending the definition of k-clique community of algorithm CPM and introduced distance restriction, and develop a novel algorithm called CP-DR based on the new topological model for identifying protein complexes. In this new algorithm, the protein complex size is restricted by distance constraint to conquer the shortcomings of algorithm CPM. The algorithm CP-DR is applied to the protein interaction network of Sacchromyces cerevisiae and identifies many well known complexes. CONCLUSION: The proposed algorithm CP-DR based on clique percolation and distance restriction makes it possible to identify dense subgraphs in protein interaction networks, a large number of which correspond to known protein complexes. Compared to algorithm CPM, algorithm CP-DR has more outstanding performance.
+</abstract>
+
+</text>

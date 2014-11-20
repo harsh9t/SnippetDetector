@@ -1,0 +1,11 @@
+<title>
+A multi-dimensional evidence-based candidate gene prioritization approach for complex diseases-schizophrenia as a case.
+</title>
+
+<text>
+
+<abstract>
+MOTIVATION: During the past decade, we have seen an exponential growth of vast amounts of genetic data generated for complex disease studies. Currently, across a variety of complex biological problems, there is a strong trend towards the integration of data from multiple sources. So far, candidate gene prioritization approaches have been designed for specific purposes, by utilizing only some of the available sources of genetic studies, or by using a simple weight scheme. Specifically to psychiatric disorders, there has been no prioritization approach that fully utilizes all major sources of experimental data. RESULTS: Here we present a multi-dimensional evidence-based candidate gene prioritization approach for complex diseases and demonstrate it in schizophrenia. In this approach, we first collect and curate genetic studies for schizophrenia from four major categories: association studies, linkage analyses, gene expression and literature search. Genes in these data sets are initially scored by category-specific scoring methods. Then, an optimal weight matrix is searched by a two-step procedure (core genes and unbiased P-values in independent genome-wide association studies). Finally, genes are prioritized by their combined scores using the optimal weight matrix. Our evaluation suggests this approach generates prioritized candidate genes that are promising for further analysis or replication. The approach can be applied to other complex diseases. AVAILABILITY: The collected data, prioritized candidate genes, and gene prioritization tools are freely available at http://bioinfo.mc.vanderbilt.edu/SZGR/.
+</abstract>
+
+</text>

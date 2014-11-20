@@ -1,0 +1,11 @@
+<title>
+Conformational sampling of druglike molecules with MOE and catalyst: implications for pharmacophore modeling and virtual screening.
+</title>
+
+<text>
+
+<abstract>
+Computational conformational sampling is integral to small molecule pharmaceutical research, for detailed conformational analysis and high-throughput 3D library enumeration. These two regimes were tested in details for the general-purpose modeling program MOE, using its three conformational sampling methods, i.e. systematic search, stochastic search, and Conformation Import. The tests include i) identification of the global energy minimum, ii) reproduction of the bioactive conformation, iii) measures of conformational coverage with 3D descriptors, and iv) compute times. The bioactive conformers are from a new set of 256 diverse, druglike, protein-bound ligands compiled and analyzed with particular care. The MOE results are compared to those obtained from the established program Catalyst. Key parameters controlling the conformational coverage were varied systematically. Coverage and diversity of the conformational space were characterized with unique pharmacophore triplets or quadruplets. Overall, the protocols in both MOE and Catalyst performed well for their intended tasks. MOE performed at least as well as Catalyst for high-throughput library generation and detailed conformational modeling. This work provides a guide and specific recommendations regarding the usage of conformational sampling tools in MOE.
+</abstract>
+
+</text>

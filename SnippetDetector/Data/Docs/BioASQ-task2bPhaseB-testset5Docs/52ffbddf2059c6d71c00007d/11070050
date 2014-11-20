@@ -1,0 +1,11 @@
+<title>
+The covariation between TpA deficiency, CpG deficiency, and G+C content of human isochores is due to a mathematical artifact.
+</title>
+
+<text>
+
+<abstract>
+CpG and TpA dinucleotides are underrepresented in the human genome. The CpG deficiency is due to the high mutation rate from C to T in methylated CpG's. The TpA suppression was thought to reflect a counterselection against TpA's destabilizing effect in RNA. Unexpectedly, the TpA and CpG deficiencies vary according to the G+C contents of sequences. It has been proposed that the variation in CpG suppression was correlated with a particular chromatin organization in G+C-rich isochores. Here, we present an improved model of dinucleotide evolution accounting for the overlap between successive dinucleotides. We show that an increased mutation rate from CpG to TpG or CpA induces both an apparent TpA deficiency and a correlation between CpG and TpA deficiencies and G+C content. Moreover, this model shows that the ratio of observed over expected CpG frequency underestimates the real CpG deficiency in G+C-rich sequences. The predictions of our model fit well with observed frequencies in human genomic data. This study suggests that previously published selectionist interpretations of patterns of dinucleotide frequencies should be taken with caution. Moreover, we propose new criteria to identify unmethylated CpG islands taking into account this bias in the measure of CpG depletion.
+</abstract>
+
+</text>

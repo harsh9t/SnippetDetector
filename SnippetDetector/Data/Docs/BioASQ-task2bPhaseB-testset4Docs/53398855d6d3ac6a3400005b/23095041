@@ -1,0 +1,347 @@
+<title>
+Identification of a chemical probe for bromo and extra C-terminal bromodomain inhibition through optimization of a fragment-derived hit.
+</title>
+
+<text>
+
+<abstract>
+The posttranslational modification of chromatin through acetylation at selected histone lysine residues is governed by histone acetyltransferases (HATs) and histone deacetylases (HDACs). The significance of this subset of the epigenetic code is interrogated and interpreted by an acetyllysine-specific protein-protein interaction with bromodomain reader modules. Selective inhibition of the bromo and extra C-terminal domain (BET) family of bromodomains with a small molecule is feasible, and this may represent an opportunity for disease intervention through the recently disclosed antiproliferative and anti-inflammatory properties of such inhibitors. Herein, we describe the discovery and structure-activity relationship (SAR) of a novel, small-molecule chemical probe for BET family inhibition that was identified through the application of structure-based fragment assessment and optimization techniques. This has yielded a potent, selective compound with cell-based activity (PFI-1) that may further add to the understanding of BET family function within the bromodomains.
+</abstract>
+
+<sections.0>
+Introduction
+romodomains are protein interaction modules
+that recognize the
+µ--acetylation state of specific lysine residues found within
+histone tails and other proteins.1 istones
+are lysine-rich proteins that, left unmodified, are highly basic in
+character. odification of these hallmark lysine residues through
+acetylation or iterative methylation causes changes in the structural
+and physicochemical properties of the histone protein,2,3 affecting the structure of nucleosomes that organize the proteinβ€“
+hybrid arrangement. lteration of these µ-2 sites
+on lysine represents the protein-held part of the epigenetic code
+within the chromatin of each cell nucleus. he acetylation level of
+these initially basic residues is controlled by the action of histone
+acetyltransferases (s) and histone deacetylases (s); however,
+the significance of these modulations is relayed by the bromodomains
+and their histone tail recognition function.4 he consequences of this acetylation reading process may trigger
+further remodeling at the epigenetically modifiable sites within the
+protein or  components of chromatin, ultimately manifesting themselves
+in transcriptional activity control.5 he
+number of proteins susceptible to lysine µ-2 acetylation
+state changes reaches into the thousands, and these have been shown
+to play a diverse range of functions.6 romodomains
+are the only modules that can specifically recognize acetylated linear
+motifs. hey are found within large multidomain nuclear proteins tasked
+with controlling processes such as methyl transfer, transcription
+coactivation, and motor protein (helicase) activity. here are 61
+bromodomains in the human proteome and these are further classified
+into eight families, one of which is the bromodomain and extra -terminal
+domain () family.7  family function
+has been studied through protein expression quantification or knockdown
+experiments of individual  family members. his has highlighted
+the control of processes that mediate cancer,8 inflammation,9 and viral infection,10 among others. his renders the bromodomains
+within the  protein family attractive targets for drug discovery,
+at least in the context of potential efficacy.1 hemical probes against bromodomain families, or perhaps in time
+highly selective inhibitors of each of the 61 family members, will
+be useful tools in fully establishing the role of these proteins.
+hemical probes that can help validate the potential efficacy and,
+of equal importance, safety of bromodomain inhibition will be of great
+utility in this emerging target class. he first chemotypes for 
+family inhibitors have recently been disclosed by members of this
+group11 and others.12,13 he structurally related triazolodiazepine compounds (+)-1 1 and -762 2 (igure 1) are the most potent (nanomolar),  family-selective, and cell-active
+ family inhibitors disclosed thus far. -762 has recently entered
+clinical trials for  midline carcinoma.14
+igure 1irst-generation
+ family inhibitors.(+)-1 1 showed anti-cancer activity
+in patient-derived
+xenografts,11 while -762 exhibited
+anti-inflammatory effects in mice.12 
+small number of orthogonal chemotypes have also been recently disclosed.
+onway and co-workers15 (compounds 3 and 4, igure 2) and
+rinjha and co-workers16 (-151, 5, igure 2) have independently described
+3,5-dimethylisoxazole as a viable acetyllysine mimetic in identifying
+novel  binders. amborough and hung and co-workers17 have also described fragment-based approaches to identifying
+novel chemotypes (such as compound 6, igure 2) through a designed selection of fragments with
+the potential to be -acetyllysine mimetics. his
+yielded novel hits of moderate efficiency in this proof-of-principle
+study.
+igure 2rthogonal bromodomain chemotype hits with 4 activity.erein we describe the discovery and optimization
+of a novel 
+family inhibitor chemotype from similar fragmentlike starting points
+as those of hung and co-workers.17 he
+most optimized compounds disclosed meet the criteria we defined at
+the outset of the collaboration for a chemical probe, that being β�100β€“300
+n. M activity in a biochemical assay; cell-based activity; family selectivity
+within bromodomains; and broader polypharmacological selectivity against
+a panel of kinases, G protein-coupled receptors (GPCRs), enzymes,
+and ion channels.
+</sections.0>
+
+<sections.1>
+Results and iscussion
+espite the proteinβ€“protein
+interaction nature of the histone
+and its associated bromodomain reader, the pockets for binding acetylated
+lysine within the bromodomain proteins are sufficiently deep and defined
+to potentially accommodate inhibitory small molecules with high affinity
+and efficiency.7 iven this potential,
+and the knowledge that acetylated lysine is the endogenous binding
+substrate for the pocket, we (and others)15,17 embarked on screening fragment-sized potential acetyllysine mimetics
+that may be weak, nonselective pan-bromodomain binders. uch like
+starting points for onway and co-workers15 and hung and co-workers,17 3,4-dihydro-3methyl-2(1)-quinazolinones seemed like attractive fragments to test
+this hypothesis. ommercially available 3,4-dihydro-3-methyl-2(1)-quinazolinone 7 [also identified by hung
+as a bromodomain fragment, leading to a 2(1) cocrystal deposition
+in the rotein ata ank, accession code 49]17 and its
+6-brominated equivalent 8 both proved to be active in
+a peptide displacement biochemical assay (lpha. Screen format) in the
+30β€“90 ΞΌM range against BRD4 and cyclic AMP response binding
+element binding protein (CREBBP).18 They
+were not universally active in all bromodomains screened in this format,
+with no activity seen at 200 ΞΌM in the BAZ2B and FALZ AlphaScreens.
+With sub-30 ΞΌM pharmacology found in such small molecules,
+the consequent ligand efficiencies19 of
+>0.45 made for a very promising fragment-derived starting point.
+The
+3,4-dihydro-3-methyl-2(1H)-quinazolinone screening
+lead 3 of Conway and co-workers15 (larger than conventional fragments) had the ambiguity of two potential
+binding modes as it also contained a 3,5-dimethylisoxazole at the
+6-position of the bicyclic core. This question was solved through
+their first crystal structure in BRD4(1), which also showed the unexpected
+oxidative incorporation of an ethylene glycol unit under the conditions
+of crystallization. The compound to actually cocrystallize was found
+to have the structure 4 (Figure 2). This structure showed the 3,5-dimethylisoxazole making the key
+interaction at the base of the binding pocket, accepting a hydrogen
+bond from Asn140. The 3,5-dimethylisoxazole was then optimized further
+by Conway and co-workers,15 moving away
+from the dihydroquinazolinone substructure found in the other half
+of the original screening lead 3.
+The smaller fragments 7 and 8 screened
+in our campaign (featuring only H and Br at the coreβ€™s 6-position)
+contained the cyclic urea as the only potential interaction functionality
+available to Asn140. Chronologically in our study, a crystal structure
+was first solved for 8 in CREBBP (not a BET family member).
+This was followed up by crystallizing 8 in BRD4(1) in
+a 1.63 Γ… structure, with no oxidative reactivity observed in
+the crystallization protocol. Both the CREBBP and BRD4(1) crystal
+structures for 8 showed the cyclic urea buried in the
+pocket mimicking the acetyl NH of the endogenous histone lysine. It
+also overlaid well in comparison to the BRD2(1) structure of 7 (PDB code 4A9E).17 This reconfirms that both binding
+modes screened for by Conway are indeed possible and that 3,4-dihydro-3-methyl-2(1H)-quinazolinones (6-brominated or not) are viable N-acetyl mimetics. The binding of 8 in BRD4
+(1) (Figure 3) is characterized by a lipophilic
+sandwich of the bicyclic core between residues Val87, Leu92, Leu94,
+Tyr97 and Phe83, Ile146 in the protein. The cyclic urea meets Asn140
+slightly offset with a hydrogen bond accepted by the urea carbonyl
+from the amino acid carboxamide.
+Figure 3Two views (A and C) of fragment hit 8 (B) cocrystallized
+in BRD4(1).The binding mode implication of the cyclic urea
+interaction with
+Asn140 consequently presents the coreβ€™s brominated 6-position
+in the general direction of solvent. The fragment hits 7 and 8, along with elucidation of the binding mode through
+X-ray crystallography, efficiently directed design toward replacing
+the bromine. The possibility for further productive interactions before
+reaching solvent through extending a larger substituent from the 6-position
+vector was the basis for the next round of molecular design. This
+was also expected to improve selectivity for the BET family targets,
+as greater variation in bromodomain protein structures is found away
+from the N-acetyl binding residues. Although the
+bromine atom represents a useful synthetic handle for many bond formations
+in its own right, the unoccupied regions of the BRD protein in the
+crystal structure suggested that inducing a pronounced kink in the
+6-substituent directly off the template by design may be productive.
+This was undertaken with access to a vacant lipohilic shelf (the so-called
+WPF shelf) in mind at the opening of the pocket. Sulfonamides were
+selected as a linker to explore this conformational plan. The availability
+of the 6-brominated variant of the original 3,4-dihydro-3-methyl-2(1H)-quinazolinone suggests that reactivity of the unsubstituted
+parent is directed through the 6-position during electrophilic aromatic
+substitution reactions. To explore this proposed reactivity, two templates
+were synthesized with sulfonamide hypotheses in mind. Commercially
+available 7 was reacted with chlorosulfonic acid to produce
+a 6-sulfonyl chloride template 9, and the known 6-nitro-3,4-dihydro-3-methyl-2(1H)-quinazolinone 10 was resynthesized and then
+reduced to the corresponding aniline 11 by hydrogenation.
+The 6-sulfonyl chloride 9 and the 6-amino 11 synthesized as templates are novel compounds and make for attractive
+monomers in their own right. In this program they were used as templates
+in relatively small library designs where diversity was drawn from
+the corresponding partner amine or sulfonyl chloride monomer sets,
+held within the Pfizer company collection.
+Scheme 1Synthesis of Sulfonamide
+Variants(i) ClSO3H, DCM, 0
+Β°C. (ii) R1R2NH, DCM, RT. (iii) H2SO4, KNO3, 0 Β°C. (iv) Cat. Raney Ni, H2 (1 atm), AcOH, RT. (v) R3SO2Cl, pyridine,
+DCM, RT. (vi) Cs2CO3, cat. [(Pd2(dba)3)/X-Phos], R3SO2NH2, dioxane,
+100 Β°C.The sulfonamides derived from
+the 6-sulfonylchloride template were
+profiled first. Pyrrolidine 12 and ethylamine 13 sulfonamides were 5β€“20-fold more active than the parent bromide.
+The pyrrolidine sulfonamide 12 had a respectable ligand
+efficiency of 0.38. The aniline-derived sulfonamide 14 was of similar activity, suggesting that this sulfonamide regioisomer
+was not efficiently delivering the lipophilicity into the open WPF
+shelf. Co-crystal structures of this series show alkylamine sulfonamides
+(12 and 13) adopting highly comparable conformations
+on binding, suggesting a tolerated sulfonamide replacement of the
+6-bromide from fragment hit 8 (Figure 4). The inefficiency of the anilinic sulfonamide 14 is explained by the noticeable change in the SO2 group
+conformation as a consequence of the phenyl group accommodating itself
+on the shelf. The electron density on solving the crystal structure
+also showed multiple conformations of similar occupancy for compound 14, suggesting that there was no single ideal binding mode
+for the aryl group.
+Figure 4First-generation sulfonamide cocrystal structures in BRD4(1).
+(A)
+Fragment hit 8; (B) ethylsulfonamide 12;
+(C) anilinesulfonamide 14 with change in NHSO2 conformation; (D) pyrrolidinesulfonamide 13.Reversing the sulfonamide by use of the 6-amino
+template 11 produced a series of compounds with significantly
+improved
+BRD4 activity. The abundance of readily available arylsulfonyl chlorides
+weighted design in favor of aryl substituents. These compounds showed
+a structureβ€“activity relationship (SAR) implying that they
+were consistently accessing the lipophilic shelf as targeted in the
+design hypothesis. A complementary synthesis of this type of compound
+was also possible from the bromide fragment hit 8 through
+palladium-catalyzed coupling of a primary arylsulfonamide (Scheme 1). The 10 examples (15β€“24) in Table 1 show BRD4(1) activity
+(180 nMβ€“2.3 ΞΌM) across a selection of regioisomers of
+both electron-withdrawing and -donating substituents on a phenyl ring.
+Table 1Structureβ€“Activity Relationship
+for BRD4 Activity within the SeriesaaIC50 values are expressed
+with a 95% confidence interval derived from a minimum of two determinations.Four out of five of the most active compounds are
+derived from
+ortho-substituted arylsulfonyl chlorides, although the entire structureβ€“activity
+relationship in Table 1 falls within 10-fold
+of each other for compounds 15β€“24, regardless of the aryl group used. Given the position of this group,
+now occupying the solvent-exposed WPF shelf, the key improvement in
+activity has been attained primarily through the use of the reversed
+sulfonamide linker. The binding of the now optimally orientated aryl
+group is less sensitive to substitution patterns around the ring system.
+Compound 17 (PFI-1) was selected as the nominated chemical
+probe from the series for further profiling, as it struck the best
+compromise between lipophilicity and pharmacology (Figure 5).
+Figure 5Chemical probe selected
+for profiling.A 1.52 Γ… cocrystal structure was obtained
+for 17 in BRD4(1). Details of the crystal structure have
+been deposited
+in the PDB by members of this collaboration.20 The view shown in Figure 6 reveals a right-angled
+turn in the molecule induced by the sulfonamide. The key interaction
+with Asn140 is maintained and the urea carbonyl also makes a water-bridged
+hydrogen-bond interaction with the phenolic OH of Tyr97.
+Figure 6Two views (A
+and B) of 17 (PFI-1) cocrystallized to
+1.52 Γ… in BRD4(1).The most potent example 15 (2-Cl,
+4-F) is >200-fold
+more active than the fragment hit. The ligand efficiency of the initial
+hit has been largely preserved in the series, and this indicates that
+improvements in potency have been attained through the incorporation
+of appropriately balanced lipophilicity. Beyond the expectation for
+improved potency through functionalizing the 6-position of the template,
+there was a BET family selectivity requirement for the novel series.
+The fragment hits 7 and 8 were unselective
+starting points for bromodomain selectivity with respect to CREBBP.
+This is attributed to the fact that, due to their small size, the
+fragments only occupy the region close to the conserved asparagine
+residue common to all the bromodomains and are unable to exploit binding
+site differences elsewhere within some of the more closely related
+bromodomain proteins. As one of those most closely related non-BET
+family bromodomains,7 CREBBP activity was
+assessed on the more elaborated compound 17 from the
+best sulfonamide series as a surrogate for broader bromdomain selectivity.
+Surface plasmon resonance (SPR) determined a KD of 49 ΞΌM for compound 17 in CREBBP. A Tm shift assay in CREBBP also showed a significantly
+lower melting temperature for 17 of 1.7 Β°C at 10
+ΞΌM. The BET family protein members showed Tm shifts of 2.1β€“6.5 Β°C for compound 17. Tm shifts for BAZ2B, PB1(5),
+and PCAF were less than 1 Β°C as representative members of bromodomains
+more distantly related to the BET family.21 Compound 17 is a selective chemical probe for the BET
+bromodomains.
+Having studied the activity of 17 as a representative
+member of this BET family inhibitor series in biochemical and biophysical
+assays, we further studied the compoundβ€™s credentials as a
+chemical probe for broader pharmacological selectivity, a cell-based
+inflammatory end-point assay, and rodent pharmacokinetics. The compound
+showed <50% inhibition against a panel of 15 targets made up of
+GPCRs, ion channels, and enzymes at 10 ΞΌM at Cerep and <20%
+inhibition against 50 kinases at 1 ΞΌM at Invitrogen. Cell-based
+activity was tested in an LPS challenge assay in PBMCs. Compound 17 had an EC50 of 1.89 ΞΌM (n = 6) for the inhibition of IL6 production from human blood mononuclear
+cells stimulated by LPS. Rodent pharmacokinetics for 17 were studied in both rat (1 mg/kg iv and 2 mg/kg po) and mouse (2
+mg/kg sc). After iv administration in the rat, the volume of distribution
+was 1 L/kg and the plasma clearance was 18/mLΒ·minβ€“1Β·kgβ€“1, giving a 1 h half-life. The volume
+of distribution is consistent with the physicochemical properties
+of the compound, and the clearance is in line with estimates from
+in vitro rat liver microsome (RLM) data (RLM t1/2 >120 min).22 After oral dosing
+in the rat, the oral bioavailability was low at 32%. This is inconsistent
+with the clearance and is believed to be due to suboptimal compound
+solubility in the gut. This was further supported by the oral exposure
+profile in rat, where the compound was present at a steady yet low
+concentration (within 2-fold of the 1 h Cmax concentration of 120 ng/mL), out to the last time point of the study
+(62 ng/mL at 7 h). This implies a depot of insoluble material in the
+gut after oral dosing, gradually delivering low concentrations to
+the systemic circulation over an extended time course. The compound
+was 69% plasma protein-bound. The subcutaneous mouse pharmacokinetics
+indicated exposure out to 4 h based on the 2 mg/kg dose, giving a Cmax of 58 ng/mL with a Tmax of 1 h and a half-life of approximately 2 h.
+In conclusion, 17 is a novel chemical probe for the
+BET family of bromodomain epigenetic reader proteins. With a molecular
+weight of 347, a cLogP of 1.3, and TPSA of 96, 17 has
+been optimized such that it has a low probability of polypharmacology
+and conforms to most of the guidelines on the design of druglike molecules.23 It is a small, nonlipophilic, cell-penetrant
+compound with selectivity for the BET family within the bromodomains.
+It has rodent oral bioavailability and pharmacokinetics in line with
+its neutral template and associated solubility profile. Compound 17 is structurally orthogonal to the triazolodiazepines and
+isoxazoles first discovered as selective BET family inhibitors and
+so offers a complementary molecular approach for the use of chemical
+probes in this field. It was discovered in two design cycles of less
+than 250 compounds in total, based on an efficient fragment-based
+starting point.
+</sections.1>
+
+<sections.2>
+Selected xperimental rocedures: hemistry ethods and ompound
+haracterization
+roton (1 ) and carbon (13 ) magnetic
+resonance spectra where obtained in -d6 at 400 and 100 z, respectively unless otherwise noted. he following
+abbreviations were utilized to describe peak patterns when appropriate:
+br = broad, s = singlet, d = doublet, and m = multiplet. ccurate
+mass spectrometry () analyses were conducted on an gilent 6220
+ mass spectrometer in positive or negative electrospray mode. he
+samples were separated by  on an gilent 1200 system prior to
+mass spectrometric analysis. he mass accuracy was calculated for
+all observed isotopes against the theoretical mass ions derived from
+the chemical formula by use of ass. Hunter software. All air- and moisture-sensitive
+reactions were carried out under an atmosphere of dry nitrogen with
+heat-dried glassware and standard syringe techniques. Tetrahydrofuran
+(THF) and acetonitrile were purchased from EMD anhydrous and were
+used without further drying. Flash chromatography was performed on
+an Analogix Intelliflash 280 with Sepra Si 50 silica gel with ethyl
+acetate/heptane mixtures as solvent unless otherwise indicated. Certain
+compounds from the examples described were purified on reversed-phase
+via automated preparative high-performance liquid chromatography (HPLC)
+on a Gilson GX281, Shimadzu CL-2010C, or Agilent 1200 system on an
+Agella Venusil ASB C18 column. Detection was achieved by use of a
+Shimadzu SPD-20AV or Waters 2998 PDA wavelength absorbance detector
+set at 220 or 200 nm, followed in series by a Shimadzu MS2010EV or
+Waters 3100 mass spectrometer. Quality control (QC) for purity analysis
+was performed by HPLC-MS on a Shimadzu with XB-C18, X-Bridge, Gemini
+NX C18, or Gemini NX C18 columns. Detection was achieved by use of
+a Shimadzu 10A detector set at 220 or 260 nm, followed in series by
+a Shimadzu MS2010EV or Applied Biosystems API 2000 mass spectrometer
+in parallel. Compound purity was >95% other than intermediate 9 (91%) which, as a reactive sulfonyl chloride, was used satisfactorily
+with no further chromatographic purification.
+6-Amino-3-methyl-3,4-dihydroquinazolin-2(1H)-one (11)To a solution of 3-methyl-6-nitro-3,4-dihydroquinazolin-2(1H)-one (5.00g, 24.13 mmol, 1.0 equiv) in acetic acid (50
+mL) was added Raney nickel (500 mg), and the reaction mixture was
+stirred at room temperature under H2 balloon (1 atm) for
+16 h. After completion of the reaction [via thin-layer chromatography
+(TLC) with 10% MeOH in dichloromethane (DCM)], the reaction mixture
+was filtered through a Celite pad and evaporated to provided the crude
+product. The crude material was purified by titration with ethyl acetate
+to provide the desired material as a brown solid, which was an acetic
+acid salt (4.1 g, 72%). 1H NMR (400 MHz, DMSO-d6) Ξ΄ 2.83 (s, 3H), 4.23 (s, 2H), 6.29 (s, 1H), 6.35
+(d, J = 8.36 Hz, 1H), 6.47 (d, J = 8.36 Hz, 1H), 8.73 (s, 1H); 13C NMR (DMSO-d6) Ξ΄ 33.7, 50.1, 110.7, 113.6, 113.9, 118.2, 127.6,
+142.8, 153.9; HRMS [M + H] for C9H11N3O, calcd 178.0975, found 178.0977; LCMS [M + H] = 178, 99% (t = 1.33 min).2-Methoxy-N-(3-methyl-2-oxo-1,2,3,4-tetrahydroquinazolin-6-yl)benzenesulfonamide
+(17)24To a stirred
+suspension of 6-amino-3-methyl-3,4-dihydroquinazolin-2(1H)-one (11) (100 mg, 0.421 mmol, 1.0 equiv) in dichloromethane
+(10 mL) was added pyridine (0.20 mL, 2.48 mmol, 5.9 equiv), followed
+by 2-methoxybenzene-1-sulfonyl chloride (130 mg, 0.631 mmol, 1.5 equiv).
+After 2 h, the solvent was evaporated and the residue was partitioned
+between ethyl acetate and aqueous 2 M HCl. The organic layer was collected,
+washed with water and brine, dried over magnesium sulfate, filtered,
+and concentrated to a residue. The residue was dissolved in dimethyl
+sulfoxide (DMSO, β�Ό1 mL) and purified by automated HPLC to provided
+the desired material (50 mg, 34%). 1H NMR (400 MHz, DMSO-d6) Ξ΄ 2.78 (s, 3H), 3.91 (s, 3H), 4.25
+(s, 2H), 6.59 (d, J = 9.16 Hz, 1H), 6.79β€“6.81
+(m, 2H), 6.97 (t, J = 7.5 Hz, 1H), 7.14 (d, J = 8.2 Hz, 1H), 7.52β€“7.56 (m, 1H), 7.68 (dd, J = 1.4, 7.8 Hz, 1H), 9.09 (s, 1H), 9.64 (s, 1H); HRMS [M
++ H] for C16H18N3O4S,
+calcd 348.1013, found 348.1019; LCMS [M + H] = 384.1, >99% (t = 1.23 min).
+</sections.2>
+
+</text>

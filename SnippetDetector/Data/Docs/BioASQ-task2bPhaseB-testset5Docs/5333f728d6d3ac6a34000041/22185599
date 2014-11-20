@@ -1,0 +1,11 @@
+<title>
+Which clustering algorithm is better for predicting protein complexes?
+</title>
+
+<text>
+
+<abstract>
+BACKGROUND: Protein-Protein interactions (PPI) play a key role in determining the outcome of most cellular processes. The correct identification and characterization of protein interactions and the networks, which they comprise, is critical for understanding the molecular mechanisms within the cell. Large-scale techniques such as pull down assays and tandem affinity purification are used in order to detect protein interactions in an organism. Today, relatively new high-throughput methods like yeast two hybrid, mass spectrometry, microarrays, and phage display are also used to reveal protein interaction networks. RESULTS: In this paper we evaluated four different clustering algorithms using six different interaction datasets. We parameterized the MCL, Spectral, RNSC and Affinity Propagation algorithms and applied them to six PPI datasets produced experimentally by Yeast 2 Hybrid (Y2H) and Tandem Affinity Purification (TAP) methods. The predicted clusters, so called protein complexes, were then compared and benchmarked with already known complexes stored in published databases. CONCLUSIONS: While results may differ upon parameterization, the MCL and RNSC algorithms seem to be more promising and more accurate at predicting PPI complexes. Moreover, they predict more complexes than other reviewed algorithms in absolute numbers. On the other hand the spectral clustering algorithm achieves the highest valid prediction rate in our experiments. However, it is nearly always outperformed by both RNSC and MCL in terms of the geometrical accuracy while it generates the fewest valid clusters than any other reviewed algorithm. This article demonstrates various metrics to evaluate the accuracy of such predictions as they are presented in the text below. Supplementary material can be found at: http://www.bioacademy.gr/bioinformatics/projects/ppireview.htm.
+</abstract>
+
+</text>
